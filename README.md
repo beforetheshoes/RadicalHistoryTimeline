@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Radical History Timeline
 
-## Getting Started
+An interactive timeline of dated events drawn from books of anarchist, labor, and radical history.
 
-First, run the development server:
+**Live site**: https://beforetheshoes.github.io/RadicalHistoryTimeline/
+
+Each event is anchored to a verbatim quote from its source book with full chapter and page citation. The app offers several views of the same dataset:
+
+- **Horizontal timeline** — every book's events along a shared, non-linearly-scaled calendar
+- **Pulse-time map** — a year cursor that lights events where (and when) they happened
+- **Vertical cards** — the traditional reading view
+- **Tag lenses** — isolate a thread (*The Rise of Fascism*, *Anti-Fascism*, *Kurdish Liberation*) and watch it cross books, decades, and continents. Lens state is URL-shareable.
+- **Meanwhile** — every event drawer surfaces what else was unfolding within ±5 years elsewhere in the world.
+
+AI was used to pull events from each book; quotes are verbatim.
+
+## Local development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Build & static export
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The site is statically exported and deployed to GitHub Pages on every push to `main`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build      # produces out/
+```
 
-## Learn More
+`prebuild` runs `scripts/build-index.ts`, which mines the storytelling layer:
 
-To learn more about Next.js, take a look at the following resources:
+- normalizes the tag vocabulary
+- resolves locations against a hand-curated gazetteer + lat/lon table
+- mines tag-anchored, person-thread, and concurrency-year clusters
+- renders a static Equal Earth world map (177 country paths)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Outputs land in `public/data/derived/`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Project layout
 
-## Deploy on Vercel
+```
+app/                       # Next.js routes
+components/                # Timeline, EraTimeline, MapView, LensPanel, …
+lib/                       # types, lens, storytelling, derived, events
+scripts/build-index.ts     # build-time miner
+data/                      # authoring inputs (gazetteer, tag aliases, hierarchy)
+public/data/               # event JSONs (one per book) + derived/ artifacts
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js 16 (App Router, static export) · React 19 · Tailwind 4 · TypeScript · d3-geo (build-time only).

@@ -1,65 +1,70 @@
-import Image from "next/image";
+import { Suspense } from "react";
+import Link from "next/link";
+import Timeline from "@/components/Timeline";
+import { getAllEvents, getBooks } from "@/lib/events";
+import { getDerived } from "@/lib/derived";
 
-export default function Home() {
+function formatYear(year: number): string {
+  if (year < 0) return `${Math.abs(year).toLocaleString()} BCE`;
+  return year.toString();
+}
+
+export default async function Home() {
+  const [events, books, derived] = await Promise.all([
+    getAllEvents(),
+    getBooks(),
+    getDerived(),
+  ]);
+
+  const years = events.map((e) => e.date.year);
+  const earliest = Math.min(...years);
+  const latest = Math.max(...years);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <>
+      <section className="border-b border-rule">
+        <div className="max-w-7xl mx-auto px-6 py-5 flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
+          <p className="font-sans text-xs text-ink-soft">
+            <strong className="text-ink font-serif text-base">
+              {events.length.toLocaleString()}
+            </strong>{" "}
+            events ·{" "}
+            <strong className="text-ink font-serif text-base">
+              {books.length}
+            </strong>{" "}
+            books ·{" "}
+            <span className="tabular-nums">
+              {formatYear(earliest)} → {formatYear(latest)}
+            </span>
+            {" — "}
+            <Link href="/about" className="text-accent hover:underline">
+              what is this?
+            </Link>
+          </p>
+          <p className="font-sans text-[11px] text-ink-soft/80">
+            Click a tag to filter · drag the map cursor to scrub time · share
+            any view by URL
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+        <div className="max-w-7xl mx-auto px-6 pb-3">
+          <p className="inline-flex items-center gap-1.5 font-sans text-[11px] text-ink-soft border border-rule rounded-full px-2.5 py-1 bg-paper-dark/40">
+            <span
+              aria-hidden
+              className="inline-block w-1.5 h-1.5 rounded-full bg-accent"
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            AI was used to pull events from each book and assemble this
+            timeline. Quotes are verbatim;{" "}
+            <Link href="/about" className="underline hover:text-ink">
+              read more
+            </Link>
+            .
+          </p>
         </div>
-      </main>
-    </div>
+      </section>
+
+      <Suspense fallback={null}>
+        <Timeline events={events} books={books} derived={derived} />
+      </Suspense>
+    </>
   );
 }

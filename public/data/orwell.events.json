@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "orwell-ch017-008",
+    "book": "orwell",
+    "date": {
+      "year": 1934,
+      "precision": "year"
+    },
+    "displayDate": "1934",
+    "title": "POUM leaders involved in the 1934 revolt in Spain",
+    "summary": "Several POUM leaders had revolutionary histories that included involvement in the 1934 Spanish revolt, undermining Communist charges that the POUM was a Fascist organization.",
+    "category": "uprising",
+    "location": "Spain",
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "1934-revolt"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 48,
+      "quote": "All the POUM leaders had revolutionary histories behind them. Some of them had been mixed up in the 1934 revolt, and most of them had been imprisoned for Socialist activities under the Lerroux Government or the monarchy."
+    }
+  },
+  {
+    "id": "orwell-ch008-004",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "precision": "year"
+    },
+    "displayDate": "1936",
+    "title": "Government troops storm Mount Aragón fortress",
+    "summary": "Republican government forces captured the medieval fortress of Mount Aragón, which guarded an approach to Huesca, reportedly for the first time in the fortress's history.",
+    "category": "battle",
+    "location": "Mount Aragón, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragon-front",
+      "republican-army",
+      "fortress"
+    ],
+    "citation": {
+      "chapter": "Chapter V",
+      "chapterIndex": 8,
+      "paragraphIndex": 22,
+      "quote": "Mount Aragón, the medieval fortress which the Government troops had stormed last year (the first time in its history, it was said), and which guarded one of the approaches to Huesca, there was a heavy gun which must have dated well back into the nineteenth century."
+    }
+  },
+  {
+    "id": "orwell-ch017-009",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "precision": "year"
+    },
+    "displayDate": "1936",
+    "title": "Joaquín Maurín warns the Cortes of Franco's impending revolt",
+    "summary": "In 1936 Joaquín Maurín, then leader of the POUM, was one of the deputies who gave warning in the Spanish Cortes of Franco's impending revolt, further contradicting the Communist charge that the POUM was in Fascist pay.",
+    "category": "speech",
+    "location": "Spain",
+    "people": [
+      "Joaquín Maurín"
+    ],
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "franco",
+      "cortes"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 48,
+      "quote": "In 1936 its then leader, Joaquín Maurín, was one of the deputies who gave warning in the Cortes of Franco's impending revolt."
+    }
+  },
+  {
+    "id": "orwell-ch016-001",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 7,
+      "day": 18,
+      "precision": "day"
+    },
+    "displayDate": "July 18, 1936",
+    "title": "Spanish Civil War fighting breaks out",
+    "summary": "Armed fighting erupts in Spain on 18 July 1936, prompting anti-Fascists across Europe to see it as democracy finally standing up to Fascism after years of appeasement.",
+    "category": "uprising",
+    "location": "Spain",
+    "tags": [
+      "spanish-civil-war",
+      "anti-fascism",
+      "franco"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 4,
+      "quote": "When the fighting broke out on 18 July it is probable that every anti-Fascist in Europe felt a thrill of hope. For here at last, apparently, was democracy standing up to Fascism."
+    }
+  },
+  {
+    "id": "orwell-ch007-001",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 8,
+      "precision": "month"
+    },
+    "displayDate": "August 1936",
+    "title": "Government troops begin long siege of Saragossa",
+    "summary": "Republican militia forces took up positions outside Saragossa in August 1936 and were still holding the same line when Orwell arrived, having made no advance on the city.",
+    "category": "battle",
+    "location": "Saragossa, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "aragón-front",
+      "siege"
+    ],
+    "citation": {
+      "chapter": "Chapter IV",
+      "chapterIndex": 7,
+      "paragraphIndex": 2,
+      "quote": "The Government troops had gazed at it from that distance since August 1936, and they are gazing at it still."
+    }
+  },
+  {
+    "id": "orwell-ch016-002",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 8,
+      "day": 6,
+      "precision": "day"
+    },
+    "displayDate": "August 6, 1936",
+    "title": "Daily Worker attacks those claiming Spain is fighting for social revolution",
+    "summary": "The Daily Worker declared that those who said the Spanish people were fighting for social revolution, rather than bourgeois democracy, were 'downright lying scoundrels'.",
+    "category": "publication",
+    "tags": [
+      "spanish-civil-war",
+      "communist-party",
+      "press",
+      "daily-worker"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 8,
+      "quote": "According to the Daily Worker (6 August 1936) those who said that the Spanish people were fighting for social revolution, or for anything other than bourgeois democracy, were 'downright lying scoundrels'."
+    }
+  },
+  {
+    "id": "orwell-ch005-001",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October 1936",
+    "title": "Anarchists capture Siétamo after three engagements",
+    "summary": "The town of Siétamo, on the Aragon front, changed hands multiple times before Anarchist militia forces finally took it in October 1936. Shell-fire and rifle-fire left parts of the town in ruins.",
+    "category": "battle",
+    "location": "Siétamo, Aragon",
+    "tags": [
+      "spanish-civil-war",
+      "aragon-front",
+      "anarchist-militia",
+      "poum"
+    ],
+    "citation": {
+      "chapter": "Chapter II",
+      "chapterIndex": 5,
+      "paragraphIndex": 2,
+      "quote": "Siétamo had been fought over three times before the Anarchists finally took it in October, and parts of it were smashed to pieces by shell-fire and most of the houses pock-marked by rifle-bullets."
+    }
+  },
+  {
+    "id": "orwell-ch006-004",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October 1936",
+    "title": "Savage fighting for hilltop positions around Saragossa",
+    "summary": "Around October 1936 there was fierce fighting for the hilltops near Saragossa on the Aragón front. After this, both armies dug in on the positions they had won, stalling the front for months.",
+    "category": "battle",
+    "location": "Saragossa front, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "saragossa",
+      "battle",
+      "trench-warfare"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 4,
+      "quote": "Earlier, about October, there had been savage fighting for all these hills; then, because the lack of men and arms, especially artillery, made any large-scale operation impossible, each army had dug itself in and settled down on the hill-tops it had won."
+    }
+  },
+  {
+    "id": "orwell-ch013-002",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October 1936",
+    "title": "Bob Smillie arrives in Spain",
+    "summary": "Bob Smillie arrived in Spain in October 1936 and worked for several months at the POUM office before joining the militia when other ILP members arrived.",
+    "category": "migration",
+    "location": "Spain",
+    "people": [
+      "Bob Smillie"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "ilp",
+      "militia"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 6,
+      "quote": "Smillie had been in Spain since the previous October. He had worked for several months at the POUM office and had then joined the militia when the other ILP members arrived, on the understanding that he was to do three months at the front before going back to England to take part in a propaganda tour."
+    }
+  },
+  {
+    "id": "orwell-ch014-009",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October 1936",
+    "title": "Georges Kopp joins the POUM militia and enters the front line",
+    "summary": "Georges Kopp had been serving on the front line since October 1936, having left Belgium and enlisted in the POUM militia despite facing legal consequences at home. By the time of his arrest in June 1937 he had risen from militiaman to major.",
+    "category": "biography",
+    "location": "Aragón front, Spain",
+    "people": [
+      "Georges Kopp"
+    ],
+    "tags": [
+      "poum",
+      "militia",
+      "foreign-volunteers",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 35,
+      "quote": "He had been in the line since October 1936, had worked his way up from militiaman to major, had been in action I do not know how many times, and had been wounded once."
+    }
+  },
+  {
+    "id": "orwell-ch016-003",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October–November 1936",
+    "title": "USSR begins supplying arms to the Spanish Republic, shifting power from Anarchists to Communists",
+    "summary": "From around October–November 1936, the USSR began supplying arms to the Spanish Government, allowing the Communists to dictate terms and triggering a general swing to the Right as power passed from the Anarchists.",
+    "category": "other",
+    "location": "Spain",
+    "tags": [
+      "spanish-civil-war",
+      "ussr",
+      "communists",
+      "anarchists",
+      "arms-supply"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 10,
+      "quote": "The general swing to the Right dates from about October–November 1936, when the USSR began to supply arms to the Government and power began to pass from the Anarchists to the Communists."
+    }
+  },
+  {
+    "id": "orwell-ch004-001",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 12,
+      "precision": "month"
+    },
+    "displayDate": "Late December 1936",
+    "title": "Orwell arrives in Barcelona and joins the POUM militia",
+    "summary": "George Orwell arrived in Barcelona intending to write newspaper articles but almost immediately enlisted in the POUM militia, drawn in by the revolutionary atmosphere of the city under Anarchist control.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "poum",
+      "militia",
+      "spanish-civil-war",
+      "barcelona",
+      "anarchism"
+    ],
+    "citation": {
+      "chapter": "Chapter I",
+      "chapterIndex": 4,
+      "paragraphIndex": 8,
+      "quote": "This was in late December, 1936, less than seven months ago as I write, and yet it is a period that has already receded into enormous distance. Later events have obliterated it much more completely than they have obliterated 1935, or 1905, for that matter. I had come to Spain with some notion of writing newspaper articles, but I had joined the militia almost immediately, because at that time and in that atmosphere it seemed the only conceivable thing to do."
+    }
+  },
+  {
+    "id": "orwell-ch004-002",
+    "book": "orwell",
+    "date": {
+      "year": 1936,
+      "month": 12,
+      "precision": "month"
+    },
+    "displayDate": "Late December 1936",
+    "title": "POUM militia column departs Lenin Barracks for the Aragón front",
+    "summary": "After about a week of training at the Lenin Barracks in Barcelona, Orwell's POUM militia centuria was ordered to the front at two hours' notice and marched through the Ramblas before boarding a train to Aragón.",
+    "category": "battle",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "poum",
+      "militia",
+      "spanish-civil-war",
+      "aragon",
+      "barcelona"
+    ],
+    "citation": {
+      "chapter": "Chapter I",
+      "chapterIndex": 4,
+      "paragraphIndex": 8,
+      "quote": "This was in late December, 1936, less than seven months ago as I write, and yet it is a period that has already receded into enormous distance."
+    }
+  },
+  {
+    "id": "orwell-ch006-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "precision": "circa"
+    },
+    "displayDate": "Early 1937",
+    "title": "Spanish Popular Army raised as non-political force",
+    "summary": "At the beginning of 1937 the Spanish Republic raised the Popular Army, a non-political force organized along conventional military lines, to eventually replace the party militias on the fronts.",
+    "category": "founding",
+    "location": "Spain",
+    "tags": [
+      "spanish-civil-war",
+      "popular-army",
+      "militia",
+      "republican"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 7,
+      "quote": "When the Popular Army, which was a 'non-political' army organized on more or less ordinary lines, was raised at the beginning of 1937, the party militias were theoretically incorporated in it."
+    }
+  },
+  {
+    "id": "orwell-ch015-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "precision": "year"
+    },
+    "displayDate": "1937",
+    "title": "Paris International Exposition in full swing",
+    "summary": "When Orwell passed through Paris after leaving Spain in mid-1937, the Paris International Exposition was in full swing, though he and his companions managed to avoid visiting it.",
+    "category": "other",
+    "location": "Paris, France",
+    "tags": [
+      "paris",
+      "exposition",
+      "france",
+      "1937"
+    ],
+    "citation": {
+      "chapter": "Chapter XII",
+      "chapterIndex": 15,
+      "paragraphIndex": 34,
+      "quote": "And the Exhibition was in full swing, though we managed to avoid visiting it."
+    }
+  },
+  {
+    "id": "orwell-ch006-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 1,
+      "precision": "month"
+    },
+    "displayDate": "January 1937",
+    "title": "Orwell arrives on the Aragón front",
+    "summary": "George Orwell joins the POUM militia on the Aragón front in January 1937, where he serves until May. The front near Saragossa is largely static, with both sides dug into hilltop positions.",
+    "category": "other",
+    "location": "Aragón front, Spain",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "aragón-front",
+      "militia"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 2,
+      "quote": "I was on the Aragón front from January to May, and between January and late March little or nothing happened on that front, except at Teruel."
+    }
+  },
+  {
+    "id": "orwell-ch007-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "February 1937",
+    "title": "Fascist aeroplane drops newspapers announcing fall of Málaga",
+    "summary": "A Fascist aircraft flew over POUM positions on the Aragón front and dropped copies of the Heraldo de Aragón reporting the fall of Málaga, delivering the news as a propaganda drop.",
+    "category": "other",
+    "location": "Monte Trazo, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "propaganda",
+      "málaga",
+      "aragón-front"
+    ],
+    "citation": {
+      "chapter": "Chapter IV",
+      "chapterIndex": 7,
+      "paragraphIndex": 9,
+      "quote": "One day in February we saw a Fascist aeroplane approaching... out of it came tumbling not bombs but white glittering things that turned over and over in the air... They were copies of a Fascist newspaper, the Heraldo de Aragón, announcing the fall of Málaga."
+    }
+  },
+  {
+    "id": "orwell-ch007-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "February 1937",
+    "title": "Fascist abortive attack on POUM position to celebrate fall of Málaga",
+    "summary": "On the night of the propaganda drop, Fascist forces opened heavy machine-gun fire on Orwell's position at Monte Trazo — not a genuine assault, but a celebratory demonstration marking Málaga's fall.",
+    "category": "battle",
+    "location": "Monte Trazo, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "málaga",
+      "night-attack"
+    ],
+    "citation": {
+      "chapter": "Chapter IV",
+      "chapterIndex": 7,
+      "paragraphIndex": 10,
+      "quote": "That night the Fascists made a sort of abortive attack. I was just getting down into kip, half dead with sleep, when there was a heavy stream of bullets overhead and someone shouted into the dug-out: 'They're attacking!'"
+    }
+  },
+  {
+    "id": "orwell-ch007-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "February 1937",
+    "title": "Press falsely reports heroic English repulse of cavalry and tank attack",
+    "summary": "A day or two after the Fascist demonstration, newspapers and radio broadcast wildly exaggerated accounts of a cavalry and tank assault on the POUM positions, which had been repelled by the heroic English — an account Orwell regarded as entirely fabricated.",
+    "category": "publication",
+    "location": "Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "press",
+      "propaganda",
+      "aragonfront",
+      "fake-news"
+    ],
+    "citation": {
+      "chapter": "Chapter IV",
+      "chapterIndex": 7,
+      "paragraphIndex": 11,
+      "quote": "A day or two later the newspapers and the radio published reports of a tremendous attack with cavalry and tanks (up a perpendicular hill-side!) which had been beaten off by the heroic English."
+    }
+  },
+  {
+    "id": "orwell-ch007-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "Mid-February 1937",
+    "title": "POUM troops leave Monte Trazo to join the siege of Huesca",
+    "summary": "In mid-February 1937, Orwell and all POUM forces in the sector were transported fifty miles to take part in the army besieging Huesca, shifting the front from Monte Trazo to the outskirts of that city.",
+    "category": "other",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "huesca",
+      "aragón-front",
+      "troop-movement"
+    ],
+    "citation": {
+      "chapter": "Chapter IV",
+      "chapterIndex": 7,
+      "paragraphIndex": 13,
+      "quote": "In mid-February we left Monte Trazo and were sent, together with all the POUM troops in this sector, to make a part of the army besieging Huesca."
+    }
+  },
+  {
+    "id": "orwell-ch011-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "February 1937",
+    "title": "Militias theoretically incorporated into Popular Army; POUM Lenin Division renamed 29th Division",
+    "summary": "Since February 1937 all armed forces in Spain were nominally merged into the Popular Army on paper, with the POUM's Lenin Division redesignated the 29th Division, though little changed in practice on the Aragón front until June.",
+    "category": "other",
+    "location": "Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "militia",
+      "popular-army",
+      "poum",
+      "reorganization",
+      "aragon-front"
+    ],
+    "citation": {
+      "chapter": "Chapter VIII",
+      "chapterIndex": 11,
+      "paragraphIndex": 7,
+      "quote": "Since February the entire armed forces had theoretically been incorporated in the Popular Army, and the militias were, on paper, reconstructed along Popular Army lines, with differential pay-rates, gazetted rank, etc. etc. The POUM troops, for instance, previously called the Lenin Division, were now known as the 29th Division."
+    }
+  },
+  {
+    "id": "orwell-ch016-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 2,
+      "precision": "month"
+    },
+    "displayDate": "February 1937",
+    "title": "Juan López declares Spanish people are fighting for revolution, not democracy",
+    "summary": "Juan López, a member of the Valencia Government, publicly declared in February 1937 that the Spanish people were shedding their blood not for the democratic Republic but for a revolution.",
+    "category": "speech",
+    "location": "Valencia, Spain",
+    "people": [
+      "Juan López"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "revolution",
+      "valencia-government"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 8,
+      "quote": "On the other hand, Juan López, a member of the Valencia Government, declared in February 1937 that 'the Spanish people are shedding their blood, not for the democratic Republic and its paper Constitution, but for…a revolution.'"
+    }
+  },
+  {
+    "id": "orwell-ch006-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 3,
+      "precision": "month"
+    },
+    "displayDate": "March 1937",
+    "title": "Heavy fighting around Huesca",
+    "summary": "In March 1937 there was heavy fighting around Huesca on the Aragón front, though Orwell personally played only a minor part in it.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "huesca",
+      "battle"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 2,
+      "quote": "In March there was heavy fighting round Huesca, but I personally played only a minor part in it."
+    }
+  },
+  {
+    "id": "orwell-ch006-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 3,
+      "precision": "month"
+    },
+    "displayDate": "Late March 1937",
+    "title": "First effective grenades appear at the front",
+    "summary": "Until late March 1937 the POUM militia were equipped only with primitive and dangerous bombs; it was not until late March that Orwell first saw a grenade he considered worth throwing.",
+    "category": "other",
+    "location": "Aragón front, Spain",
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "militia",
+      "weapons",
+      "poum"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 17,
+      "quote": "It was not till late March that I saw a bomb worth throwing."
+    }
+  },
+  {
+    "id": "orwell-ch008-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 3,
+      "precision": "month"
+    },
+    "displayDate": "Late March 1937",
+    "title": "Orwell wounded and hospitalized at Monflorite",
+    "summary": "Orwell suffered a poisoned hand that required lancing and a sling, sending him to the casualty clearing station at Monflorite for ten days. During the stay, hospital workers stole his camera and photographs.",
+    "category": "other",
+    "location": "Monflorite, Aragón",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "wound",
+      "hospital",
+      "poum",
+      "aragon-front"
+    ],
+    "citation": {
+      "chapter": "Chapter V",
+      "chapterIndex": 8,
+      "paragraphIndex": 9,
+      "quote": "Towards the end of March I got a poisoned hand that had to be lanced and put in a sling. I had to go into hospital, but it was not worth sending me to Siétamo for such a petty injury, so I stayed in the so-called hospital at Monflorite, which was merely a casualty clearing station. I was there ten days, part of the time in bed."
+    }
+  },
+  {
+    "id": "orwell-ch013-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 3,
+      "precision": "month"
+    },
+    "displayDate": "March 1937",
+    "title": "Italian International Column wins victory at Guadalajara",
+    "summary": "Italian troops serving in the International Column won a major victory at Guadalajara in March 1937, before being transferred to the Aragón front, where most were subsequently killed at Huesca.",
+    "category": "battle",
+    "location": "Guadalajara, Spain",
+    "tags": [
+      "spanish-civil-war",
+      "international-column",
+      "guadalajara",
+      "italy"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 23,
+      "quote": "We heard afterwards that these were some of the troops who won the great victory at Guadalajara in March; they had been on leave and were being transferred to the Aragón front."
+    }
+  },
+  {
+    "id": "orwell-ch008-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "precision": "month"
+    },
+    "displayDate": "April 1937",
+    "title": "POUM militia advances the line east of Huesca",
+    "summary": "On Orwell's return from hospital in April, the POUM militia advanced their line roughly a thousand yards forward to a stream near the Fascist positions. Six hundred men dug 1,200 metres of trench in one night in near-total silence.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "poum",
+      "aragon-front",
+      "trench-warfare",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter V",
+      "chapterIndex": 8,
+      "paragraphIndex": 16,
+      "quote": "In seven hours six hundred men constructed twelve hundred metres of trench and parapet, at distances of from a hundred and fifty to three hundred yards from the Fascist line, and all so silently that the Fascists heard nothing, and during the night there was only one casualty. Though this was April it was the coldest night that I remember in Spain."
+    }
+  },
+  {
+    "id": "orwell-ch008-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "precision": "month"
+    },
+    "displayDate": "April 1937",
+    "title": "Anarchist attacks on the Jaca road near Huesca",
+    "summary": "Anarchist forces launched a series of attacks on the Jaca road west of Huesca in April 1937. The POUM militia conducted holding attacks on the eastern side to force the Fascists to divert troops.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "anarchists",
+      "cnt-fai",
+      "aragon-front",
+      "spanish-civil-war",
+      "jaca-road"
+    ],
+    "citation": {
+      "chapter": "Chapter V",
+      "chapterIndex": 8,
+      "paragraphIndex": 15,
+      "quote": "The point of doing it now was that the Anarchists were attacking on the Jaca road, and to advance on this side made them divert troops to face us."
+    }
+  },
+  {
+    "id": "orwell-ch011-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "precision": "month"
+    },
+    "displayDate": "End of April 1937",
+    "title": "Roldán Cortada, prominent UGT member, murdered in Barcelona",
+    "summary": "At the end of April 1937, Roldán Cortada, a prominent member of the UGT, was murdered, presumably by someone in the CNT, intensifying the political tension between the two union federations.",
+    "category": "assassination",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Roldán Cortada"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "ugt",
+      "cnt",
+      "barcelona",
+      "political-violence"
+    ],
+    "citation": {
+      "chapter": "Chapter VIII",
+      "chapterIndex": 11,
+      "paragraphIndex": 11,
+      "quote": "At the end of April, just after I got to Barcelona, Roldán Cortada, a prominent member of the UGT, was murdered, presumably by someone in the CNT."
+    }
+  },
+  {
+    "id": "orwell-ch011-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "precision": "month"
+    },
+    "displayDate": "End of April 1937",
+    "title": "Government stages massive funeral procession for Roldán Cortada in Barcelona",
+    "summary": "Following Cortada's murder, the Government ordered all shops to close and staged an enormous funeral procession composed largely of Popular Army troops, which took two hours to pass a given point — widely seen as a show of political strength.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Roldán Cortada"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "ugt",
+      "barcelona",
+      "popular-army",
+      "political-demonstration"
+    ],
+    "citation": {
+      "chapter": "Chapter VIII",
+      "chapterIndex": 11,
+      "paragraphIndex": 11,
+      "quote": "The Government ordered all shops to close and staged an enormous funeral procession, largely of Popular Army troops, which took two hours to pass a given point. From the hotel window I watched it without enthusiasm. It was obvious that the so-called funeral was merely a display of strength."
+    }
+  },
+  {
+    "id": "orwell-ch012-012",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "precision": "circa"
+    },
+    "displayDate": "circa April 1937",
+    "title": "Douglas Thompson wounded at the Aragón front",
+    "summary": "Around the beginning of April 1937, fellow militiaman Douglas Thompson was wounded at the front and subsequently treated at Tarragona hospital before being sent back to Barcelona around the start of the May fighting.",
+    "category": "battle",
+    "location": "Aragón front, Spain",
+    "people": [
+      "Douglas Thompson"
+    ],
+    "tags": [
+      "aragon-front",
+      "wounded",
+      "poum-militia"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 45,
+      "quote": "I mentioned earlier that Douglas Thompson was wounded about the beginning of April. Afterwards we had lost touch with him, as usually happened when a man was wounded, for wounded men were frequently moved from one hospital to another. Actually he was at Tarragona hospital and was sent back to Barcelona about the time when the fighting started."
+    }
+  },
+  {
+    "id": "orwell-ch010-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 4,
+      "day": 25,
+      "precision": "day"
+    },
+    "displayDate": "April 25, 1937",
+    "title": "Orwell's section relieved and departs for Barcelona",
+    "summary": "On 25 April another section relieved Orwell's unit at the front; they handed over their rifles and marched back to Monflorite, catching a train and arriving in Barcelona by the afternoon of the 26th.",
+    "category": "other",
+    "location": "Monflorite, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragon-front",
+      "barcelona",
+      "orwell"
+    ],
+    "citation": {
+      "chapter": "Chapter VII",
+      "chapterIndex": 10,
+      "paragraphIndex": 13,
+      "quote": "On 25 April, after the usual mañanas, another section relieved us and we handed over our rifles, packed our kits and marched back to Monflorite."
+    }
+  },
+  {
+    "id": "orwell-ch013-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "precision": "month"
+    },
+    "displayDate": "May 1937",
+    "title": "Caballero Government falls, replaced by more right-wing government",
+    "summary": "The Largo Caballero government collapsed and was succeeded by a more right-wing cabinet with stronger Communist influence, as Orwell had predicted would happen within weeks.",
+    "category": "other",
+    "location": "Spain",
+    "people": [
+      "Caballero"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "government",
+      "popular-front",
+      "communism"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 2,
+      "quote": "It was easy to see that the Caballero Government would fall and be replaced by a more Right-wing Government with a stronger Communist influence (this happened a week or two later), which would set itself to break the power of the trade unions once and for all."
+    }
+  },
+  {
+    "id": "orwell-ch013-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "precision": "month"
+    },
+    "displayDate": "May 1937",
+    "title": "Bob Smillie arrested at the Spanish frontier",
+    "summary": "Bob Smillie was arrested at the frontier while attempting to return to England, taken to Valencia, and imprisoned on a pretext of carrying arms. Orwell believed the real reason was his connection to the POUM in the aftermath of the Barcelona fighting.",
+    "category": "arrest",
+    "location": "Valencia, Spain",
+    "people": [
+      "Bob Smillie"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "repression",
+      "ilp",
+      "barcelona-may-days"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 6,
+      "quote": "We had just reached the front when we heard that Bob Smillie, on his way back to England, had been arrested at the frontier, taken down to Valencia and thrown into jail."
+    }
+  },
+  {
+    "id": "orwell-ch013-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "precision": "month"
+    },
+    "displayDate": "May 1937",
+    "title": "Orwell shot by Fascist sniper at Huesca",
+    "summary": "Orwell was shot through the throat by a Fascist sniper at the corner of the parapet at five o'clock in the morning, about ten days after returning to the front following the Barcelona fighting.",
+    "category": "other",
+    "location": "Huesca, Aragón",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "militia",
+      "sniper",
+      "wound",
+      "aragón-front"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 9,
+      "quote": "I had been about ten days at the front when it happened. The whole experience of being hit by a bullet is very interesting and I think it is worth describing in detail."
+    }
+  },
+  {
+    "id": "orwell-ch016-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "precision": "month"
+    },
+    "displayDate": "May 1937",
+    "title": "POUM joins the Barcelona street fighting alongside the CNT",
+    "summary": "In May 1937 the POUM joined in the disastrous street fighting in Barcelona, acting mainly from an instinct to stand by the CNT.",
+    "category": "battle",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "barcelona-may-days",
+      "poum",
+      "cnt",
+      "street-fighting"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 17,
+      "quote": "When the POUM joined in the disastrous fighting in Barcelona in May, it was mainly from an instinct to stand by the CNT, and later, when the POUM was suppressed, the Anarchists were the only people who dared to raise a voice in its defence."
+    }
+  },
+  {
+    "id": "orwell-ch017-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "precision": "month"
+    },
+    "displayDate": "May 1937",
+    "title": "Tension in Catalonia reaches breaking point ahead of Barcelona fighting",
+    "summary": "By May 1937 the struggle between Communists and Anarchists over arms, policing, and control of key industries had reached a point where violent conflict was regarded as inevitable.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "cnt",
+      "poum",
+      "communists",
+      "anarchists",
+      "catalonia"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 5,
+      "quote": "By May 1937 things had reached a point at which some kind of violent outbreak could be regarded as inevitable."
+    }
+  },
+  {
+    "id": "orwell-ch011-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 1,
+      "precision": "day"
+    },
+    "displayDate": "May 1, 1937",
+    "title": "Barcelona May Day demonstration called off; no celebrations held",
+    "summary": "A planned joint CNT–UGT May Day demonstration in Barcelona was cancelled at the last moment due to fears of rioting, making Barcelona likely the only city in non-Fascist Europe with no May Day celebrations in 1937.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "cnt",
+      "ugt",
+      "may-day",
+      "barcelona",
+      "political-tension"
+    ],
+    "citation": {
+      "chapter": "Chapter VIII",
+      "chapterIndex": 11,
+      "paragraphIndex": 12,
+      "quote": "So nothing happened on 1 May. It was a queer state of affairs. Barcelona, the so-called revolutionary city, was probably the only city in non-Fascist Europe that had no celebrations that day."
+    }
+  },
+  {
+    "id": "orwell-ch017-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 1,
+      "precision": "day"
+    },
+    "displayDate": "May 1, 1937",
+    "title": "May Day passes without rioting in Barcelona",
+    "summary": "Many people in Barcelona were agreeably surprised when no rioting broke out on May Day 1937, given the high tension throughout Catalonia.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "may-day",
+      "barcelona"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 5,
+      "quote": "Many people were agreeably surprised when there was no rioting on 1 May."
+    }
+  },
+  {
+    "id": "orwell-ch012-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "First report of trouble at the Barcelona Telephone Exchange",
+    "summary": "At midday on 3 May, Orwell first hears a casual report that something has gone wrong at the Telephone Exchange, though he pays no attention to it at the time.",
+    "category": "uprising",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "telephone-exchange",
+      "barcelona-1937",
+      "cnt"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 1,
+      "quote": "About midday on 3 May a friend crossing the lounge of the hotel said casually: 'There's been some kind of trouble at the Telephone Exchange, I hear.' For some reason I paid no attention to it at the time."
+    }
+  },
+  {
+    "id": "orwell-ch012-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "Rifle fire erupts on the Ramblas as Barcelona street fighting begins",
+    "summary": "On the afternoon of 3 May, between three and four o'clock, Orwell hears rifle shots on the Ramblas and witnesses Anarchist youth exchanging fire with gunmen in a church tower, marking the open outbreak of the May Days fighting.",
+    "category": "uprising",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "ramblas",
+      "barcelona-1937",
+      "cnt",
+      "anarchists"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 2,
+      "quote": "That afternoon, between three and four, I was half-way down the Ramblas when I heard several rifle-shots behind me. I turned round and saw some youths, with rifles in their hands and the red and black handkerchiefs of the Anarchists round their throats, edging up a side-street that ran off the Ramblas northward."
+    }
+  },
+  {
+    "id": "orwell-ch012-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "Assault Guards storm the CNT-held Telephone Exchange",
+    "summary": "On 3 May, several lorry-loads of Assault Guards drove to the Telephone Exchange, operated mainly by CNT workers, and launched a sudden assault on it, triggering the Barcelona street fighting.",
+    "category": "uprising",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Salas"
+    ],
+    "tags": [
+      "may-days",
+      "telephone-exchange",
+      "barcelona-1937",
+      "cnt",
+      "assault-guards"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 6,
+      "quote": "It appeared that he had been in the Plaza de Cataluña when several lorry-loads of armed Assault Guards had driven up to the Telephone Exchange, which was operated mainly by CNT workers, and made a sudden assault upon it. Then some Anarchists had arrived and there had been a general affray."
+    }
+  },
+  {
+    "id": "orwell-ch012-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "Salas, Chief of Police, placed under arrest",
+    "summary": "In the early hours of the morning following the outbreak of fighting, Orwell is told that Salas, the Chief of Police responsible for ordering the attack on the Telephone Exchange, has been placed under arrest, though he was later only deprived of his post.",
+    "category": "arrest",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Salas"
+    ],
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "assault-guards",
+      "telephone-exchange"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 12,
+      "quote": "At three in the morning the tall handsome man who seemed to be in command woke me up, gave me a rifle and put me on guard at one of the windows. He told me that Salas, the Chief of Police responsible for the attack on the Telephone Exchange, had been placed under arrest."
+    }
+  },
+  {
+    "id": "orwell-ch012-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "Assault Guards seize the office of La Batalla, the POUM newspaper",
+    "summary": "At approximately the same time as the attack on the Telephone Exchange on 3 May, the Assault Guards raided and occupied the undefended office of La Batalla, the POUM's newspaper, though the paper continued to be printed from another address.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "poum",
+      "la-batalla",
+      "assault-guards",
+      "press-censorship"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 34,
+      "quote": "The office of *La Batalla*, the POUM paper, which was not defended, had been raided and seized by the Assault Guards at about the same time as the Telephone Exchange, but the paper was being printed, and a few copies distributed, from another address."
+    }
+  },
+  {
+    "id": "orwell-ch017-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 3,
+      "precision": "day"
+    },
+    "displayDate": "May 3, 1937",
+    "title": "Government Assault Guards seize Barcelona Telephone Exchange, triggering street fighting",
+    "summary": "On 3 May the Government sent three lorry-loads of armed Assault Guards to seize the CNT-operated Telephone Exchange, prompting armed Anarchists to take to the streets and igniting the Barcelona May Days fighting.",
+    "category": "uprising",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Salas"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "cnt",
+      "assault-guards",
+      "telephone-exchange",
+      "may-days",
+      "barcelona"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 5,
+      "quote": "On 3 May the Government decided to take over the Telephone Exchange, which had been operated since the beginning of the war mainly by CNT workers… Salas, the Chief of Police… sent three lorry-loads of armed Assault Guards to seize the building… armed Anarchists appeared on the streets, work ceased, and fighting broke out immediately."
+    }
+  },
+  {
+    "id": "orwell-ch012-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 4,
+      "precision": "day"
+    },
+    "displayDate": "May 4, 1937",
+    "title": "Solidaridad Obrera condemns attack on Telephone Exchange as monstrous provocation",
+    "summary": "On Tuesday 4 May, the Anarchist newspaper Solidaridad Obrera described the government assault on the Telephone Exchange as a 'monstrous provocation,' reflecting the CNT's initial combative stance before it reversed course the following day.",
+    "category": "publication",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "cnt",
+      "solidaridad-obrera",
+      "press"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 34,
+      "quote": "On Tuesday *Solidaridad Obrera*, the Anarchist paper, had described the attack on the Telephone Exchange as a 'monstrous provocation' (or words to that effect), but on Wednesday it changed its tune and began imploring everyone to go back to work."
+    }
+  },
+  {
+    "id": "orwell-ch012-013",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 4,
+      "precision": "day"
+    },
+    "displayDate": "May 4, 1937",
+    "title": "Douglas Thompson arrested and jailed during Barcelona street fighting",
+    "summary": "On the Tuesday morning (4 May), Thompson returned to his hotel in an Assault Guard–controlled quarter; the hotel was raided and he was arrested and held for eight days in an overcrowded cell, one of many wrongful arrests made during the disturbances.",
+    "category": "arrest",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Douglas Thompson"
+    ],
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "arrest",
+      "poum"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 45,
+      "quote": "On the Tuesday morning I met him in the street, considerably bewildered by the firing that was going on all round...He went back to his hotel, but unfortunately...The place was raided and Thompson was arrested, flung into jail, and kept for eight days in a cell so full of people that nobody had room to lie down."
+    }
+  },
+  {
+    "id": "orwell-ch017-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 4,
+      "precision": "day"
+    },
+    "displayDate": "May 4, 1937",
+    "title": "Trotskyist ('Bolshevik-Leninist') group issues handbill calling for general strike",
+    "summary": "On 4 May a small group of Trotskyists issued a handbill calling for everyone to go to the barricades and for a general strike of all industries except war industries.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "trotskyists",
+      "bolshevik-leninists",
+      "general-strike",
+      "barcelona",
+      "may-days"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 8,
+      "quote": "The only handbill I saw during the fighting was one issued by the tiny group of Trotskyists ('Bolshevik-Leninists') on 4 May. This merely said: 'Everyone to the barricades – general strike of all industries except war industries.'"
+    }
+  },
+  {
+    "id": "orwell-ch012-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 5,
+      "precision": "day"
+    },
+    "displayDate": "May 5, 1937",
+    "title": "Anarchist leaders and Solidaridad Obrera urge workers to abandon the barricades",
+    "summary": "By Wednesday 5 May, Solidaridad Obrera reversed its position and began urging everyone to return to work, while Anarchist leaders simultaneously broadcast the same conciliatory message, signalling a collapse of resistance.",
+    "category": "speech",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "cnt",
+      "solidaridad-obrera",
+      "anarchists"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 34,
+      "quote": "It was about Wednesday (5 May) that a change seemed to come over things...on Wednesday it changed its tune and began imploring everyone to go back to work. The Anarchist leaders were broadcasting the same message."
+    }
+  },
+  {
+    "id": "orwell-ch012-008",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 5,
+      "precision": "day"
+    },
+    "displayDate": "May 5, 1937",
+    "title": "British destroyers observed closing in on Barcelona harbour",
+    "summary": "On Wednesday 5 May, Orwell and fellow militiaman Douglas Moyle watched from the observatory tower as what turned out to be British destroyers moved into Barcelona harbour, later confirmed to be true though not understood at the time.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Douglas Moyle"
+    ],
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "british-navy",
+      "intervention"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 34,
+      "quote": "Watching from the observatory tower we saw the low grey shapes of warships closing in upon the harbour. Douglas Moyle, who had been a sailor, said that they looked like British destroyers. As a matter of fact they *were* British destroyers, though we did not learn this till afterwards."
+    }
+  },
+  {
+    "id": "orwell-ch012-009",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 5,
+      "precision": "day"
+    },
+    "displayDate": "May 5, 1937",
+    "title": "Four hundred Assault Guards surrender their arms to Anarchists at Plaza de España",
+    "summary": "On the evening of 5 May, Orwell hears that four hundred Assault Guards on the Plaza de España had surrendered and handed their weapons to the Anarchists, and that the CNT appeared to be in control of the suburbs.",
+    "category": "battle",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "cnt",
+      "assault-guards",
+      "plaza-de-espana"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 35,
+      "quote": "That evening we heard that on the Plaza de España four hundred Assault Guards had surrendered and handed their arms to the Anarchists; also the news was vaguely filtering through that in the suburbs (mainly working-class quarters) the CNT were in control."
+    }
+  },
+  {
+    "id": "orwell-ch012-010",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 5,
+      "precision": "day"
+    },
+    "displayDate": "May 5, 1937",
+    "title": "Kopp warns that the Valencia Government is about to outlaw the POUM",
+    "summary": "On the evening of 5 May, Georges Kopp gravely informed Orwell that the Government was reportedly about to declare the POUM an illegal organisation and open war upon it, forcing POUM fighters to prepare to defend their buildings.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Kopp"
+    ],
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "poum",
+      "suppression",
+      "valencia-government"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 35,
+      "quote": "But the same evening Kopp sent for me and, with a grave face, told me that according to information he had just received the Government was about to outlaw the POUM and declare a state of war upon it."
+    }
+  },
+  {
+    "id": "orwell-ch017-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 5,
+      "precision": "day"
+    },
+    "displayDate": "May 5, 1937",
+    "title": "Friends of Durruti distribute revolutionary leaflet during Barcelona fighting",
+    "summary": "The Friends of Durruti, a small extremist group within the FAI, distributed a revolutionary leaflet on 5 May calling for a revolutionary council, the shooting of those responsible for the attack on the Telephone Exchange, and the disarming of the Assault Guards.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "friends-of-durruti",
+      "fai",
+      "anarchists",
+      "may-days",
+      "barcelona"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 8,
+      "quote": "The Friends of Durruti distributed some kind of revolutionary leaflet, but this did not appear until 5 May and cannot be said to have started the fighting, which had started of its own accord two days earlier."
+    }
+  },
+  {
+    "id": "orwell-ch017-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 6,
+      "precision": "day"
+    },
+    "displayDate": "May 6, 1937",
+    "title": "Armistice declared in Barcelona street fighting; POUM's La Batalla endorses Friends of Durruti leaflet",
+    "summary": "On 6 May an armistice was declared in the Barcelona fighting, though combat soon broke out again. The same day POUM's newspaper La Batalla expressed approval of the Friends of Durruti leaflet.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "la-batalla",
+      "may-days",
+      "barcelona",
+      "armistice"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 5,
+      "quote": "On 6 May there was an armistice, but fighting soon broke out again, probably because of premature attempts by Assault Guards to disarm CNT workers."
+    }
+  },
+  {
+    "id": "orwell-ch012-011",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 7,
+      "precision": "day"
+    },
+    "displayDate": "May 7, 1937",
+    "title": "Valencian Assault Guards arrive in Barcelona to restore government control",
+    "summary": "On the Friday evening (7 May), well-armed Valencian Assault Guards suddenly appeared throughout Barcelona's streets in groups of ten, making a show of force to overawe the population and effectively ending the May Days fighting.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "may-days",
+      "barcelona-1937",
+      "assault-guards",
+      "valencia-government",
+      "repression"
+    ],
+    "citation": {
+      "chapter": "Chapter IX",
+      "chapterIndex": 12,
+      "paragraphIndex": 41,
+      "quote": "I spent that final night on the roof, and the next day it did really look as though the fighting was coming to an end. I do not think there was much firing that day – the Friday. No one seemed to know for certain whether the troops from Valencia were really coming; they arrived that evening, as a matter of fact."
+    }
+  },
+  {
+    "id": "orwell-ch017-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 5,
+      "day": 7,
+      "precision": "day"
+    },
+    "displayDate": "May 7, 1937",
+    "title": "Six thousand Assault Guards arrive from Valencia; Barcelona May Days fighting ends",
+    "summary": "By the afternoon of 7 May conditions in Barcelona were almost normal. That evening six thousand Assault Guards sent by sea from Valencia arrived and took control of the city, ending the May Days fighting.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "spanish-civil-war",
+      "assault-guards",
+      "valencia",
+      "may-days",
+      "barcelona"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 5,
+      "quote": "By the afternoon of 7 May conditions were almost normal. That evening six thousand Assault Guards, sent by sea from Valencia, arrived and took control of the town."
+    }
+  },
+  {
+    "id": "orwell-ch006-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "month"
+    },
+    "displayDate": "June 1937",
+    "title": "Disastrous Republican attack on Huesca",
+    "summary": "In June 1937 a disastrous Republican attack on Huesca resulted in several thousand men killed in a single day. Orwell had been wounded and disabled before this attack occurred.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "huesca",
+      "battle",
+      "republican"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 2,
+      "quote": "Later, in June, there was the disastrous attack on Huesca in which several thousand men were killed in a single day, but I had been wounded and disabled before that happened."
+    }
+  },
+  {
+    "id": "orwell-ch006-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "month"
+    },
+    "displayDate": "June 1937",
+    "title": "Popular Army troops arrive on Aragón front in numbers",
+    "summary": "New Popular Army troops did not reach the Aragón front in significant numbers until June 1937, meaning the militia system remained effectively unchanged on that front until then.",
+    "category": "other",
+    "location": "Aragón front, Spain",
+    "tags": [
+      "spanish-civil-war",
+      "popular-army",
+      "aragón-front",
+      "militia"
+    ],
+    "citation": {
+      "chapter": "Chapter III",
+      "chapterIndex": 6,
+      "paragraphIndex": 7,
+      "quote": "the new Popular Army troops did not reach the Aragón front in any numbers till June, and until that time the militia-system remained unchanged."
+    }
+  },
+  {
+    "id": "orwell-ch010-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "month"
+    },
+    "displayDate": "June 1937",
+    "title": "Government concentrates 30,000 troops on Huesca but fails to take the city",
+    "summary": "The Republican Government transferred troops from the Madrid front and massed thirty thousand men with a large number of aeroplanes against Huesca in June 1937, but the city still did not fall.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragon-front",
+      "republican-offensive",
+      "huesca"
+    ],
+    "citation": {
+      "chapter": "Chapter VII",
+      "chapterIndex": 10,
+      "paragraphIndex": 3,
+      "quote": "Later, in June, the Government brought troops from the Madrid front and concentrated thirty thousand men on Huesca, with an enormous quantity of aeroplanes, but still the town did not fall."
+    }
+  },
+  {
+    "id": "orwell-ch010-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "circa"
+    },
+    "displayDate": "circa June 1937",
+    "title": "Aragón front militia system radically altered",
+    "summary": "The workers' militia system on the Aragón front, which had kept revolutionary sentiment concentrated among its ranks, was not radically changed until around June 1937.",
+    "category": "other",
+    "location": "Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "militia",
+      "aragon-front",
+      "militias",
+      "reorganization"
+    ],
+    "citation": {
+      "chapter": "Chapter VII",
+      "chapterIndex": 10,
+      "paragraphIndex": 5,
+      "quote": "This was the result of the militia-system, which on the Aragón front was not radically altered till about June 1937."
+    }
+  },
+  {
+    "id": "orwell-ch013-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "circa"
+    },
+    "displayDate": "circa June 1937",
+    "title": "Italian troops killed at Huesca after Guadalajara victory",
+    "summary": "Most of the Italian International Column troops seen passing through Tarragona were killed at Huesca only a few weeks after their transfer to the Aragón front.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "international-column",
+      "huesca",
+      "aragón-front",
+      "italy"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 23,
+      "quote": "Most of them, I am afraid, were killed at Huesca only a few weeks later."
+    }
+  },
+  {
+    "id": "orwell-ch013-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "month"
+    },
+    "displayDate": "Mid-June 1937",
+    "title": "Battle around the Jaca road resumes",
+    "summary": "After a lull following earlier fighting, the battle around the Jaca road on the Aragón front resumed in mid-June 1937.",
+    "category": "battle",
+    "location": "Huesca, Aragón",
+    "tags": [
+      "spanish-civil-war",
+      "aragón-front",
+      "jaca-road",
+      "huesca"
+    ],
+    "citation": {
+      "chapter": "Chapter X",
+      "chapterIndex": 13,
+      "paragraphIndex": 8,
+      "quote": "The battle round the Jaca road had died away and did not begin again till mid-June."
+    }
+  },
+  {
+    "id": "orwell-ch014-008",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "circa"
+    },
+    "displayDate": "circa late June 1937",
+    "title": "General José Rovira arrested near the front line",
+    "summary": "About the end of June 1937, Barcelona police arrested General José Rovira, commander of the 29th Division, near the front line without informing either the Ministry of War or the Chief of Police. His troops sent a delegation to protest at the Ministry of War.",
+    "category": "arrest",
+    "location": "Aragón front, Spain",
+    "people": [
+      "José Rovira"
+    ],
+    "tags": [
+      "poum",
+      "repression",
+      "military",
+      "29th-division",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 32,
+      "quote": "About the end of June José Rovira, the general commanding the 29th Division, was arrested somewhere near the front line by a party of police who had been sent from Barcelona."
+    }
+  },
+  {
+    "id": "orwell-ch015-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "precision": "circa"
+    },
+    "displayDate": "circa June 1937",
+    "title": "Orwell and his wife cross the Spanish frontier into France",
+    "summary": "After evading arrest in Barcelona for several days following the POUM suppression, Orwell and his wife crossed the frontier into France at Cerbères, returning to French soil after approximately six months in Spain.",
+    "category": "migration",
+    "location": "Cerbères, France",
+    "people": [
+      "George Orwell"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "poum",
+      "exile",
+      "barcelona",
+      "orwell"
+    ],
+    "citation": {
+      "chapter": "Chapter XII",
+      "chapterIndex": 15,
+      "paragraphIndex": 29,
+      "quote": "So we slipped through the barrier, and after just six months I was on French soil again."
+    }
+  },
+  {
+    "id": "orwell-ch014-002",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 15,
+      "precision": "day"
+    },
+    "displayDate": "June 15, 1937",
+    "title": "Kopp departs for Valencia and Orwell leaves for Siétamo",
+    "summary": "Georges Kopp left for Valencia for an interview at the Ministry of War while Orwell simultaneously departed for Siétamo to obtain his discharge papers from the POUM militia headquarters.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Georges Kopp"
+    ],
+    "tags": [
+      "poum",
+      "militia",
+      "discharge",
+      "ministry-of-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 9,
+      "quote": "He left for Valencia the same day as I left for Siétamo – 15 June."
+    }
+  },
+  {
+    "id": "orwell-ch014-003",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 15,
+      "precision": "day"
+    },
+    "displayDate": "June 15, 1937",
+    "title": "Police arrest POUM leader Andrés Nin in Barcelona",
+    "summary": "On the evening of 15 June 1937, Barcelona police suddenly arrested Andrés Nin at his office, initiating a broader crackdown on the POUM. Nin was subsequently transferred to Valencia and then Madrid, and was almost certainly killed in secret police custody.",
+    "category": "arrest",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Andrés Nin"
+    ],
+    "tags": [
+      "poum",
+      "repression",
+      "stalinism",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 30,
+      "quote": "On 15 June the police had suddenly arrested Andrés Nin in his office, and the same evening had raided the Hotel Falcón and arrested all the people in it, mostly militiamen on leave."
+    }
+  },
+  {
+    "id": "orwell-ch014-004",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 15,
+      "precision": "day"
+    },
+    "displayDate": "June 15, 1937",
+    "title": "Police raid Hotel Falcón and arrest POUM militiamen on leave",
+    "summary": "The same evening Nin was arrested, police raided the Hotel Falcón in Barcelona, arresting all occupants — mostly POUM militiamen on leave — and converting the hotel into a prison that rapidly filled with detainees.",
+    "category": "arrest",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "poum",
+      "repression",
+      "hotel-falcon",
+      "militiamen",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 30,
+      "quote": "On 15 June the police had suddenly arrested Andrés Nin in his office, and the same evening had raided the Hotel Falcón and arrested all the people in it, mostly militiamen on leave. The place was converted immediately into a prison, and in a very little while it was filled to the brim with prisoners of all kinds."
+    }
+  },
+  {
+    "id": "orwell-ch017-010",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 15,
+      "precision": "day"
+    },
+    "displayDate": "June 15–16, 1937",
+    "title": "POUM suppressed and declared an illegal organization",
+    "summary": "On 15–16 June 1937 the POUM was suppressed and declared illegal, one of the first acts of the Negrín Government. The Executive Committee of the POUM was thrown into jail.",
+    "category": "arrest",
+    "location": "Spain",
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "suppression",
+      "negrín-government"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 53,
+      "quote": "Finally, on 15–16 June, the POUM was suppressed and declared an illegal organization. This was one of the first acts of the Negrín Government which came into office in May."
+    }
+  },
+  {
+    "id": "orwell-ch014-005",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 16,
+      "precision": "day"
+    },
+    "displayDate": "June 16, 1937",
+    "title": "POUM declared an illegal organization; offices and sanatoria seized",
+    "summary": "The day after Nin's arrest, the Spanish government declared the POUM an illegal organization and seized all its offices, bookstalls, sanatoria, and Red Aid centres. Within days, nearly all forty members of the POUM Executive Committee were imprisoned.",
+    "category": "legislation",
+    "location": "Barcelona, Catalonia",
+    "tags": [
+      "poum",
+      "suppression",
+      "repression",
+      "spanish-civil-war",
+      "stalinism"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 30,
+      "quote": "Next day the POUM was declared an illegal organization and all its offices, bookstalls, sanatoria, Red Aid centres and so forth were seized."
+    }
+  },
+  {
+    "id": "orwell-ch014-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 17,
+      "precision": "circa"
+    },
+    "displayDate": "circa June 17, 1937",
+    "title": "Kurt Landau and wife arrested; Landau disappears",
+    "summary": "Kurt Landau and his wife were arrested around 17 June 1937 in Barcelona. Landau immediately vanished — his wife remained imprisoned for five months without trial or news of her husband, and was eventually informed by the Minister of Justice that he was dead.",
+    "category": "arrest",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Kurt Landau"
+    ],
+    "tags": [
+      "poum",
+      "repression",
+      "disappearance",
+      "political-prisoner",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 32,
+      "quote": "They were arrested about 17 June, and Landau immediately 'disappeared'. Five months later his wife was still in jail, untried and without news of her husband."
+    }
+  },
+  {
+    "id": "orwell-ch014-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 21,
+      "precision": "day"
+    },
+    "displayDate": "June 21, 1937",
+    "title": "Rumour reaches Barcelona that Nin has been shot",
+    "summary": "As early as 21 June 1937, rumours reached Barcelona that Andrés Nin had been shot after his transfer to Valencia and then Madrid. The rumour later became more specific — that Nin had been killed by the secret police and his body dumped in the street — and Nin was never heard of alive again.",
+    "category": "other",
+    "location": "Barcelona, Catalonia",
+    "people": [
+      "Andrés Nin",
+      "Federica Montseny"
+    ],
+    "tags": [
+      "poum",
+      "nin",
+      "political-murder",
+      "secret-police",
+      "spanish-civil-war"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 31,
+      "quote": "as early as 21 June the rumour reached Barcelona that he had been shot. Later the rumour took a more definite shape: Nin had been shot in prison by the secret police and his body dumped into the street."
+    }
+  },
+  {
+    "id": "orwell-ch017-011",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 6,
+      "day": 21,
+      "precision": "day"
+    },
+    "displayDate": "June 21, 1937",
+    "title": "Daily Worker publishes claims of vast POUM Fascist espionage plot",
+    "summary": "On 21 June the Daily Worker, summarizing Spanish Communist papers, published sensational claims that arrested POUM leaders had confessed to transmitting military secrets to Franco by radio and acting in collaboration with a Fascist organization in Madrid.",
+    "category": "publication",
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "daily-worker",
+      "communist-press",
+      "propaganda"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 53,
+      "quote": "For a while the Communist Press of the whole world was flaming with this kind of thing (*Daily Worker*, 21 June, summarizing various Spanish Communist papers):"
+    }
+  },
+  {
+    "id": "orwell-ch016-006",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 7,
+      "precision": "month"
+    },
+    "displayDate": "circa July 1937",
+    "title": "Spanish churches remain closed to services under Republican government",
+    "summary": "Until about July 1937, no churches in Republican Spain were allowed to reopen and hold services, with the exception of one or two Protestant churches in Madrid.",
+    "category": "legislation",
+    "location": "Spain",
+    "tags": [
+      "spanish-civil-war",
+      "anticlerical",
+      "churches",
+      "republican-spain"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 8,
+      "quote": "In six months in Spain I only saw two undamaged churches, and until about July 1937 no churches were allowed to reopen and hold services, except for one or two Protestant churches in Madrid."
+    }
+  },
+  {
+    "id": "orwell-ch017-012",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 8,
+      "precision": "month"
+    },
+    "displayDate": "August 1937",
+    "title": "Maxton delegation visits Spain to investigate charges against POUM and disappearance of Nin",
+    "summary": "In August an international delegation headed by James Maxton MP went to Spain to inquire into the charges against the POUM and the disappearance of Andrés Nin. Multiple Spanish ministers repudiated belief in the espionage charges.",
+    "category": "other",
+    "location": "Spain",
+    "people": [
+      "James Maxton",
+      "Andrés Nin",
+      "Prieto",
+      "Irujo",
+      "Zugazagoitia"
+    ],
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "andrés-nin",
+      "maxton",
+      "parliamentary-delegation"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 58,
+      "quote": "In August an international delegation headed by James Maxton, MP, went to Spain to inquire into the charges against the POUM and the disappearance of Andrés Nin."
+    }
+  },
+  {
+    "id": "orwell-ch016-007",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 10,
+      "precision": "month"
+    },
+    "displayDate": "October 1937",
+    "title": "New Statesman publishes accounts of Fascist barricades made of living children",
+    "summary": "As late as October 1937 the New Statesman was still publishing sensationalist atrocity tales about the Spanish war, including stories of Fascist barricades made of the bodies of living children.",
+    "category": "publication",
+    "tags": [
+      "spanish-civil-war",
+      "war-propaganda",
+      "press",
+      "new-statesman"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 11,
+      "quote": "As late as October 1937 the New Statesman was treating us to tales of Fascist barricades made of the bodies of living children (a most unhandy thing to make barricades with), and Mr Arthur Bryant was declaring that 'the sawing-off of a Conservative tradesman's legs' was 'a commonplace' in Loyalist Spain."
+    }
+  },
+  {
+    "id": "orwell-ch016-008",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 10,
+      "precision": "season"
+    },
+    "displayDate": "Autumn 1937",
+    "title": "Negrín publicly declares 'we respect private property'",
+    "summary": "By the autumn of 1937, the 'Socialist' Prime Minister Negrín was making public speeches declaring 'we respect private property', reflecting the full rightward swing of the Republican government.",
+    "category": "speech",
+    "location": "Spain",
+    "people": [
+      "Negrín"
+    ],
+    "tags": [
+      "spanish-civil-war",
+      "negrin",
+      "republican-government",
+      "counter-revolution"
+    ],
+    "citation": {
+      "chapter": "APPENDIX I",
+      "chapterIndex": 16,
+      "paragraphIndex": 10,
+      "quote": "By the autumn of 1937 the 'Socialist' Negrín was declaring in public speeches that 'we respect private property,' and members of the Cortes who at the beginning of the war had had to fly the country because of their suspected Fascist sympathies were returning to Spain."
+    }
+  },
+  {
+    "id": "orwell-ch014-001",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 10,
+      "day": 17,
+      "precision": "day"
+    },
+    "displayDate": "October 17, 1937",
+    "title": "Duchess of Atholl's article in the Sunday Express describes order in wartime Spain",
+    "summary": "The Duchess of Atholl published a piece in the Sunday Express claiming perfect order prevailed in Valencia, Madrid, and Barcelona, with comfortable hotels despite minor food shortages. Orwell cites this as evidence of how English visitors failed to see the repression around them.",
+    "category": "publication",
+    "location": "London, England",
+    "people": [
+      "Duchess of Atholl"
+    ],
+    "tags": [
+      "press",
+      "propaganda",
+      "spain",
+      "english-observers"
+    ],
+    "citation": {
+      "chapter": "Chapter XI",
+      "chapterIndex": 14,
+      "paragraphIndex": 5,
+      "quote": "The Duchess of Atholl writes, I notice (*Sunday Express*, 17 October 1937):"
+    }
+  },
+  {
+    "id": "orwell-ch017-013",
+    "book": "orwell",
+    "date": {
+      "year": 1937,
+      "month": 12,
+      "precision": "month"
+    },
+    "displayDate": "December 1937",
+    "title": "McGovern delegation visits Spain; minister confirms Communist control of police",
+    "summary": "In December a delegation headed by John McGovern MP visited Spain and received similar answers to the Maxton delegation. The Minister of the Interior repeated in plain terms that the Spanish Government had to permit certain Communist actions because of dependence on Russian arms.",
+    "category": "other",
+    "location": "Spain",
+    "people": [
+      "John McGovern",
+      "Zugazagoitia"
+    ],
+    "tags": [
+      "poum",
+      "spanish-civil-war",
+      "mcgovern",
+      "parliamentary-delegation",
+      "russia"
+    ],
+    "citation": {
+      "chapter": "APPENDIX II",
+      "chapterIndex": 17,
+      "paragraphIndex": 58,
+      "quote": "When another delegation, headed by John McGovern, MP, went to Spain in December, they got much the same answers as before, and Zugazagoitia, the Minister of the Interior, repeated Prieto's hint in even plainer terms. 'We have received aid from Russia and have had to permit certain actions which we did not like.'"
+    }
+  }
+]

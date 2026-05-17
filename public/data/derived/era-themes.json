@@ -1,0 +1,505 @@
+{
+  "paleolithic": {
+    "eraId": "paleolithic",
+    "topTags": [
+      {
+        "tag": "neolithic",
+        "count": 24
+      },
+      {
+        "tag": "prehistory",
+        "count": 13
+      },
+      {
+        "tag": "paleolithic",
+        "count": 9
+      },
+      {
+        "tag": "domestication",
+        "count": 6
+      },
+      {
+        "tag": "palaeolithic",
+        "count": 5
+      },
+      {
+        "tag": "archaeology",
+        "count": 4
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Homo sapiens",
+        "count": 1
+      },
+      {
+        "name": "Neanderthals",
+        "count": 1
+      },
+      {
+        "name": "Margaret Mead",
+        "count": 1
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "Mesopotamia",
+        "count": 9
+      },
+      {
+        "region": "Anatolia",
+        "count": 7
+      },
+      {
+        "region": "Eastern Europe",
+        "count": 5
+      },
+      {
+        "region": "Levant",
+        "count": 5
+      },
+      {
+        "region": "Central Europe",
+        "count": 3
+      }
+    ]
+  },
+  "antiquity": {
+    "eraId": "antiquity",
+    "topTags": [
+      {
+        "tag": "teotihuacan",
+        "count": 13
+      },
+      {
+        "tag": "egypt",
+        "count": 6
+      },
+      {
+        "tag": "china",
+        "count": 6
+      },
+      {
+        "tag": "mesoamerica",
+        "count": 6
+      },
+      {
+        "tag": "agriculture",
+        "count": 5
+      },
+      {
+        "tag": "mesopotamia",
+        "count": 5
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Hammurabi",
+        "count": 3
+      },
+      {
+        "name": "Plato",
+        "count": 2
+      },
+      {
+        "name": "Gilgamesh",
+        "count": 1
+      },
+      {
+        "name": "Ur-Nanshe",
+        "count": 1
+      },
+      {
+        "name": "Gudea",
+        "count": 1
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "Mesopotamia",
+        "count": 15
+      },
+      {
+        "region": "Mesoamerica",
+        "count": 14
+      },
+      {
+        "region": "North America",
+        "count": 13
+      },
+      {
+        "region": "North Africa",
+        "count": 6
+      },
+      {
+        "region": "East Asia",
+        "count": 6
+      }
+    ]
+  },
+  "medieval": {
+    "eraId": "medieval",
+    "topTags": [
+      {
+        "tag": "cahokia",
+        "count": 8
+      },
+      {
+        "tag": "mesoamerica",
+        "count": 5
+      },
+      {
+        "tag": "mississippian",
+        "count": 5
+      },
+      {
+        "tag": "etowah",
+        "count": 3
+      },
+      {
+        "tag": "iroquoia",
+        "count": 3
+      },
+      {
+        "tag": "aztec",
+        "count": 3
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Christopher Columbus",
+        "count": 4
+      },
+      {
+        "name": "King Casimir the Great",
+        "count": 1
+      },
+      {
+        "name": "Thomas More",
+        "count": 1
+      },
+      {
+        "name": "Bird Jaguar the Great",
+        "count": 1
+      },
+      {
+        "name": "Mexica",
+        "count": 1
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "North America",
+        "count": 13
+      },
+      {
+        "region": "Mesoamerica",
+        "count": 9
+      },
+      {
+        "region": "Caribbean",
+        "count": 2
+      },
+      {
+        "region": "Eastern Europe",
+        "count": 1
+      },
+      {
+        "region": "Iberia",
+        "count": 1
+      }
+    ]
+  },
+  "early-modern": {
+    "eraId": "early-modern",
+    "topTags": [
+      {
+        "tag": "slavery",
+        "count": 17
+      },
+      {
+        "tag": "colonial-america",
+        "count": 10
+      },
+      {
+        "tag": "colonial-virginia",
+        "count": 10
+      },
+      {
+        "tag": "spanish-conquest",
+        "count": 8
+      },
+      {
+        "tag": "tlaxcala",
+        "count": 8
+      },
+      {
+        "tag": "native-american",
+        "count": 8
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Francisco Cervantes de Salazar",
+        "count": 4
+      },
+      {
+        "name": "Kandiaronk",
+        "count": 4
+      },
+      {
+        "name": "Hernan Cortes",
+        "count": 3
+      },
+      {
+        "name": "Hernán Cortés",
+        "count": 3
+      },
+      {
+        "name": "Nathaniel Bacon",
+        "count": 3
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "North America",
+        "count": 49
+      },
+      {
+        "region": "Mesoamerica",
+        "count": 10
+      },
+      {
+        "region": "British Isles",
+        "count": 8
+      },
+      {
+        "region": "Caribbean",
+        "count": 6
+      },
+      {
+        "region": "South America",
+        "count": 4
+      }
+    ]
+  },
+  "long-19c": {
+    "eraId": "long-19c",
+    "topTags": [
+      {
+        "tag": "labor",
+        "count": 56
+      },
+      {
+        "tag": "anarchism",
+        "count": 50
+      },
+      {
+        "tag": "slavery",
+        "count": 49
+      },
+      {
+        "tag": "international",
+        "count": 41
+      },
+      {
+        "tag": "women",
+        "count": 37
+      },
+      {
+        "tag": "class-conflict",
+        "count": 34
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Mikhail Bakunin",
+        "count": 88
+      },
+      {
+        "name": "Emma Goldman",
+        "count": 42
+      },
+      {
+        "name": "Pierre-Joseph Proudhon",
+        "count": 38
+      },
+      {
+        "name": "Karl Marx",
+        "count": 32
+      },
+      {
+        "name": "Peter Kropotkin",
+        "count": 21
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "North America",
+        "count": 356
+      },
+      {
+        "region": "Western Europe",
+        "count": 148
+      },
+      {
+        "region": "Iberia",
+        "count": 130
+      },
+      {
+        "region": "Central Europe",
+        "count": 81
+      },
+      {
+        "region": "Eastern Europe",
+        "count": 49
+      }
+    ]
+  },
+  "20c": {
+    "eraId": "20c",
+    "topTags": [
+      {
+        "tag": "bund",
+        "count": 148
+      },
+      {
+        "tag": "cnt",
+        "count": 131
+      },
+      {
+        "tag": "spanish-civil-war",
+        "count": 123
+      },
+      {
+        "tag": "anarchism",
+        "count": 91
+      },
+      {
+        "tag": "world-war-i",
+        "count": 67
+      },
+      {
+        "tag": "labor",
+        "count": 66
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Emma Goldman",
+        "count": 129
+      },
+      {
+        "name": "Alexander Berkman",
+        "count": 74
+      },
+      {
+        "name": "Buenaventura Durruti",
+        "count": 40
+      },
+      {
+        "name": "Henryk Erlich",
+        "count": 34
+      },
+      {
+        "name": "Nestor Makhno",
+        "count": 23
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "Eastern Europe",
+        "count": 455
+      },
+      {
+        "region": "North America",
+        "count": 425
+      },
+      {
+        "region": "Iberia",
+        "count": 413
+      },
+      {
+        "region": "Western Europe",
+        "count": 91
+      },
+      {
+        "region": "Central Europe",
+        "count": 55
+      }
+    ]
+  },
+  "21c": {
+    "eraId": "21c",
+    "topTags": [
+      {
+        "tag": "rojava",
+        "count": 281
+      },
+      {
+        "tag": "ypg",
+        "count": 66
+      },
+      {
+        "tag": "syria",
+        "count": 57
+      },
+      {
+        "tag": "democratic-autonomy",
+        "count": 53
+      },
+      {
+        "tag": "ypj",
+        "count": 45
+      },
+      {
+        "tag": "kurdish",
+        "count": 43
+      }
+    ],
+    "topPeople": [
+      {
+        "name": "Abdullah Öcalan",
+        "count": 10
+      },
+      {
+        "name": "Murray Bookchin",
+        "count": 4
+      },
+      {
+        "name": "Hanife Hisên",
+        "count": 4
+      },
+      {
+        "name": "George W. Bush",
+        "count": 4
+      },
+      {
+        "name": "Ian Morris",
+        "count": 3
+      }
+    ],
+    "topRegions": [
+      {
+        "region": "Levant",
+        "count": 169
+      },
+      {
+        "region": "Rojava",
+        "count": 137
+      },
+      {
+        "region": "Anatolia",
+        "count": 23
+      },
+      {
+        "region": "Kurdistan",
+        "count": 20
+      },
+      {
+        "region": "Mesopotamia",
+        "count": 19
+      }
+    ]
+  }
+}

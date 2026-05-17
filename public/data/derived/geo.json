@@ -1,0 +1,8672 @@
+{
+  "France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Madrid, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Cadiz, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Premukhina, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Andalusia, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Barcelona, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Cadiz, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Coruna, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Paris, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "New York, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Loja, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Alella, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "London, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Catalonia, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Ischia, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Basel, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Cordoba, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Montilla, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Lisbon, Portugal": {
+    "country": "PT",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 39.4,
+    "lon": -8.2,
+    "_matchedSuffix": "Portugal",
+    "x": 479.7,
+    "y": 108.8
+  },
+  "Valencia, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Cordoba, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Saragossa, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "The Hague, Netherlands": {
+    "country": "NL",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 52.1,
+    "lon": 5.3,
+    "_matchedSuffix": "Netherlands",
+    "x": 511.9,
+    "y": 70
+  },
+  "Alcoy, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Cartagena, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Berne, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Verviers, Belgium": {
+    "country": "BE",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 50.5,
+    "lon": 4.5,
+    "_matchedSuffix": "Belgium",
+    "x": 510.3,
+    "y": 74.6
+  },
+  "La Carraca, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "St. Petersburg, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Seville, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Lleida, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Jerez, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Leon, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Basque Country, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Barcelona, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Ter valley, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Amsterdam, Netherlands": {
+    "country": "NL",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 52.1,
+    "lon": 5.3,
+    "_matchedSuffix": "Netherlands",
+    "x": 511.9,
+    "y": 70
+  },
+  "Ferrol, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Moscow, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Rio Tinto, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Reus, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Barcelona": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.4,
+    "lon": 2.2,
+    "_matchedSuffix": "Barcelona",
+    "x": 505.4,
+    "y": 102.4
+  },
+  "Kronstadt, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Annual, Spanish Morocco": {
+    "country": "MA",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 35,
+    "lon": -5,
+    "_matchedSuffix": "Spanish Morocco",
+    "x": 487.3,
+    "y": 123.4
+  },
+  "Logrono, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Madrid": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Madrid",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Berlin, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "San Sebastian, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Gijon, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Eibar, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Granollers, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Sabadell, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Buenos Aires, Argentina": {
+    "country": "AR",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -38.4,
+    "lon": -63.6,
+    "_matchedSuffix": "Argentina",
+    "x": 341.9,
+    "y": 387.9
+  },
+  "Seville, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Jaca, Aragon": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragon",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Alto Llobregat, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Casas Viejas, Andalusia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 37.5,
+    "lon": -4.5,
+    "_matchedSuffix": "Andalusia",
+    "x": 488.8,
+    "y": 115.1
+  },
+  "Cardona, Catalonia": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.8,
+    "lon": 1.5,
+    "_matchedSuffix": "Catalonia",
+    "x": 503.7,
+    "y": 101.1
+  },
+  "Villanueva de Serena, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Saragossa, Aragon": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragon",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Asturias, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Oviedo, Asturias": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 43.3,
+    "lon": -6,
+    "_matchedSuffix": "Asturias",
+    "x": 485.5,
+    "y": 96.4
+  },
+  "Navarre, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Zaragoza, Aragon": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragon",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Toulouse, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Glencoe, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "London": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 51.5,
+    "lon": -0.1,
+    "_matchedSuffix": "London",
+    "x": 499.8,
+    "y": 71.7
+  },
+  "Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Oxford": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 51.8,
+    "lon": -1.3,
+    "_matchedSuffix": "Oxford",
+    "x": 497.1,
+    "y": 70.9
+  },
+  "Toulouse": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 43.6,
+    "lon": 1.4,
+    "_matchedSuffix": "Toulouse",
+    "x": 503.4,
+    "y": 95.4
+  },
+  "Alicante, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Manchester, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Paris": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 48.9,
+    "lon": 2.3,
+    "_matchedSuffix": "Paris",
+    "x": 505.3,
+    "y": 79.3
+  },
+  "Chicago, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Oxford, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Princeton, New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "Stanford, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Cambridge, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "New Haven, Connecticut": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.6,
+    "lon": -72.7,
+    "_matchedSuffix": "Connecticut",
+    "x": 322.8,
+    "y": 101.8
+  },
+  "Cambridge": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.2,
+    "lon": 0.1,
+    "_matchedSuffix": "Cambridge",
+    "x": 500.2,
+    "y": 69.7
+  },
+  "Stanford": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "_matchedSuffix": "Stanford"
+  },
+  "Montreal": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 45.5,
+    "lon": -73.6,
+    "_matchedSuffix": "Montreal",
+    "x": 325.4,
+    "y": 89.5
+  },
+  "Kingdom of Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52.2,
+    "lon": 21,
+    "_matchedSuffix": "Kingdom of Poland",
+    "x": 547.2,
+    "y": 69.7
+  },
+  "Polish-Lithuanian Commonwealth": {
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52,
+    "lon": 23,
+    "_matchedSuffix": "Polish-Lithuanian Commonwealth",
+    "x": 551.8,
+    "y": 70.3
+  },
+  "Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Vilna": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 54.7,
+    "lon": 25.3,
+    "_matchedSuffix": "Vilna",
+    "x": 555.7,
+    "y": 62.8
+  },
+  "Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Minsk": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.9,
+    "lon": 27.6,
+    "_matchedSuffix": "Minsk",
+    "x": 561.2,
+    "y": 65
+  },
+  "Saint Petersburg, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Pale of Settlement, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Geneva, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Volkovysk, Grodno Governorate": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.7,
+    "lon": 23.8,
+    "_matchedSuffix": "Grodno Governorate",
+    "x": 552.8,
+    "y": 65.5
+  },
+  "New York City, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Saint Petersburg": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 59.9,
+    "lon": 30.3,
+    "_matchedSuffix": "Saint Petersburg",
+    "x": 563.5,
+    "y": 49.2
+  },
+  "Geneva": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 6.1,
+    "_matchedSuffix": "Geneva",
+    "x": 514.4,
+    "y": 87.4
+  },
+  "Vilna, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Kyiv": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 50.5,
+    "lon": 30.5,
+    "_matchedSuffix": "Kyiv",
+    "x": 569.6,
+    "y": 74.6
+  },
+  "Yabucoa, Puerto Rico": {
+    "country": "PR",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 18.2,
+    "lon": -66.6,
+    "_matchedSuffix": "Puerto Rico",
+    "x": 319.4,
+    "y": 182.5
+  },
+  "Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Lukiskes, Vilna": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 54.7,
+    "lon": 25.3,
+    "_matchedSuffix": "Vilna",
+    "x": 555.7,
+    "y": 62.8
+  },
+  "Volkovysk": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.2,
+    "lon": 24.5,
+    "_matchedSuffix": "Volkovysk",
+    "x": 554.6,
+    "y": 66.9
+  },
+  "Saint Petersburg, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Zurich, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Kishinev": {
+    "country": "MD",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 47,
+    "lon": 28.9,
+    "_matchedSuffix": "Kishinev",
+    "x": 567.8,
+    "y": 85
+  },
+  "Brussels, Belgium": {
+    "country": "BE",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 50.5,
+    "lon": 4.5,
+    "_matchedSuffix": "Belgium",
+    "x": 510.3,
+    "y": 74.6
+  },
+  "Gomel": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": 31,
+    "_matchedSuffix": "Gomel",
+    "x": 569.6,
+    "y": 69.2
+  },
+  "New York, United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "Antwerp, Belgium": {
+    "country": "BE",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 50.5,
+    "lon": 4.5,
+    "_matchedSuffix": "Belgium",
+    "x": 510.3,
+    "y": 74.6
+  },
+  "Dvinsk, Latvia": {
+    "country": "LV",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 56.9,
+    "lon": 24.6,
+    "_matchedSuffix": "Latvia",
+    "x": 553,
+    "y": 56.9
+  },
+  "Riga, Latvia": {
+    "country": "LV",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 56.9,
+    "lon": 24.6,
+    "_matchedSuffix": "Latvia",
+    "x": 553,
+    "y": 56.9
+  },
+  "Krynki, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Lodz, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Odesa, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Odesa, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Dvinsk, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Berlin": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 52.5,
+    "lon": 13.4,
+    "_matchedSuffix": "Berlin",
+    "x": 530.1,
+    "y": 68.9
+  },
+  "Brooklyn, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Springfield, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Czernowitz": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.3,
+    "lon": 25.9,
+    "_matchedSuffix": "Czernowitz",
+    "x": 560.2,
+    "y": 81.1
+  },
+  "Lake Maggiore, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Lena, Russian Empire": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russian Empire",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "Vienna": {
+    "country": "AT",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 48.2,
+    "lon": 16.4,
+    "_matchedSuffix": "Vienna",
+    "x": 538.1,
+    "y": 81.4
+  },
+  "Pale of Settlement, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Galicia and Bukovina": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Sarajevo": {
+    "country": "BA",
+    "region": "Balkans",
+    "continent": "Europe",
+    "lat": 43.9,
+    "lon": 18.4,
+    "_matchedSuffix": "Sarajevo",
+    "x": 544.1,
+    "y": 94.5
+  },
+  "Galicia, Bukovina, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Siberia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 60,
+    "lon": 105,
+    "_matchedSuffix": "Siberia",
+    "x": 719.7,
+    "y": 49
+  },
+  "Warsaw": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52.2,
+    "lon": 21,
+    "_matchedSuffix": "Warsaw",
+    "x": 547.2,
+    "y": 69.7
+  },
+  "Warsaw, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Petrograd, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Kyiv, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Former Pale of Settlement": {
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": 28,
+    "_matchedSuffix": "Former Pale of Settlement",
+    "x": 562,
+    "y": 64.7
+  },
+  "Jerusalem, Palestine": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.9,
+    "lon": 35.2,
+    "_matchedSuffix": "Palestine",
+    "x": 590.6,
+    "y": 133.9
+  },
+  "Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Brest-Litovsk": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52.1,
+    "lon": 23.7,
+    "_matchedSuffix": "Brest-Litovsk",
+    "x": 553.4,
+    "y": 70
+  },
+  "Minsk, Belarus": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.7,
+    "lon": 27.9,
+    "_matchedSuffix": "Belarus",
+    "x": 562,
+    "y": 65.5
+  },
+  "Petrograd to Lublin": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Greenpoint, Brooklyn": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.6,
+    "lon": -73.9,
+    "_matchedSuffix": "Brooklyn",
+    "x": 318.7,
+    "y": 105
+  },
+  "Lviv, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Berdichev, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Proskurov, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Volkovysk, Belarus": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.7,
+    "lon": 27.9,
+    "_matchedSuffix": "Belarus",
+    "x": 562,
+    "y": 65.5
+  },
+  "Pinsk, Belarus": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.7,
+    "lon": 27.9,
+    "_matchedSuffix": "Belarus",
+    "x": 562,
+    "y": 65.5
+  },
+  "Vilna, Lithuania": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.2,
+    "lon": 23.9,
+    "_matchedSuffix": "Lithuania",
+    "x": 552.4,
+    "y": 61.4
+  },
+  "Berdichev/Kyiv, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Palestine": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.9,
+    "lon": 35.2,
+    "_matchedSuffix": "Palestine",
+    "x": 590.6,
+    "y": 133.9
+  },
+  "Gomel, Belarus": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.7,
+    "lon": 27.9,
+    "_matchedSuffix": "Belarus",
+    "x": 562,
+    "y": 65.5
+  },
+  "Krakow, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Izabelin, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Poland/Russia": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "New York, USA": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "USA",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "Danzig": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 54.4,
+    "lon": 18.6,
+    "_matchedSuffix": "Danzig",
+    "x": 541,
+    "y": 63.6
+  },
+  "Jaffa, Palestine": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.9,
+    "lon": 35.2,
+    "_matchedSuffix": "Palestine",
+    "x": 590.6,
+    "y": 133.9
+  },
+  "Uniondale, Long Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.8,
+    "lon": -73.2,
+    "_matchedSuffix": "Long Island",
+    "x": 320.7,
+    "y": 104.3
+  },
+  "Miedzeszyn, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Soviet Union": {
+    "country": "SU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Soviet Union",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Vienna, Austria": {
+    "country": "AT",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 47.5,
+    "lon": 14.5,
+    "_matchedSuffix": "Austria",
+    "x": 533.9,
+    "y": 83.5
+  },
+  "Moscow, Soviet Union": {
+    "country": "SU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Soviet Union",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Przytyk, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Brest-Litovsk, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Austria": {
+    "country": "AT",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 47.5,
+    "lon": 14.5,
+    "_matchedSuffix": "Austria",
+    "x": 533.9,
+    "y": 83.5
+  },
+  "Evian-les-Bains, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Sudetenland, Czechoslovakia": {
+    "country": "CS",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 15.5,
+    "_matchedSuffix": "Czechoslovakia",
+    "x": 535.5,
+    "y": 76.1
+  },
+  "Zbaszyn, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Czechoslovakia": {
+    "country": "CS",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 15.5,
+    "_matchedSuffix": "Czechoslovakia",
+    "x": 535.5,
+    "y": 76.1
+  },
+  "Memel, Lithuania": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.2,
+    "lon": 23.9,
+    "_matchedSuffix": "Lithuania",
+    "x": 552.4,
+    "y": 61.4
+  },
+  "Hamburg, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Volkovysk, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Pinsk, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Kaunas, Lithuania": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.2,
+    "lon": 23.9,
+    "_matchedSuffix": "Lithuania",
+    "x": 552.4,
+    "y": 61.4
+  },
+  "Kovno, Lithuania": {
+    "country": "LT",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.2,
+    "lon": 23.9,
+    "_matchedSuffix": "Lithuania",
+    "x": 552.4,
+    "y": 61.4
+  },
+  "Seattle, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Leningrad": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 59.9,
+    "lon": 30.3,
+    "_matchedSuffix": "Leningrad",
+    "x": 563.5,
+    "y": 49.2
+  },
+  "Moscow": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Moscow",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Kuybyshev": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.2,
+    "lon": 50.2,
+    "_matchedSuffix": "Kuybyshev",
+    "x": 612,
+    "y": 66.9
+  },
+  "Zhetl": {
+    "country": "BY",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 53.4,
+    "lon": 25.6,
+    "_matchedSuffix": "Zhetl",
+    "x": 557,
+    "y": 66.4
+  },
+  "Auschwitz": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 19.2,
+    "_matchedSuffix": "Auschwitz",
+    "x": 544,
+    "y": 76.1
+  },
+  "Treblinka": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 52.6,
+    "lon": 22,
+    "_matchedSuffix": "Treblinka",
+    "x": 549.3,
+    "y": 68.6
+  },
+  "New York City, United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "London, United Kingdom": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": -2,
+    "_matchedSuffix": "United Kingdom",
+    "x": 495.6,
+    "y": 64.7
+  },
+  "Blizyn, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Stalingrad, Soviet Union": {
+    "country": "SU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Soviet Union",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Kuybyshev, Soviet Union": {
+    "country": "SU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Soviet Union",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Lublin, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Buchenwald": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51,
+    "lon": 11.2,
+    "_matchedSuffix": "Buchenwald",
+    "x": 525.5,
+    "y": 73.2
+  },
+  "Bialystok, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "Feldafing, Bavaria": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 48.8,
+    "lon": 11.5,
+    "_matchedSuffix": "Bavaria",
+    "x": 526.6,
+    "y": 79.6
+  },
+  "Kielce, Poland": {
+    "country": "PL",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 51.9,
+    "lon": 19.1,
+    "_matchedSuffix": "Poland",
+    "x": 543.1,
+    "y": 70.6
+  },
+  "New York City": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York City",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Haifa, Palestine": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.9,
+    "lon": 35.2,
+    "_matchedSuffix": "Palestine",
+    "x": 590.6,
+    "y": 133.9
+  },
+  "Israel/Palestine": {
+    "country": "IL",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31,
+    "lon": 34.9,
+    "_matchedSuffix": "Israel",
+    "x": 590.3,
+    "y": 137
+  },
+  "Queens, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Manhattan, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Melbourne, Australia": {
+    "country": "AU",
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -25.3,
+    "lon": 133.8,
+    "_matchedSuffix": "Australia",
+    "x": 854.5,
+    "y": 343
+  },
+  "Gaza": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.5,
+    "lon": 34.5,
+    "_matchedSuffix": "Gaza",
+    "x": 589,
+    "y": 135.3
+  },
+  "Königsberg–St. Petersburg border": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Rochester, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "San Francisco, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Yakutsk, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "New England": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44,
+    "lon": -71.5,
+    "_matchedSuffix": "New England",
+    "x": 328.6,
+    "y": 94.2
+  },
+  "Pittsburgh, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Homestead, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Western Penitentiary, Allegheny, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Allegheny, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Manhattan Beach, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "South Africa": {
+    "country": "ZA",
+    "region": "Southern Africa",
+    "continent": "Africa",
+    "lat": -30.6,
+    "lon": 22.9,
+    "_matchedSuffix": "South Africa",
+    "x": 559.3,
+    "y": 361.6
+  },
+  "Allegheny City, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Cleveland, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Buffalo, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Auburn, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Kushnev, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Cincinnati, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Detroit, Michigan": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.3,
+    "lon": -85.6,
+    "_matchedSuffix": "Michigan",
+    "x": 295.2,
+    "y": 93.3
+  },
+  "Amsterdam, Holland": {
+    "country": "NL",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 52.1,
+    "lon": 5.3,
+    "_matchedSuffix": "Holland",
+    "x": 511.9,
+    "y": 70
+  },
+  "Glen Ellen, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Los Angeles, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Hudson, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "San Diego, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Ludlow, Colorado": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.5,
+    "lon": -105.8,
+    "_matchedSuffix": "Colorado",
+    "x": 238.7,
+    "y": 108.5
+  },
+  "Europe": {
+    "region": "Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 15,
+    "_matchedSuffix": "Europe",
+    "x": 534.4,
+    "y": 76.1
+  },
+  "Belgium": {
+    "country": "BE",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 50.5,
+    "lon": 4.5,
+    "_matchedSuffix": "Belgium",
+    "x": 510.3,
+    "y": 74.6
+  },
+  "Everett, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Washington, D.C.": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.9,
+    "lon": -77,
+    "_matchedSuffix": "Washington, D.C.",
+    "x": 309.1,
+    "y": 110.5
+  },
+  "Dublin, Ireland": {
+    "country": "IE",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 53.4,
+    "lon": -8,
+    "_matchedSuffix": "Ireland",
+    "x": 482.2,
+    "y": 66.4
+  },
+  "Jefferson City, Missouri": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -92.5,
+    "_matchedSuffix": "Missouri",
+    "x": 270.2,
+    "y": 111.8
+  },
+  "Albany, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Tulsa, Oklahoma": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.5,
+    "lon": -97.5,
+    "_matchedSuffix": "Oklahoma",
+    "x": 253.5,
+    "y": 121.7
+  },
+  "Bisbee, Arizona": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34,
+    "lon": -111.1,
+    "_matchedSuffix": "Arizona",
+    "x": 216.9,
+    "y": 126.8
+  },
+  "Bois de Rappe, Argonne, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Fastov, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "United Kingdom": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": -2,
+    "_matchedSuffix": "United Kingdom",
+    "x": 495.6,
+    "y": 64.7
+  },
+  "Atlanta, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Missouri": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -92.5,
+    "_matchedSuffix": "Missouri",
+    "x": 270.2,
+    "y": 111.8
+  },
+  "Ellis Island, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "New York Harbor, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Kharkov, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Poltava, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Kiev, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Zhmerinka, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Odessa, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Archangel, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "English Channel": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Dmitrov, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Crimea, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Sweden": {
+    "country": "SE",
+    "region": "Scandinavia",
+    "continent": "Europe",
+    "lat": 60.1,
+    "lon": 18.6,
+    "_matchedSuffix": "Sweden",
+    "x": 538.9,
+    "y": 48.7
+  },
+  "Latvia": {
+    "country": "LV",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 56.9,
+    "lon": 24.6,
+    "_matchedSuffix": "Latvia",
+    "x": 553,
+    "y": 56.9
+  },
+  "Reval, Estonia": {
+    "country": "EE",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 58.6,
+    "lon": 25,
+    "_matchedSuffix": "Estonia",
+    "x": 553,
+    "y": 52.5
+  },
+  "Liebenstein, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Toronto, Canada": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 56.1,
+    "lon": -106.3,
+    "_matchedSuffix": "Canada",
+    "x": 269,
+    "y": 59
+  },
+  "China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Bayreuth, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Besançon, Doubs": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "_matchedSuffix": "Doubs"
+  },
+  "Fleurier, Val-de-Travers, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Vaud, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Besançon, Franche-Comté": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "_matchedSuffix": "Franche-Comté"
+  },
+  "Swiss Jura": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 47,
+    "lon": 6.8,
+    "_matchedSuffix": "Swiss Jura",
+    "x": 516,
+    "y": 85
+  },
+  "Leipzig, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Darmstadt": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 49.9,
+    "lon": 8.7,
+    "_matchedSuffix": "Darmstadt",
+    "x": 520,
+    "y": 76.4
+  },
+  "Neuchatel, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Doubs, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Seine, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Dresden, Saxony": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51,
+    "lon": 13.4,
+    "_matchedSuffix": "Saxony",
+    "x": 530.5,
+    "y": 73.2
+  },
+  "Caserta, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Rodez, Aveyron": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "_matchedSuffix": "Aveyron"
+  },
+  "Passy, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "La Chaux-de-Fonds, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Le Locle, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Lausanne, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Saint-Imier Valley, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Eisenach, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Basle, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Locarno, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Lyon, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Marseilles, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Jura, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Sonvilier, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Rimini, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Saint-Imier, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Córdoba, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Netherlands": {
+    "country": "NL",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 52.1,
+    "lon": 5.3,
+    "_matchedSuffix": "Netherlands",
+    "x": 511.9,
+    "y": 70
+  },
+  "Bologna, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Vevey, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Scotland": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 56.5,
+    "lon": -4.2,
+    "_matchedSuffix": "Scotland",
+    "x": 490.9,
+    "y": 57.9
+  },
+  "Benevento, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Chaux-de-Fonds, Switzerland": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.8,
+    "lon": 8.2,
+    "_matchedSuffix": "Switzerland",
+    "x": 519.3,
+    "y": 85.6
+  },
+  "Chaux-de-Fonds, Swiss Jura": {
+    "country": "CH",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 47,
+    "lon": 6.8,
+    "_matchedSuffix": "Swiss Jura",
+    "x": 516,
+    "y": 85
+  },
+  "Le Havre, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Clairvaux, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Northern France": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 49.5,
+    "lon": 2.7,
+    "_matchedSuffix": "Northern France",
+    "x": 506.2,
+    "y": 77.5
+  },
+  "Lyons, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Lille, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Bordeaux, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "León, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Ancona, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Rambouillet, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Amiens, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Amsterdam": {
+    "country": "NL",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": 4.9,
+    "_matchedSuffix": "Amsterdam",
+    "x": 511,
+    "y": 69.2
+  },
+  "Siberia, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Draveil, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Kiel, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Kursk, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Southern Ukraine": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 47,
+    "lon": 35,
+    "_matchedSuffix": "Southern Ukraine",
+    "x": 582.1,
+    "y": 85
+  },
+  "Greater Mikhailovka, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Gulyai-Polye, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Munich, Bavaria": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 48.8,
+    "lon": 11.5,
+    "_matchedSuffix": "Bavaria",
+    "x": 526.6,
+    "y": 79.6
+  },
+  "Dmitrov, Moscow Guberniya": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Moscow Guberniya",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Gulyai-Polye area, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Gaitchur Station, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Alexandrovsk, Ukraine": {
+    "country": "UA",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 48.4,
+    "lon": 31.2,
+    "_matchedSuffix": "Ukraine",
+    "x": 572.4,
+    "y": 80.8
+  },
+  "Lozère, Palaiseau, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Crimea": {
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 45,
+    "lon": 34.2,
+    "_matchedSuffix": "Crimea",
+    "x": 581.4,
+    "y": 91.1
+  },
+  "Romania": {
+    "country": "RO",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 45.9,
+    "lon": 24.9,
+    "_matchedSuffix": "Romania",
+    "x": 558.9,
+    "y": 88.3
+  },
+  "Saint-Etienne, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Zaragoza, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Cuba": {
+    "country": "CU",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 21.5,
+    "lon": -77.8,
+    "_matchedSuffix": "Cuba",
+    "x": 291.1,
+    "y": 170.5
+  },
+  "Fuerteventura, Canary Islands": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 28.3,
+    "lon": -16.6,
+    "_matchedSuffix": "Canary Islands",
+    "x": 456.5,
+    "y": 146.4
+  },
+  "Casas Viejas, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Nice, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Morocco": {
+    "country": "MA",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 31.8,
+    "lon": -7.1,
+    "_matchedSuffix": "Morocco",
+    "x": 481.7,
+    "y": 134.3
+  },
+  "Lecera, Aragon": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragon",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Monte Pelado": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Malaga, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Aragon, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Levante, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Nîmes, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Muret, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "London, UK": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": -2,
+    "_matchedSuffix": "UK",
+    "x": 495.6,
+    "y": 64.7
+  },
+  "Africa": {
+    "region": "Africa",
+    "continent": "Africa",
+    "lat": 3,
+    "lon": 21,
+    "_matchedSuffix": "Africa",
+    "x": 558.3,
+    "y": 238.8
+  },
+  "Kenya": {
+    "country": "KE",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 0,
+    "lon": 37.9,
+    "_matchedSuffix": "Kenya",
+    "x": 605.3,
+    "y": 250
+  },
+  "Sunghir, Russia / Dolní Věstonice, Moravia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Altamira, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Central and Eastern Europe": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Florida": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 27.8,
+    "lon": -81.7,
+    "_matchedSuffix": "Florida",
+    "x": 285.7,
+    "y": 148.1
+  },
+  "Dordogne, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Fertile Crescent": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 43,
+    "_matchedSuffix": "Fertile Crescent",
+    "x": 610.1,
+    "y": 130.2
+  },
+  "Northern Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 39,
+    "_matchedSuffix": "Northern Syria",
+    "x": 598,
+    "y": 118.4
+  },
+  "Göbekli Tepe, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Levantine Corridor, Jordan Valley": {
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 32,
+    "lon": 35.5,
+    "_matchedSuffix": "Jordan Valley",
+    "x": 591.4,
+    "y": 133.6
+  },
+  "Urfa valley, Anatolia": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Anatolia",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Lake Shigirskoe, Central Urals": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 60,
+    "lon": 60,
+    "_matchedSuffix": "Urals",
+    "x": 625.6,
+    "y": 49
+  },
+  "Middle East": {
+    "region": "Middle East",
+    "continent": "Asia",
+    "lat": 29,
+    "lon": 40,
+    "_matchedSuffix": "Middle East",
+    "x": 604.4,
+    "y": 143.9
+  },
+  "Northern China": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 40,
+    "lon": 110,
+    "_matchedSuffix": "Northern China",
+    "x": 770.8,
+    "y": 106.9
+  },
+  "Levantine Corridor": {
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 32,
+    "lon": 35.5,
+    "_matchedSuffix": "Levantine Corridor",
+    "x": 591.4,
+    "y": 133.6
+  },
+  "Konya Plain, Anatolia": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Anatolia",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Çatalhöyük, Anatolia": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Anatolia",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Amazonia": {
+    "region": "South America",
+    "continent": "South America",
+    "lat": -3.5,
+    "lon": -62,
+    "_matchedSuffix": "Amazonia",
+    "x": 327.9,
+    "y": 263.1
+  },
+  "Tell Sabi Abyad, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Anatolia": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Anatolia",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Central Europe": {
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 15,
+    "_matchedSuffix": "Central Europe",
+    "x": 534.4,
+    "y": 76.1
+  },
+  "Nile Valley, Egypt and Sudan": {
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Nile Valley",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Varna, Bulgaria": {
+    "country": "BG",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 42.7,
+    "lon": 25.5,
+    "_matchedSuffix": "Bulgaria",
+    "x": 561.7,
+    "y": 98.3
+  },
+  "Pontic steppe": {
+    "region": "Eurasia",
+    "continent": "Asia",
+    "lat": 48,
+    "lon": 35,
+    "_matchedSuffix": "Pontic steppe",
+    "x": 581.5,
+    "y": 82
+  },
+  "Aomori Prefecture, Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "Lower Mississippi, North America": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -100,
+    "_matchedSuffix": "North America",
+    "x": 253.8,
+    "y": 106.9
+  },
+  "Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Nile Valley, Egypt": {
+    "country": "EG",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Egypt",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Egypt": {
+    "country": "EG",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Egypt",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Britain": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": -2,
+    "_matchedSuffix": "Britain",
+    "x": 495.6,
+    "y": 64.7
+  },
+  "Uruk, southern Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Arslantepe, eastern Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Uruk, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "eastern Anatolia": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Anatolia",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Bothnian Sea, Sweden/Finland": {
+    "country": "SE",
+    "region": "Scandinavia",
+    "continent": "Europe",
+    "lat": 60.1,
+    "lon": 18.6,
+    "_matchedSuffix": "Sweden",
+    "x": 538.9,
+    "y": 48.7
+  },
+  "Eastern Woodlands, North America": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -100,
+    "_matchedSuffix": "North America",
+    "x": 253.8,
+    "y": 106.9
+  },
+  "Abydos, Egypt": {
+    "country": "EG",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Egypt",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Stonehenge, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Mohenjo-daro, Sindh": {
+    "country": "PK",
+    "region": "South Asia",
+    "continent": "Asia",
+    "lat": 26,
+    "lon": 68.5,
+    "_matchedSuffix": "Sindh",
+    "x": 681,
+    "y": 154.5
+  },
+  "Yellow River valley, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Balkans, Europe": {
+    "region": "Europe",
+    "continent": "Europe",
+    "lat": 50,
+    "lon": 15,
+    "_matchedSuffix": "Europe",
+    "x": 534.4,
+    "y": 76.1
+  },
+  "Shandong, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Caral, Rio Supe, Peru": {
+    "country": "PE",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -9.2,
+    "lon": -75,
+    "_matchedSuffix": "Peru",
+    "x": 292.9,
+    "y": 284.4
+  },
+  "Ur, southern Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Sumer, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Giza, Egypt": {
+    "country": "EG",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Egypt",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Taosi, Jinnan basin, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Lagash, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "British Columbia": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 53.7,
+    "lon": -127.6,
+    "_matchedSuffix": "British Columbia",
+    "x": 216.7,
+    "y": 65.5
+  },
+  "American Southwest": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 34,
+    "lon": -111,
+    "_matchedSuffix": "American Southwest",
+    "x": 217.2,
+    "y": 126.8
+  },
+  "Mashkan-shapir, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Shimao, Tuwei River, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Taosi, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Northwest Coast, North America": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -100,
+    "_matchedSuffix": "North America",
+    "x": 253.8,
+    "y": 106.9
+  },
+  "Eurasia": {
+    "region": "Eurasia",
+    "continent": "Asia",
+    "lat": 55,
+    "lon": 60,
+    "_matchedSuffix": "Eurasia",
+    "x": 631.7,
+    "y": 62
+  },
+  "Pacific Northwest Coast, North America": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -100,
+    "_matchedSuffix": "North America",
+    "x": 253.8,
+    "y": 106.9
+  },
+  "Babylonia, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Mari, Syrian Euphrates": {
+    "country": "SY",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 34.6,
+    "lon": 40.9,
+    "_matchedSuffix": "Mari",
+    "x": 603.9,
+    "y": 124.7
+  },
+  "Babylon, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Knossos, Crete": {
+    "country": "GR",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 35.2,
+    "lon": 24.8,
+    "_matchedSuffix": "Crete",
+    "x": 562.8,
+    "y": 122.7
+  },
+  "Poverty Point, Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Oceania": {
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -22,
+    "lon": 140,
+    "_matchedSuffix": "Oceania",
+    "x": 875.3,
+    "y": 331.3
+  },
+  "Salish Sea, Pacific Northwest": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 46,
+    "lon": -123,
+    "_matchedSuffix": "Pacific Northwest",
+    "x": 209.3,
+    "y": 88
+  },
+  "Mycenae, Greece": {
+    "country": "GR",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 39,
+    "lon": 22,
+    "_matchedSuffix": "Greece",
+    "x": 554.5,
+    "y": 110.2
+  },
+  "South Asia": {
+    "region": "South Asia",
+    "continent": "Asia",
+    "lat": 22,
+    "lon": 78,
+    "_matchedSuffix": "South Asia",
+    "x": 709.1,
+    "y": 168.7
+  },
+  "Anyang, Henan, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Maya lowlands, Mesoamerica": {
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 17,
+    "lon": -92,
+    "_matchedSuffix": "Mesoamerica",
+    "x": 249.8,
+    "y": 186.9
+  },
+  "Central Ohio valley": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -82,
+    "_matchedSuffix": "Ohio valley",
+    "x": 298.1,
+    "y": 106.9
+  },
+  "Assyrian Empire, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Thebes, Egypt": {
+    "country": "EG",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.8,
+    "lon": 30.8,
+    "_matchedSuffix": "Egypt",
+    "x": 581.1,
+    "y": 151.6
+  },
+  "Greece": {
+    "country": "GR",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 39,
+    "lon": 22,
+    "_matchedSuffix": "Greece",
+    "x": 554.5,
+    "y": 110.2
+  },
+  "Valley of Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 19.4,
+    "lon": -99.1,
+    "_matchedSuffix": "Valley of Mexico",
+    "x": 232.2,
+    "y": 178.1
+  },
+  "Scioto and Paint Creek river valleys, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Teotihuacan, Valley of Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 19.4,
+    "lon": -99.1,
+    "_matchedSuffix": "Valley of Mexico",
+    "x": 232.2,
+    "y": 178.1
+  },
+  "Yucatan Peninsula": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Teotihuacan, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Tikal, Guatemala": {
+    "country": "GT",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 15.8,
+    "lon": -90.2,
+    "_matchedSuffix": "Guatemala",
+    "x": 254,
+    "y": 191.3
+  },
+  "Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Mississippi valley": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35,
+    "lon": -90,
+    "_matchedSuffix": "Mississippi valley",
+    "x": 271.9,
+    "y": 123.4
+  },
+  "Oaxaca": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 17.1,
+    "lon": -96.7,
+    "_matchedSuffix": "Oaxaca",
+    "x": 237.1,
+    "y": 186.5
+  },
+  "Cahokia, American Bottom": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -90.2,
+    "_matchedSuffix": "American Bottom",
+    "x": 275.9,
+    "y": 111.8
+  },
+  "Yaxchilán, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "East St Louis": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Central Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Etowah valley, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "East St Louis (Cahokia)": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Iroquoia": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43,
+    "lon": -76,
+    "_matchedSuffix": "Iroquoia",
+    "x": 316.5,
+    "y": 97.3
+  },
+  "Cahokia, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Ontario": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 51.3,
+    "lon": -85.3,
+    "_matchedSuffix": "Ontario",
+    "x": 306.6,
+    "y": 72.3
+  },
+  "Cahokia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.7,
+    "lon": -90.1,
+    "_matchedSuffix": "Cahokia",
+    "x": 276.4,
+    "y": 111.1
+  },
+  "Tlaxcala, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Etowah, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "American Bottom": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -90.2,
+    "_matchedSuffix": "American Bottom",
+    "x": 275.9,
+    "y": 111.8
+  },
+  "Mesoamerica": {
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 17,
+    "lon": -92,
+    "_matchedSuffix": "Mesoamerica",
+    "x": 249.8,
+    "y": 186.9
+  },
+  "Atzcapotzalco, Mesoamerica": {
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 17,
+    "lon": -92,
+    "_matchedSuffix": "Mesoamerica",
+    "x": 249.8,
+    "y": 186.9
+  },
+  "Palos de la Frontera, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Charlotte Harbor, Florida": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 27.8,
+    "lon": -81.7,
+    "_matchedSuffix": "Florida",
+    "x": 285.7,
+    "y": 148.1
+  },
+  "Toledo, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Tenochtitlan, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Tenochtitlan, Valley of Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 19.4,
+    "lon": -99.1,
+    "_matchedSuffix": "Valley of Mexico",
+    "x": 232.2,
+    "y": 178.1
+  },
+  "Florida to Mexico": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Cajamarca, Peru": {
+    "country": "PE",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -9.2,
+    "lon": -75,
+    "_matchedSuffix": "Peru",
+    "x": 292.9,
+    "y": 284.4
+  },
+  "Coosa (Little Egypt)": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Yucatán, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Grand Chaco, Paraguay": {
+    "country": "PY",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -23.4,
+    "lon": -58.4,
+    "_matchedSuffix": "Paraguay",
+    "x": 344.2,
+    "y": 336.3
+  },
+  "Peru": {
+    "country": "PE",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -9.2,
+    "lon": -75,
+    "_matchedSuffix": "Peru",
+    "x": 292.9,
+    "y": 284.4
+  },
+  "Mexico City": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 19.4,
+    "lon": -99.1,
+    "_matchedSuffix": "Mexico City",
+    "x": 232.2,
+    "y": 178.1
+  },
+  "Exeter, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Nova Scotia": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 45,
+    "lon": -63,
+    "_matchedSuffix": "Nova Scotia",
+    "x": 350,
+    "y": 91.1
+  },
+  "Attiwandaronk territory, Ontario": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 51.3,
+    "lon": -85.3,
+    "_matchedSuffix": "Ontario",
+    "x": 306.6,
+    "y": 72.3
+  },
+  "Attiwandaronk territory": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Wing, Rutland, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Canada": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 56.1,
+    "lon": -106.3,
+    "_matchedSuffix": "Canada",
+    "x": 269,
+    "y": 59
+  },
+  "Durham, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Quebec, New France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Wendat territory": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44,
+    "lon": -79,
+    "_matchedSuffix": "Wendat territory",
+    "x": 310.6,
+    "y": 94.2
+  },
+  "Kienuka, Niagara gorge": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.1,
+    "lon": -79,
+    "_matchedSuffix": "Niagara gorge",
+    "x": 309.4,
+    "y": 97
+  },
+  "Missouri River": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -96,
+    "_matchedSuffix": "Missouri River",
+    "x": 265.1,
+    "y": 103.7
+  },
+  "Fort Frontenac": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.2,
+    "lon": -76.5,
+    "_matchedSuffix": "Fort Frontenac",
+    "x": 316.8,
+    "y": 93.6
+  },
+  "Montreal, New France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Hanover": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": 9.7,
+    "_matchedSuffix": "Hanover",
+    "x": 521.8,
+    "y": 69.2
+  },
+  "American Southeast": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 33,
+    "lon": -84,
+    "_matchedSuffix": "American Southeast",
+    "x": 284.9,
+    "y": 130.2
+  },
+  "Dijon, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "New Caledonia": {
+    "country": "NC",
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -20.9,
+    "lon": 165.6,
+    "_matchedSuffix": "New Caledonia",
+    "x": 945.5,
+    "y": 327.3
+  },
+  "Hawaii": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 20.8,
+    "lon": -156.5,
+    "_matchedSuffix": "Hawaii",
+    "x": 78.9,
+    "y": 173.1
+  },
+  "Sacramento River, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Cakaudrove, Fiji": {
+    "country": "FJ",
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -17.7,
+    "lon": 178.1,
+    "_matchedSuffix": "Fiji",
+    "x": 983.5,
+    "y": 315.7
+  },
+  "Devon, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "Klamath River mouth, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Siletz Reservation, Oregon": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.8,
+    "lon": -120.6,
+    "_matchedSuffix": "Oregon",
+    "x": 210.4,
+    "y": 94.8
+  },
+  "Florida Keys": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 24.7,
+    "lon": -81.4,
+    "_matchedSuffix": "Florida Keys",
+    "x": 283.8,
+    "y": 159.1
+  },
+  "Torres Strait": {
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -10,
+    "lon": 142,
+    "_matchedSuffix": "Torres Strait",
+    "x": 891.6,
+    "y": 287.3
+  },
+  "Jericho": {
+    "country": "PS",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 31.9,
+    "lon": 35.5,
+    "_matchedSuffix": "Jericho",
+    "x": 591.4,
+    "y": 133.9
+  },
+  "Sudan": {
+    "country": "SD",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 12.9,
+    "lon": 30.2,
+    "_matchedSuffix": "Sudan",
+    "x": 582.9,
+    "y": 201.9
+  },
+  "Lower Mississippi Valley": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35,
+    "lon": -90,
+    "_matchedSuffix": "Mississippi Valley",
+    "x": 271.9,
+    "y": 123.4
+  },
+  "Ur, Mesopotamia": {
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33,
+    "lon": 44,
+    "_matchedSuffix": "Mesopotamia",
+    "x": 612.7,
+    "y": 130.2
+  },
+  "Rio Dimití, Brazil": {
+    "country": "BR",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -14.2,
+    "lon": -51.9,
+    "_matchedSuffix": "Brazil",
+    "x": 357.9,
+    "y": 302.9
+  },
+  "Mato Grosso, Brazil": {
+    "country": "BR",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -14.2,
+    "lon": -51.9,
+    "_matchedSuffix": "Brazil",
+    "x": 357.9,
+    "y": 302.9
+  },
+  "Ukraine and Moldova": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Glasgow, Scotland": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 56.5,
+    "lon": -4.2,
+    "_matchedSuffix": "Scotland",
+    "x": 490.9,
+    "y": 57.9
+  },
+  "Venezuela": {
+    "country": "VE",
+    "region": "South America",
+    "continent": "South America",
+    "lat": 6.4,
+    "lon": -66.6,
+    "_matchedSuffix": "Venezuela",
+    "x": 315.6,
+    "y": 226.1
+  },
+  "Harran Plain, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Alps": {
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 46.5,
+    "lon": 9.5,
+    "_matchedSuffix": "Alps",
+    "x": 522.4,
+    "y": 86.5
+  },
+  "Australia": {
+    "country": "AU",
+    "region": "Oceania",
+    "continent": "Oceania",
+    "lat": -25.3,
+    "lon": 133.8,
+    "_matchedSuffix": "Australia",
+    "x": 854.5,
+    "y": 343
+  },
+  "Tabasco, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Southern Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Tōhoku, Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "Kurdistan, Ottoman Empire": {
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Ottoman Empire",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Iran": {
+    "country": "IR",
+    "region": "Persia",
+    "continent": "Asia",
+    "lat": 32.4,
+    "lon": 53.7,
+    "_matchedSuffix": "Iran",
+    "x": 637.9,
+    "y": 132.2
+  },
+  "Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Sèvres, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  },
+  "Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Cyprus": {
+    "country": "CY",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 35.1,
+    "lon": 33.4,
+    "_matchedSuffix": "Cyprus",
+    "x": 584.6,
+    "y": 123.1
+  },
+  "Istanbul, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Kuwait": {
+    "country": "KW",
+    "region": "Arabian Peninsula",
+    "continent": "Asia",
+    "lat": 29.3,
+    "lon": 47.5,
+    "_matchedSuffix": "Kuwait",
+    "x": 623.8,
+    "y": 142.9
+  },
+  "Iraqi Kurdistan, Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Chiapas, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Nairobi, Kenya": {
+    "country": "KE",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 0,
+    "lon": 37.9,
+    "_matchedSuffix": "Kenya",
+    "x": 605.3,
+    "y": 250
+  },
+  "Argentina": {
+    "country": "AR",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -38.4,
+    "lon": -63.6,
+    "_matchedSuffix": "Argentina",
+    "x": 341.9,
+    "y": 387.9
+  },
+  "Fallujah, Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Kazakhstan": {
+    "country": "KZ",
+    "region": "Central Asia",
+    "continent": "Asia",
+    "lat": 48,
+    "lon": 66.9,
+    "_matchedSuffix": "Kazakhstan",
+    "x": 655.7,
+    "y": 82
+  },
+  "Rojava, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Syria and Iraq": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "North Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 37,
+    "lon": 41,
+    "_matchedSuffix": "North Kurdistan",
+    "x": 602.8,
+    "y": 116.7
+  },
+  "Tell Halaf": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 36.8,
+    "lon": 40,
+    "_matchedSuffix": "Tell Halaf",
+    "x": 600.4,
+    "y": 117.4
+  },
+  "Serêkaniyê, Cizîrê Canton": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê Canton",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Baghdad, Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Kobanî, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Ottoman Empire": {
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Ottoman Empire",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Deir ez-Zor, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Hesekê, Cizîrê Canton": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê Canton",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Serêkaniyê": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.8,
+    "lon": 40.1,
+    "_matchedSuffix": "Serêkaniyê",
+    "x": 600.6,
+    "y": 117.4
+  },
+  "Cizîrê, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Qamişlo, Cizîrê Canton": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê Canton",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Cizîrê, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Derna, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 43,
+    "_matchedSuffix": "Kurdistan",
+    "x": 608.1,
+    "y": 118.4
+  },
+  "Til Hemîs, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Hama, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "North Kurdistan, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "South Kurdistan (Iraqi Kurdistan)": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "South Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Gare, South Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "South Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Ceyhan, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Maxmur (Makhmur), South Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "South Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Qamişlo, Cizîrê": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Qamişlo, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Dêrîk, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Qamişlo, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Mosul, Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Mosul": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 36.3,
+    "lon": 43.1,
+    "_matchedSuffix": "Mosul",
+    "x": 608.5,
+    "y": 119
+  },
+  "Lebanon": {
+    "country": "LB",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 33.9,
+    "lon": 35.5,
+    "_matchedSuffix": "Lebanon",
+    "x": 590.5,
+    "y": 127.1
+  },
+  "Syrian Kurdistan": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Syrian Kurdistan",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Aleppo, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Damascus, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Neuss, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Tunisia; Egypt": {
+    "country": "TN",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 33.9,
+    "lon": 9.5,
+    "_matchedSuffix": "Tunisia",
+    "x": 524.2,
+    "y": 127.1
+  },
+  "Afrîn, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Dara'a, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Til Temir": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.7,
+    "lon": 40.5,
+    "_matchedSuffix": "Til Temir",
+    "x": 601.7,
+    "y": 117.7
+  },
+  "Tunis, Tunisia": {
+    "country": "TN",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 33.9,
+    "lon": 9.5,
+    "_matchedSuffix": "Tunisia",
+    "x": 524.2,
+    "y": 127.1
+  },
+  "Kobanî, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Hewlêr, Kurdistan Region": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Kurdistan Region",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Hewlêr (Erbil), South Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "South Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Damascus and Aleppo, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Kobanî, Rojava, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Şêx Maqsûd, Aleppo, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Qatar": {
+    "country": "QA",
+    "region": "Arabian Peninsula",
+    "continent": "Asia",
+    "lat": 25.4,
+    "lon": 51.2,
+    "_matchedSuffix": "Qatar",
+    "x": 635.6,
+    "y": 156.6
+  },
+  "Serêkaniyê, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Antakya, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Kobanî Canton, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Qandil Mountains": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 45,
+    "_matchedSuffix": "Qandil Mountains",
+    "x": 613.1,
+    "y": 118.4
+  },
+  "Hesekê, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Nisêbîn, North Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 37,
+    "lon": 41,
+    "_matchedSuffix": "North Kurdistan",
+    "x": 602.8,
+    "y": 116.7
+  },
+  "Hesekê province, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Iraqi Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Iraqi Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Til Koçer, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Til Koçer, Cizîrê Canton": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê Canton",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Hesekê, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Antep, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Til Hasil and Til Aran, Aleppo region, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Raqqa, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "South Kurdistan, Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "lat": 33.2,
+    "lon": 43.7,
+    "_matchedSuffix": "Iraq",
+    "x": 611.8,
+    "y": 129.5
+  },
+  "Dêrîk, Rojava, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Tirbespî, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Şengal, North Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 37,
+    "lon": 41,
+    "_matchedSuffix": "North Kurdistan",
+    "x": 602.8,
+    "y": 116.7
+  },
+  "Serêkaniyê, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Şengal, northern Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "_matchedSuffix": "northern Iraq"
+  },
+  "Azaz, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Şengal, Iraqi Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Iraqi Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Manbij, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "South Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "South Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Til Koçer, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Amûdê, Cizîrê, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Cizîrê canton, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Til Xenzir, Cizîrê": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Serêkaniyê, Cizîrê canton": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.8,
+    "lon": 40.1,
+    "_matchedSuffix": "Serêkaniyê",
+    "x": 600.6,
+    "y": 117.4
+  },
+  "Rimelan, Cizîrê": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "Serêkaniyê region, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Amed, Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 43,
+    "_matchedSuffix": "Kurdistan",
+    "x": 608.1,
+    "y": 118.4
+  },
+  "Maxmur, Iraqi Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Iraqi Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Kirkuk, Iraqi Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Iraqi Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Mount Şengal, northern Iraq": {
+    "country": "IQ",
+    "region": "Mesopotamia",
+    "continent": "Asia",
+    "_matchedSuffix": "northern Iraq"
+  },
+  "Frankfurt, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Dohuk, Iraqi Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 44,
+    "_matchedSuffix": "Iraqi Kurdistan",
+    "x": 610.8,
+    "y": 119.4
+  },
+  "Amed (Diyarbakir), Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Cizîre, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Girê Spî (Til Abyad), Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Afrîn, Rojava, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Syria / Iraq border region": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Afrîn, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Til Barak, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Cizîre canton, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Idlib, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Girê Spî (Til Abyad), Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Girê Spî, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Girê Spî, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Til Temir, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Efrîn, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Turkey / Syria border": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Dirbesiyê, Cizîrê": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 40.7,
+    "_matchedSuffix": "Cizîrê",
+    "x": 602.3,
+    "y": 118.4
+  },
+  "As Suwayda, southern Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Euphrates River, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Afrîn canton, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Şengal, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Nîsebîn, Turkish-occupied Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 37,
+    "lon": 41.2,
+    "_matchedSuffix": "Nîsebîn",
+    "x": 603.3,
+    "y": 116.7
+  },
+  "Basufan, Afrîn canton, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Dêrîk, Cizîrê, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Jarabulus, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Al-Shaddadi, Hesekê, Syria": {
+    "country": "SY",
+    "region": "Levant",
+    "continent": "Asia",
+    "lat": 35,
+    "lon": 38,
+    "_matchedSuffix": "Syria",
+    "x": 596.3,
+    "y": 123.4
+  },
+  "Semalka, Kurdistan": {
+    "region": "Kurdistan",
+    "continent": "Asia",
+    "lat": 36.5,
+    "lon": 43,
+    "_matchedSuffix": "Kurdistan",
+    "x": 608.1,
+    "y": 118.4
+  },
+  "Rimelan, Rojava": {
+    "region": "Rojava",
+    "continent": "Asia",
+    "lat": 36.4,
+    "lon": 40.7,
+    "_matchedSuffix": "Rojava",
+    "x": 602.4,
+    "y": 118.7
+  },
+  "Kilis, Turkey": {
+    "country": "TR",
+    "region": "Anatolia",
+    "continent": "Asia",
+    "lat": 39,
+    "lon": 35,
+    "_matchedSuffix": "Turkey",
+    "x": 586.7,
+    "y": 110.2
+  },
+  "Hispaniola": {
+    "country": "HT",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 19,
+    "lon": -71,
+    "_matchedSuffix": "Hispaniola",
+    "x": 307.9,
+    "y": 179.6
+  },
+  "Caribbean": {
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 15,
+    "lon": -75,
+    "_matchedSuffix": "Caribbean",
+    "x": 295.1,
+    "y": 194.2
+  },
+  "Hispaniola; Puerto Rico; Santa Marta; Panama": {
+    "country": "HT",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 19,
+    "lon": -71,
+    "_matchedSuffix": "Hispaniola",
+    "x": 307.9,
+    "y": 179.6
+  },
+  "Venice, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Benin, West Africa": {
+    "region": "West Africa",
+    "continent": "Africa",
+    "lat": 10,
+    "lon": -2,
+    "_matchedSuffix": "West Africa",
+    "x": 494.5,
+    "y": 212.7
+  },
+  "Jamestown, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Loando (Luanda), Angola": {
+    "country": "AO",
+    "region": "Southern Africa",
+    "continent": "Africa",
+    "lat": -11.2,
+    "lon": 17.9,
+    "_matchedSuffix": "Angola",
+    "x": 549.3,
+    "y": 291.8
+  },
+  "Connecticut": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.6,
+    "lon": -72.7,
+    "_matchedSuffix": "Connecticut",
+    "x": 322.8,
+    "y": 101.8
+  },
+  "Maine coast": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Marblehead, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Massachusetts Bay Colony": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.1,
+    "_matchedSuffix": "Massachusetts Bay Colony",
+    "x": 327.7,
+    "y": 99.2
+  },
+  "Gloucester, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Maine": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 45.4,
+    "lon": -69.2,
+    "_matchedSuffix": "Maine",
+    "x": 335.7,
+    "y": 89.9
+  },
+  "Martha's Vineyard": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.4,
+    "lon": -70.6,
+    "_matchedSuffix": "Martha's Vineyard",
+    "x": 327.7,
+    "y": 102.4
+  },
+  "Maryland": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39,
+    "lon": -76.7,
+    "_matchedSuffix": "Maryland",
+    "x": 310,
+    "y": 110.2
+  },
+  "York County, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Block Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.2,
+    "lon": -71.6,
+    "_matchedSuffix": "Block Island",
+    "x": 325.1,
+    "y": 103
+  },
+  "Gloucester County, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "York River, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Northern Neck, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Boston, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "South Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.8,
+    "lon": -80.9,
+    "_matchedSuffix": "South Carolina",
+    "x": 293.6,
+    "y": 127.4
+  },
+  "Dock Square, Boston, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Stono, South Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.8,
+    "lon": -80.9,
+    "_matchedSuffix": "South Carolina",
+    "x": 293.6,
+    "y": 127.4
+  },
+  "Newark, New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "Belfast to Boston": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Charleston, South Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.8,
+    "lon": -80.9,
+    "_matchedSuffix": "South Carolina",
+    "x": 293.6,
+    "y": 127.4
+  },
+  "Leedstown, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Hudson Valley, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Orange County, North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "New York; Newport, Rhode Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "North America": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -100,
+    "_matchedSuffix": "North America",
+    "x": 253.8,
+    "y": 106.9
+  },
+  "North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "Dutchess County, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Hillsborough, North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "Bennington, Vermont": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44,
+    "lon": -72.7,
+    "_matchedSuffix": "Vermont",
+    "x": 325.7,
+    "y": 94.2
+  },
+  "Philadelphia, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Lexington and Concord, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Saratoga, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Dartmouth, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Yorktown, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Morristown, New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "Western Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Exeter, New Hampshire": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.7,
+    "lon": -71.6,
+    "_matchedSuffix": "New Hampshire",
+    "x": 328,
+    "y": 95.1
+  },
+  "Worcester, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Southern United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -87,
+    "_matchedSuffix": "Southern United States",
+    "x": 277.2,
+    "y": 130.2
+  },
+  "Western Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Liverpool, England": {
+    "country": "GB",
+    "region": "British Isles",
+    "continent": "Europe",
+    "lat": 52.4,
+    "lon": -1.5,
+    "_matchedSuffix": "England",
+    "x": 496.6,
+    "y": 69.2
+  },
+  "New Hampshire": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.7,
+    "lon": -71.6,
+    "_matchedSuffix": "New Hampshire",
+    "x": 328,
+    "y": 95.1
+  },
+  "Haiti": {
+    "country": "HT",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 18.9,
+    "lon": -72.3,
+    "_matchedSuffix": "Haiti",
+    "x": 304.4,
+    "y": 179.9
+  },
+  "New Orleans, Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Waltham, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Troy, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Pawtucket, Rhode Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.7,
+    "lon": -71.5,
+    "_matchedSuffix": "Rhode Island",
+    "x": 325.9,
+    "y": 101.4
+  },
+  "Dover, New Hampshire": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.7,
+    "lon": -71.6,
+    "_matchedSuffix": "New Hampshire",
+    "x": 328,
+    "y": 95.1
+  },
+  "Southampton County, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "British West Indies": {
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 15,
+    "lon": -60,
+    "_matchedSuffix": "British West Indies",
+    "x": 336.1,
+    "y": 194.2
+  },
+  "Lowell, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Baltimore, Maryland": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39,
+    "lon": -76.7,
+    "_matchedSuffix": "Maryland",
+    "x": 310,
+    "y": 110.2
+  },
+  "Texas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 31,
+    "lon": -100,
+    "_matchedSuffix": "Texas",
+    "x": 241.4,
+    "y": 137
+  },
+  "Providence, Rhode Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.7,
+    "lon": -71.5,
+    "_matchedSuffix": "Rhode Island",
+    "x": 325.9,
+    "y": 101.4
+  },
+  "Rhode Island": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41.7,
+    "lon": -71.5,
+    "_matchedSuffix": "Rhode Island",
+    "x": 325.9,
+    "y": 101.4
+  },
+  "Chicopee, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Lynn, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Kensington, Philadelphia, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Fort Jesup, Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Concord, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Rio Grande, Texas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 31,
+    "lon": -100,
+    "_matchedSuffix": "Texas",
+    "x": 241.4,
+    "y": 137
+  },
+  "Rio Grande": {
+    "region": "North America",
+    "continent": "North America",
+    "lat": 29.5,
+    "lon": -103,
+    "_matchedSuffix": "Rio Grande",
+    "x": 231.8,
+    "y": 142.2
+  },
+  "Santa Fe, New Mexico": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34.5,
+    "lon": -106,
+    "_matchedSuffix": "New Mexico",
+    "x": 230.6,
+    "y": 125.1
+  },
+  "Taos, New Mexico": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34.5,
+    "lon": -106,
+    "_matchedSuffix": "New Mexico",
+    "x": 230.6,
+    "y": 125.1
+  },
+  "Gardner, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Greensboro, North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "Grosse Isle, Canada": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 56.1,
+    "lon": -106.3,
+    "_matchedSuffix": "Canada",
+    "x": 269,
+    "y": 59
+  },
+  "northern Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Mexico City, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Guadalupe Hidalgo, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Geneva, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Oberlin, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Syracuse, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Nicaragua": {
+    "country": "NI",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 12.9,
+    "lon": -85.2,
+    "_matchedSuffix": "Nicaragua",
+    "x": 266.2,
+    "y": 201.9
+  },
+  "Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "Okinawa, Ryukyu Islands": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 26.3,
+    "lon": 127.8,
+    "_matchedSuffix": "Ryukyu Islands",
+    "x": 837.3,
+    "y": 153.4
+  },
+  "Greytown, Nicaragua": {
+    "country": "NI",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 12.9,
+    "lon": -85.2,
+    "_matchedSuffix": "Nicaragua",
+    "x": 266.2,
+    "y": 201.9
+  },
+  "Montevideo, Uruguay": {
+    "country": "UY",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -32.5,
+    "lon": -55.8,
+    "_matchedSuffix": "Uruguay",
+    "x": 356.7,
+    "y": 368.1
+  },
+  "Harpers Ferry, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Shanghai, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Lawrence, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Kissembo, Angola": {
+    "country": "AO",
+    "region": "Southern Africa",
+    "continent": "Africa",
+    "lat": -11.2,
+    "lon": 17.9,
+    "_matchedSuffix": "Angola",
+    "x": 549.3,
+    "y": 291.8
+  },
+  "Northern United States": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 42,
+    "lon": -85,
+    "_matchedSuffix": "Northern United States",
+    "x": 293.4,
+    "y": 100.5
+  },
+  "Richmond, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "South Carolina Sea Islands, South Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.8,
+    "lon": -80.9,
+    "_matchedSuffix": "South Carolina",
+    "x": 293.6,
+    "y": 127.4
+  },
+  "Fort Pillow, Kentucky": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.8,
+    "lon": -84.3,
+    "_matchedSuffix": "Kentucky",
+    "x": 289.7,
+    "y": 114.1
+  },
+  "Savannah, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "Confederate States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.5,
+    "lon": -86.8,
+    "_matchedSuffix": "Confederate States",
+    "x": 278.3,
+    "y": 128.5
+  },
+  "Memphis, Tennessee": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.8,
+    "lon": -86.7,
+    "_matchedSuffix": "Tennessee",
+    "x": 281.2,
+    "y": 120.7
+  },
+  "Mobile, Alabama": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.6,
+    "lon": -86.7,
+    "_matchedSuffix": "Alabama",
+    "x": 277.5,
+    "y": 131.5
+  },
+  "Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Utah": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.3,
+    "lon": -111.1,
+    "_matchedSuffix": "Utah",
+    "x": 225.3,
+    "y": 109.2
+  },
+  "Montana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 46.9,
+    "lon": -110.4,
+    "_matchedSuffix": "Montana",
+    "x": 240.8,
+    "y": 85.3
+  },
+  "Alabama and Georgia": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Martinsburg, West Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.6,
+    "lon": -80.5,
+    "_matchedSuffix": "West Virginia",
+    "x": 300.1,
+    "y": 111.5
+  },
+  "St. Louis, Missouri": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -92.5,
+    "_matchedSuffix": "Missouri",
+    "x": 270.2,
+    "y": 111.8
+  },
+  "Shreveport, Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Rock Springs, Wyoming": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43,
+    "lon": -107.5,
+    "_matchedSuffix": "Wyoming",
+    "x": 240.5,
+    "y": 97.3
+  },
+  "Cleburne, Texas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 31,
+    "lon": -100,
+    "_matchedSuffix": "Texas",
+    "x": 241.4,
+    "y": 137
+  },
+  "Thibodaux, Louisiana": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 30.4,
+    "lon": -91.2,
+    "_matchedSuffix": "Louisiana",
+    "x": 263.5,
+    "y": 139.1
+  },
+  "Topeka, Kansas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "_matchedSuffix": "Kansas"
+  },
+  "Pine Ridge, South Dakota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.4,
+    "lon": -100.2,
+    "_matchedSuffix": "South Dakota",
+    "x": 260.4,
+    "y": 92.9
+  },
+  "Wounded Knee, South Dakota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.4,
+    "lon": -100.2,
+    "_matchedSuffix": "South Dakota",
+    "x": 260.4,
+    "y": 92.9
+  },
+  "Arkansas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.2,
+    "lon": -91.8,
+    "_matchedSuffix": "Arkansas",
+    "x": 267.6,
+    "y": 122.7
+  },
+  "Tennessee": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.8,
+    "lon": -86.7,
+    "_matchedSuffix": "Tennessee",
+    "x": 281.2,
+    "y": 120.7
+  },
+  "Omaha, Nebraska": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "_matchedSuffix": "Nebraska"
+  },
+  "Coeur d'Alene, Idaho": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.1,
+    "lon": -114.7,
+    "_matchedSuffix": "Idaho",
+    "x": 225.2,
+    "y": 93.9
+  },
+  "Bluefields, Nicaragua": {
+    "country": "NI",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 12.9,
+    "lon": -85.2,
+    "_matchedSuffix": "Nicaragua",
+    "x": 266.2,
+    "y": 201.9
+  },
+  "Pullman, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Alaska": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 64.2,
+    "lon": -149.5,
+    "_matchedSuffix": "Alaska",
+    "x": 200.3,
+    "y": 39
+  },
+  "Lattimer, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Havana, Cuba": {
+    "country": "CU",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 21.5,
+    "lon": -77.8,
+    "_matchedSuffix": "Cuba",
+    "x": 291.1,
+    "y": 170.5
+  },
+  "Salt Lake City, Utah": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 40.8,
+    "lon": -111.9,
+    "_matchedSuffix": "Salt Lake City, Utah",
+    "x": 225.9,
+    "y": 104.3
+  },
+  "Philippines": {
+    "country": "PH",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 12.9,
+    "lon": 121.8,
+    "_matchedSuffix": "Philippines",
+    "x": 834.2,
+    "y": 201.9
+  },
+  "Latin America": {
+    "region": "Latin America",
+    "continent": "South America",
+    "lat": -15,
+    "lon": -60,
+    "_matchedSuffix": "Latin America",
+    "x": 336.1,
+    "y": 305.8
+  },
+  "Manila, Philippines": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 14.6,
+    "lon": 121,
+    "_matchedSuffix": "Manila, Philippines",
+    "x": 830.9,
+    "y": 195.7
+  },
+  "Kensington, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Panama": {
+    "country": "PA",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 8.5,
+    "lon": -80.8,
+    "_matchedSuffix": "Panama",
+    "x": 276.7,
+    "y": 218.3
+  },
+  "Niagara Falls, Ontario": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 51.3,
+    "lon": -85.3,
+    "_matchedSuffix": "Ontario",
+    "x": 306.6,
+    "y": 72.3
+  },
+  "Idaho": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.1,
+    "lon": -114.7,
+    "_matchedSuffix": "Idaho",
+    "x": 225.2,
+    "y": 93.9
+  },
+  "Allegheny County, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "McKees Rocks, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Spokane, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Atlantic City, New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "Milwaukee, Wisconsin": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.5,
+    "lon": -89.5,
+    "_matchedSuffix": "Wisconsin",
+    "x": 286.2,
+    "y": 92.6
+  },
+  "Kansas City, Missouri": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.5,
+    "lon": -92.5,
+    "_matchedSuffix": "Missouri",
+    "x": 270.2,
+    "y": 111.8
+  },
+  "Fresno, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Aberdeen, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Colorado": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.5,
+    "lon": -105.8,
+    "_matchedSuffix": "Colorado",
+    "x": 238.7,
+    "y": 108.5
+  },
+  "Oklahoma": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.5,
+    "lon": -97.5,
+    "_matchedSuffix": "Oklahoma",
+    "x": 253.5,
+    "y": 121.7
+  },
+  "Vera Cruz, Mexico": {
+    "country": "MX",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 23.6,
+    "lon": -102.6,
+    "_matchedSuffix": "Mexico",
+    "x": 226.5,
+    "y": 163
+  },
+  "Dominican Republic": {
+    "country": "DO",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 18.7,
+    "lon": -70.2,
+    "_matchedSuffix": "Dominican Republic",
+    "x": 309.9,
+    "y": 180.7
+  },
+  "Minnesota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 46.4,
+    "lon": -94.6,
+    "_matchedSuffix": "Minnesota",
+    "x": 277.1,
+    "y": 86.8
+  },
+  "North Dakota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.5,
+    "lon": -100,
+    "_matchedSuffix": "North Dakota",
+    "x": 266.3,
+    "y": 83.5
+  },
+  "East St. Louis, Illinois": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -89,
+    "_matchedSuffix": "Illinois",
+    "x": 280.9,
+    "y": 106.9
+  },
+  "Vladivostok, Russia": {
+    "country": "RU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Russia",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "Brockton, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Birmingham, Alabama": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.6,
+    "lon": -86.7,
+    "_matchedSuffix": "Alabama",
+    "x": 277.5,
+    "y": 131.5
+  },
+  "Ethiopia": {
+    "country": "ET",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 9.1,
+    "lon": 40.5,
+    "_matchedSuffix": "Ethiopia",
+    "x": 611.8,
+    "y": 216
+  },
+  "Nanking, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Newfoundland": {
+    "country": "CA",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 53.1,
+    "lon": -57.7,
+    "_matchedSuffix": "Newfoundland",
+    "x": 371.2,
+    "y": 67.2
+  },
+  "Pearl Harbor, Hawaii": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 20.8,
+    "lon": -156.5,
+    "_matchedSuffix": "Hawaii",
+    "x": 78.9,
+    "y": 173.1
+  },
+  "North Africa": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 25,
+    "lon": 17,
+    "_matchedSuffix": "North Africa",
+    "x": 545.1,
+    "y": 158
+  },
+  "Minneapolis, United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "Casablanca, Morocco": {
+    "country": "MA",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 31.8,
+    "lon": -7.1,
+    "_matchedSuffix": "Morocco",
+    "x": 481.7,
+    "y": 134.3
+  },
+  "Dresden, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Tokyo, Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "Hanoi, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "New Mexico, United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "Potsdam, Germany": {
+    "country": "DE",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "lat": 51.2,
+    "lon": 10.4,
+    "_matchedSuffix": "Germany",
+    "x": 523.6,
+    "y": 72.6
+  },
+  "Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Hiroshima, Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "Nagasaki, Japan": {
+    "country": "JP",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 36.2,
+    "lon": 138.3,
+    "_matchedSuffix": "Japan",
+    "x": 848.2,
+    "y": 119.4
+  },
+  "El Salvador": {
+    "country": "SV",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 13.8,
+    "lon": -88.9,
+    "_matchedSuffix": "El Salvador",
+    "x": 256.5,
+    "y": 198.6
+  },
+  "Haiphong, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "French West Africa": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Western Europe": {
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 48,
+    "lon": 5,
+    "_matchedSuffix": "Western Europe",
+    "x": 511.6,
+    "y": 82
+  },
+  "Peking, China": {
+    "country": "CN",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 104.2,
+    "_matchedSuffix": "China",
+    "x": 762.8,
+    "y": 120.4
+  },
+  "Wheeling, West Virginia": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "lat": 40.1,
+    "lon": -80.7,
+    "_matchedSuffix": "Wheeling, West Virginia",
+    "x": 301.4,
+    "y": 106.6
+  },
+  "Korea": {
+    "country": "KR",
+    "region": "East Asia",
+    "continent": "Asia",
+    "lat": 35.9,
+    "lon": 127.8,
+    "_matchedSuffix": "Korea",
+    "x": 822.3,
+    "y": 120.4
+  },
+  "Santiago, Cuba": {
+    "country": "CU",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 21.5,
+    "lon": -77.8,
+    "_matchedSuffix": "Cuba",
+    "x": 291.1,
+    "y": 170.5
+  },
+  "Guatemala": {
+    "country": "GT",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 15.8,
+    "lon": -90.2,
+    "_matchedSuffix": "Guatemala",
+    "x": 254,
+    "y": 191.3
+  },
+  "Montgomery, Alabama": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.6,
+    "lon": -86.7,
+    "_matchedSuffix": "Alabama",
+    "x": 277.5,
+    "y": 131.5
+  },
+  "Monroe, North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "South Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 10.8,
+    "lon": 106.7,
+    "_matchedSuffix": "South Vietnam",
+    "x": 793.9,
+    "y": 209.7
+  },
+  "Albany, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Bay of Pigs, Cuba": {
+    "country": "CU",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 21.5,
+    "lon": -77.8,
+    "_matchedSuffix": "Cuba",
+    "x": 291.1,
+    "y": 170.5
+  },
+  "Port Huron, Michigan": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.3,
+    "lon": -85.6,
+    "_matchedSuffix": "Michigan",
+    "x": 295.2,
+    "y": 93.3
+  },
+  "Saigon, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Philadelphia, Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "Washington, Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "McComb, Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "Nisqually River, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Alcatraz Island, San Francisco Bay": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.8,
+    "lon": -122.4,
+    "_matchedSuffix": "San Francisco Bay",
+    "x": 194.6,
+    "y": 114.1
+  },
+  "Plain of Jars, Laos": {
+    "country": "LA",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 19.9,
+    "lon": 102.5,
+    "_matchedSuffix": "Laos",
+    "x": 776.6,
+    "y": 176.3
+  },
+  "Honolulu, Hawaii": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 20.8,
+    "lon": -156.5,
+    "_matchedSuffix": "Hawaii",
+    "x": 78.9,
+    "y": 173.1
+  },
+  "Gulf of Tonkin, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Puyallup River, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Quangngai, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Watts, Los Angeles": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34.1,
+    "lon": -118.2,
+    "_matchedSuffix": "Los Angeles",
+    "x": 199,
+    "y": 126.4
+  },
+  "Bien Hoa, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Frank's Landing, Washington": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 47.8,
+    "lon": -120.7,
+    "_matchedSuffix": "Washington",
+    "x": 218.6,
+    "y": 82.6
+  },
+  "Greenville, Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "Dearborn, Michigan": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.3,
+    "lon": -85.6,
+    "_matchedSuffix": "Michigan",
+    "x": 295.2,
+    "y": 93.3
+  },
+  "Fort Jackson, South Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33.8,
+    "lon": -80.9,
+    "_matchedSuffix": "South Carolina",
+    "x": 293.6,
+    "y": 127.4
+  },
+  "San Quentin, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Presidio, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Akwesasne, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "My Lai, Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 14.1,
+    "lon": 108.3,
+    "_matchedSuffix": "Vietnam",
+    "x": 796.5,
+    "y": 197.5
+  },
+  "Catonsville, Maryland": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39,
+    "lon": -76.7,
+    "_matchedSuffix": "Maryland",
+    "x": 310,
+    "y": 110.2
+  },
+  "Tucson, Arizona": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34,
+    "lon": -111.1,
+    "_matchedSuffix": "Arizona",
+    "x": 216.9,
+    "y": 126.8
+  },
+  "West Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.6,
+    "lon": -80.5,
+    "_matchedSuffix": "West Virginia",
+    "x": 300.1,
+    "y": 111.5
+  },
+  "Cambodia": {
+    "country": "KH",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 12.6,
+    "lon": 104.9,
+    "_matchedSuffix": "Cambodia",
+    "x": 788,
+    "y": 203
+  },
+  "Black Mesa, New Mexico": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34.5,
+    "lon": -106,
+    "_matchedSuffix": "New Mexico",
+    "x": 230.6,
+    "y": 125.1
+  },
+  "Oakland, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Newton, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Jackson, Mississippi": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.7,
+    "lon": -89.6,
+    "_matchedSuffix": "Mississippi",
+    "x": 270.2,
+    "y": 131.2
+  },
+  "Pit River, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Plymouth, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Chile": {
+    "country": "CL",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -35.7,
+    "lon": -71.5,
+    "_matchedSuffix": "Chile",
+    "x": 319.5,
+    "y": 378.9
+  },
+  "Augusta, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Kent State University, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Folsom, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Southeast Asia": {
+    "region": "Unknown",
+    "continent": "Unknown",
+    "_unknown": true
+  },
+  "Madison, Wisconsin": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.5,
+    "lon": -89.5,
+    "_matchedSuffix": "Wisconsin",
+    "x": 286.2,
+    "y": 92.6
+  },
+  "Camden, New Jersey": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40,
+    "lon": -74.4,
+    "_matchedSuffix": "New Jersey",
+    "x": 316.8,
+    "y": 106.9
+  },
+  "Attica, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Norfolk, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Miami, Florida": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 27.8,
+    "lon": -81.7,
+    "_matchedSuffix": "Florida",
+    "x": 285.7,
+    "y": 148.1
+  },
+  "West Point, New York": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Ann Arbor, Michigan": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44.3,
+    "lon": -85.6,
+    "_matchedSuffix": "Michigan",
+    "x": 295.2,
+    "y": 93.3
+  },
+  "Saigon, South Vietnam": {
+    "country": "VN",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": 10.8,
+    "lon": 106.7,
+    "_matchedSuffix": "South Vietnam",
+    "x": 793.9,
+    "y": 209.7
+  },
+  "Fort Benning, Georgia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 33,
+    "lon": -83.6,
+    "_matchedSuffix": "Georgia",
+    "x": 285.9,
+    "y": 130.2
+  },
+  "Hot Springs, Virginia": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 37.4,
+    "lon": -78.7,
+    "_matchedSuffix": "Virginia",
+    "x": 303.2,
+    "y": 115.4
+  },
+  "Seabrook, New Hampshire": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.7,
+    "lon": -71.6,
+    "_matchedSuffix": "New Hampshire",
+    "x": 328,
+    "y": 95.1
+  },
+  "East Timor": {
+    "country": "TL",
+    "region": "Southeast Asia",
+    "continent": "Asia",
+    "lat": -8.9,
+    "lon": 125.7,
+    "_matchedSuffix": "East Timor",
+    "x": 847.2,
+    "y": 283.2
+  },
+  "Three Mile Island, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Tehran, Iran": {
+    "country": "IR",
+    "region": "Persia",
+    "continent": "Asia",
+    "lat": 32.4,
+    "lon": 53.7,
+    "_matchedSuffix": "Iran",
+    "x": 637.9,
+    "y": 132.2
+  },
+  "Pentagon, Washington D.C.": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.9,
+    "lon": -77,
+    "_matchedSuffix": "Washington D.C.",
+    "x": 309.1,
+    "y": 110.5
+  },
+  "King of Prussia, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "El Mozote, El Salvador": {
+    "country": "SV",
+    "region": "Mesoamerica",
+    "continent": "North America",
+    "lat": 13.8,
+    "lon": -88.9,
+    "_matchedSuffix": "El Salvador",
+    "x": 256.5,
+    "y": 198.6
+  },
+  "East Boston, Massachusetts": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 42.4,
+    "lon": -71.4,
+    "_matchedSuffix": "Massachusetts",
+    "x": 326.9,
+    "y": 99.2
+  },
+  "Minneapolis, Minnesota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 46.4,
+    "lon": -94.6,
+    "_matchedSuffix": "Minnesota",
+    "x": 277.1,
+    "y": 86.8
+  },
+  "Washington, Pennsylvania": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 41,
+    "lon": -77.7,
+    "_matchedSuffix": "Pennsylvania",
+    "x": 309.9,
+    "y": 103.7
+  },
+  "Arizona": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34,
+    "lon": -111.1,
+    "_matchedSuffix": "Arizona",
+    "x": 216.9,
+    "y": 126.8
+  },
+  "Grenada": {
+    "country": "GD",
+    "region": "Caribbean",
+    "continent": "North America",
+    "lat": 12.1,
+    "lon": -61.7,
+    "_matchedSuffix": "Grenada",
+    "x": 330.4,
+    "y": 204.9
+  },
+  "Winooski, Vermont": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 44,
+    "lon": -72.7,
+    "_matchedSuffix": "Vermont",
+    "x": 325.7,
+    "y": 94.2
+  },
+  "Watsonville, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Tripoli, Libya": {
+    "country": "LY",
+    "region": "North Africa",
+    "continent": "Africa",
+    "lat": 26.3,
+    "lon": 17.2,
+    "_matchedSuffix": "Libya",
+    "x": 545.4,
+    "y": 153.4
+  },
+  "Chernobyl, Soviet Union": {
+    "country": "SU",
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 55.8,
+    "lon": 37.6,
+    "_matchedSuffix": "Soviet Union",
+    "x": 581.9,
+    "y": 59.8
+  },
+  "New Mexico": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 34.5,
+    "lon": -106,
+    "_matchedSuffix": "New Mexico",
+    "x": 230.6,
+    "y": 125.1
+  },
+  "Eastern Europe": {
+    "region": "Eastern Europe",
+    "continent": "Europe",
+    "lat": 54,
+    "lon": 28,
+    "_matchedSuffix": "Eastern Europe",
+    "x": 562,
+    "y": 64.7
+  },
+  "Washington D.C.": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 38.9,
+    "lon": -77,
+    "_matchedSuffix": "Washington D.C.",
+    "x": 309.1,
+    "y": 110.5
+  },
+  "San Antonio, Texas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 31,
+    "lon": -100,
+    "_matchedSuffix": "Texas",
+    "x": 241.4,
+    "y": 137
+  },
+  "Quito, Ecuador": {
+    "country": "EC",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -1.8,
+    "lon": -78.2,
+    "_matchedSuffix": "Ecuador",
+    "x": 282.8,
+    "y": 256.7
+  },
+  "St. Paul, Minnesota": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 46.4,
+    "lon": -94.6,
+    "_matchedSuffix": "Minnesota",
+    "x": 277.1,
+    "y": 86.8
+  },
+  "Selma, Alabama": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 32.6,
+    "lon": -86.7,
+    "_matchedSuffix": "Alabama",
+    "x": 277.5,
+    "y": 131.5
+  },
+  "Davis, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Portland, Oregon": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 43.8,
+    "lon": -120.6,
+    "_matchedSuffix": "Oregon",
+    "x": 210.4,
+    "y": 94.8
+  },
+  "Brazil": {
+    "country": "BR",
+    "region": "South America",
+    "continent": "South America",
+    "lat": -14.2,
+    "lon": -51.9,
+    "_matchedSuffix": "Brazil",
+    "x": 357.9,
+    "y": 302.9
+  },
+  "Waco, Texas": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 31,
+    "lon": -100,
+    "_matchedSuffix": "Texas",
+    "x": 241.4,
+    "y": 137
+  },
+  "Somalia": {
+    "country": "SO",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 5.2,
+    "lon": 46.2,
+    "_matchedSuffix": "Somalia",
+    "x": 628.1,
+    "y": 230.6
+  },
+  "Rwanda": {
+    "country": "RW",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": -1.9,
+    "lon": 29.9,
+    "_matchedSuffix": "Rwanda",
+    "x": 583,
+    "y": 257.1
+  },
+  "Dayton, Ohio": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.4,
+    "lon": -82.9,
+    "_matchedSuffix": "Ohio",
+    "x": 296.4,
+    "y": 105.6
+  },
+  "Kenya; Tanzania; Afghanistan; Sudan": {
+    "country": "KE",
+    "region": "East Africa",
+    "continent": "Africa",
+    "lat": 0,
+    "lon": 37.9,
+    "_matchedSuffix": "Kenya",
+    "x": 605.3,
+    "y": 250
+  },
+  "Rome, Italy": {
+    "country": "IT",
+    "region": "Mediterranean Europe",
+    "continent": "Europe",
+    "lat": 43,
+    "lon": 12.6,
+    "_matchedSuffix": "Italy",
+    "x": 530.4,
+    "y": 97.3
+  },
+  "Los Angeles County, California": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 36.8,
+    "lon": -119.4,
+    "_matchedSuffix": "California",
+    "x": 200.4,
+    "y": 117.4
+  },
+  "Kannapolis, North Carolina": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 35.6,
+    "lon": -79,
+    "_matchedSuffix": "North Carolina",
+    "x": 300.4,
+    "y": 121.4
+  },
+  "Belgrade, Serbia": {
+    "country": "RS",
+    "region": "Balkans",
+    "continent": "Europe",
+    "lat": 44,
+    "lon": 21,
+    "_matchedSuffix": "Serbia",
+    "x": 550.3,
+    "y": 94.2
+  },
+  "Yugoslavia": {
+    "region": "Balkans",
+    "continent": "Europe",
+    "lat": 44,
+    "lon": 21,
+    "_matchedSuffix": "Yugoslavia",
+    "x": 550.3,
+    "y": 94.2
+  },
+  "Kosovo; Yugoslavia": {
+    "country": "XK",
+    "region": "Balkans",
+    "continent": "Europe",
+    "lat": 42.6,
+    "lon": 21,
+    "_matchedSuffix": "Kosovo",
+    "x": 550.8,
+    "y": 98.6
+  },
+  "Bangor, Maine": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 45.4,
+    "lon": -69.2,
+    "_matchedSuffix": "Maine",
+    "x": 335.7,
+    "y": 89.9
+  },
+  "Boeing, United States": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 39.8,
+    "lon": -98.6,
+    "_matchedSuffix": "United States",
+    "x": 256.9,
+    "y": 107.6
+  },
+  "New York, New York; Washington, D.C.": {
+    "country": "US",
+    "region": "North America",
+    "continent": "North America",
+    "lat": 40.7,
+    "lon": -74,
+    "_matchedSuffix": "New York",
+    "x": 318.6,
+    "y": 104.6
+  },
+  "Afghanistan": {
+    "country": "AF",
+    "region": "Central Asia",
+    "continent": "Asia",
+    "lat": 33.9,
+    "lon": 67.7,
+    "_matchedSuffix": "Afghanistan",
+    "x": 672.6,
+    "y": 127.1
+  },
+  "Mount Aragón, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Saragossa, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Siétamo, Aragon": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragon",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Saragossa front, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Aragón front, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Monte Trazo, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Huesca, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Monflorite, Aragón": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 41.5,
+    "lon": 0.7,
+    "_matchedSuffix": "Aragón",
+    "x": 501.7,
+    "y": 102.1
+  },
+  "Guadalajara, Spain": {
+    "country": "ES",
+    "region": "Iberia",
+    "continent": "Europe",
+    "lat": 40.4,
+    "lon": -3.7,
+    "_matchedSuffix": "Spain",
+    "x": 490.9,
+    "y": 105.6
+  },
+  "Cerbères, France": {
+    "country": "FR",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "lat": 46.2,
+    "lon": 2.2,
+    "_matchedSuffix": "France",
+    "x": 505.2,
+    "y": 87.4
+  }
+}

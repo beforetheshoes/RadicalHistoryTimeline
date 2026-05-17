@@ -1,0 +1,48 @@
+# Curated alias overrides. Each entry maps a canonical tag slug to a list
+# of raw tags that should be treated as the same concept. Used by
+# scripts/build-index.ts after mechanical normalization.
+#
+# Format:
+#   <canonical>: [<raw1>, <raw2>, ...]
+#
+# Add only when mechanical stemming/dehyphenation isn't enough.
+
+anti-fascism: [antifascism, anti-fascist, antifa, anti-fascists, anti-fascism]
+fascism: [fascism, fascists, social-fascism]
+nazism: [nazism, nazi, nazis, nazi-germany, nazi-invasion, nazi-occupation, nazi-repression, hitler, reichstag, reichstag-fire]
+anarchism: [anarchism, anarchists, anarchist, anarchism-and-other-essays]
+anarcho-syndicalism: [anarcho-syndicalism, anarchosyndicalism, anarcho-syndicalists, anarcho-communism, anarchist-communism]
+socialism: [socialism, socialists, socialist, real-socialism, utopian-socialism, state-socialism]
+syndicalism: [syndicalism, syndicalists]
+strike: [strike, strikes, general-strike]
+labor: [labor, labour, labor-organizing, labor-press, labor-history, labor-conditions]
+union: [union, unions, trade-union, trade-unions]
+jewish-life: [jews, jewish, jewish-history, jewish-emancipation, jewish-emigration, jewish-labor, jewish-labor-committee, jewish-voices-for-peace, jewish-police]
+antisemitism: [antisemitism, anti-semitism]
+pogrom: [pogrom, pogroms]
+holocaust: [holocaust, shoah]
+revolution: [revolution, revolutionary]
+russian-revolution: [russian-revolution, october-revolution, february-revolution, 1917-revolution]
+spanish-civil-war: [spanish-civil-war, spanish-revolution, scw]
+women: [women, women-liberation, womens-rights, womens-suffrage, womens-movement, feminism, feminist]
+slavery: [slavery, enslaved, enslavement, slave]
+abolition: [abolition, abolitionism, abolitionist, abolitionists]
+colonialism: [colonialism, colonization, colonial, colonist, colonists, colony]
+imperialism: [imperialism, imperial]
+indigenous: [indigenous, indigenous-peoples, native, native-americans, first-nations]
+prison: [prison, prisons, prisoners, imprisonment, incarceration]
+repression: [repression, suppression, crackdown, state-repression]
+massacre: [massacre, massacres, slaughter]
+bombing: [bombing, bombings, bombed]
+assassination: [assassination, assassinated]
+exile: [exile, exiled, exiles]
+press: [press, newspaper, newspapers, journalism, periodical]
+education: [education, schools, schooling, school]
+class-conflict: [class-conflict, class-struggle, class-war]
+cold-war: [cold-war]
+world-war-i: [world-war-i, wwi, ww1, first-world-war, great-war]
+world-war-ii: [world-war-ii, wwii, ww2, second-world-war]
+vietnam-war: [vietnam-war, vietnam]
+civil-war: [civil-war]
+democratic-autonomy: [democratic-autonomy, democratic-confederalism]
+rojava: [rojava, rojavan-revolution, rojava-revolution]

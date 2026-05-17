@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "mountain-ch003-001",
+    "book": "mountain",
+    "date": {
+      "year": 1847,
+      "precision": "year"
+    },
+    "displayDate": "1847",
+    "title": "Badr Khan Beg Kurdish uprising crushed by Ottomans",
+    "summary": "The first major 19th-century Kurdish uprising, led by Badr Khan Beg, was crushed by the Ottoman Empire. Subsequent uprisings were also suppressed, though the demand for Kurdish independence continued throughout the century.",
+    "category": "uprising",
+    "location": "Kurdistan, Ottoman Empire",
+    "tags": [
+      "kurds",
+      "ottoman-empire",
+      "uprising",
+      "badr-khan-beg"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 4,
+      "quote": "The first major 19th century Kurdish uprising, Badr Khan Beg, took place in 1847. The Ottomans crushed this and subsequent uprisings, but the demand for Kurdish independence continued throughout the rest of the century."
+    }
+  },
+  {
+    "id": "mountain-ch003-018",
+    "book": "mountain",
+    "date": {
+      "year": 1906,
+      "precision": "year"
+    },
+    "displayDate": "1906",
+    "title": "Iran's Constitutional Revolution begins",
+    "summary": "Iran's 1906 Constitutional Revolution raised Kurdish hopes for autonomy, though the new constitution guaranteed many rights without explicitly protecting Kurdish ethnicity or culture.",
+    "category": "other",
+    "location": "Iran",
+    "tags": [
+      "iran",
+      "kurds",
+      "constitutional-revolution",
+      "autonomy"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 9,
+      "quote": "In Iran, Kurdish dreams of autonomy after generations of Persian and Ottoman oppression started before World War I during Iran's 1906 Constitutional Revolution."
+    }
+  },
+  {
+    "id": "mountain-ch003-002",
+    "book": "mountain",
+    "date": {
+      "year": 1916,
+      "rangeEndYear": 1918,
+      "precision": "year"
+    },
+    "displayDate": "1916–1918",
+    "title": "Young Turks forcibly deport 700,000 Kurds",
+    "summary": "The Young Turks conducted a systematic ethnic cleansing, forcibly deporting 700,000 Kurds, with more than half dying during the brutal process.",
+    "category": "pogrom",
+    "location": "Turkey",
+    "tags": [
+      "kurds",
+      "young-turks",
+      "deportation",
+      "ethnic-cleansing",
+      "world-war-i"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 5,
+      "quote": "From 1916 to 1918 the Young Turks forcibly deported 700,000 Kurds, more than half of them dying during the brutal process."
+    }
+  },
+  {
+    "id": "mountain-ch003-003",
+    "book": "mountain",
+    "date": {
+      "year": 1920,
+      "month": 8,
+      "day": 10,
+      "precision": "day"
+    },
+    "displayDate": "August 10, 1920",
+    "title": "Treaty of Sèvres signed, promising independent Kurdistan",
+    "summary": "After World War I, the defeated Ottomans signed the Treaty of Sèvres, which split up the Ottoman Empire and included provisions for an independent Kurdistan.",
+    "category": "legislation",
+    "location": "Sèvres, France",
+    "tags": [
+      "treaty-of-sevres",
+      "kurds",
+      "ottoman-empire",
+      "independence",
+      "world-war-i"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 5,
+      "quote": "On August 10, 1920, after the conclusion of World War I, the defeated Ottomans were compelled to sign the Treaty of Sèvres."
+    }
+  },
+  {
+    "id": "mountain-ch003-004",
+    "book": "mountain",
+    "date": {
+      "year": 1922,
+      "precision": "year"
+    },
+    "displayDate": "1922",
+    "title": "Mustafa Kemal Ataturk wins War of Independence, abolishes sultanate",
+    "summary": "The Turkish national movement, led by Mustafa Kemal Ataturk, won the War of Independence and abolished the sultanate, forcing allied powers to renegotiate the Treaty of Sèvres.",
+    "category": "other",
+    "location": "Turkey",
+    "people": [
+      "Mustafa Kemal Ataturk"
+    ],
+    "tags": [
+      "ataturk",
+      "turkey",
+      "war-of-independence",
+      "nationalism"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 5,
+      "quote": "But in 1922 the Turkish national movement, led by Mustafa Kemal Ataturk, a vehement Turkish nationalist and military officer, won the War of Independence and abolished the sultanate."
+    }
+  },
+  {
+    "id": "mountain-ch003-006",
+    "book": "mountain",
+    "date": {
+      "year": 1923,
+      "precision": "year"
+    },
+    "displayDate": "1923",
+    "title": "Ataturk decrees 65 laws targeting Kurdish identity",
+    "summary": "That same year as the Treaty of Lausanne, Ataturk decreed approximately 65 laws aimed at destroying Kurdish identity, including renaming Kurds 'Mountain Turks,' outlawing Kurdish language and celebrations, and confiscating Kurdish communal lands.",
+    "category": "legislation",
+    "location": "Turkey",
+    "people": [
+      "Mustafa Kemal Ataturk"
+    ],
+    "tags": [
+      "ataturk",
+      "turkey",
+      "kurds",
+      "cultural-suppression",
+      "legislation"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 5,
+      "quote": "That same year, Ataturk decreed some 65 laws aimed at destroying Kurdish identity: renaming them \"Mountain Turks;\" outlawing public use of the Kurdish language; making Kurdish celebrations illegal; forcibly changing Kurdish names of streets, villages, businesses, etc. to \"proper Turkish\" names; confiscating huge tracts of Kurdish communal lands; seizing Kurdish community funds; eliminating all Kurdish or Kurd-sympathetic organizations or political parties; and so on."
+    }
+  },
+  {
+    "id": "mountain-ch003-005",
+    "book": "mountain",
+    "date": {
+      "year": 1923,
+      "month": 7,
+      "day": 24,
+      "precision": "day"
+    },
+    "displayDate": "July 24, 1923",
+    "title": "Treaty of Lausanne signed, eliminating Kurdish independence",
+    "summary": "The Treaty of Lausanne, signed by Ataturk and his nationalist congress, replaced the Treaty of Sèvres and gave Kurdistan back to Turkey, failing to even recognize that the Kurds existed.",
+    "category": "legislation",
+    "location": "Lausanne, Switzerland",
+    "people": [
+      "Mustafa Kemal Ataturk"
+    ],
+    "tags": [
+      "treaty-of-lausanne",
+      "kurds",
+      "turkey",
+      "nationalism"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 5,
+      "quote": "The Treaty of Sèvres was scrapped, and a new treaty, the Treaty of Lausanne, was signed by Ataturk and his nationalist congress July 24, 1923. The Treaty of Lausanne gave Kurdistan back to Turkey, failing to even recognize that the Kurds existed."
+    }
+  },
+  {
+    "id": "mountain-ch003-019",
+    "book": "mountain",
+    "date": {
+      "year": 1924,
+      "precision": "year"
+    },
+    "displayDate": "1924",
+    "title": "Dozens of Kurdish newspapers and political organizations flourish in Iran",
+    "summary": "By 1924, Kurds in Iran had developed dozens of newspapers, three radio stations, and half a dozen political parties, reflecting a period of civic and cultural flourishing between 1906 and 1925.",
+    "category": "other",
+    "location": "Iran",
+    "tags": [
+      "iran",
+      "kurds",
+      "press",
+      "political-parties",
+      "civil-society"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 9,
+      "quote": "By 1924, there were dozens of Kurdish newspapers, three radio stations, and half a dozen political parties."
+    }
+  },
+  {
+    "id": "mountain-ch003-020",
+    "book": "mountain",
+    "date": {
+      "year": 1925,
+      "precision": "year"
+    },
+    "displayDate": "1925",
+    "title": "Shah seizes power in Iran and begins Persianification campaign against Kurds",
+    "summary": "In 1925, after oil was discovered in Iran, the Shah seized power with Western backing and launched a Persianification campaign targeting the Kurds and other minorities, resulting in mass displacements and suppression of Kurdish culture.",
+    "category": "other",
+    "location": "Iran",
+    "tags": [
+      "iran",
+      "kurds",
+      "shah",
+      "persianification",
+      "cultural-suppression"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 9,
+      "quote": "In 1925, after oil was discovered in the country, the Shah seized power with backing of the West (namely the UK and US). Though the Shah gave lip service to the constitution of 1906, he started a Persianification campaign against the numerous minorities inside Iran, including the Kurds."
+    }
+  },
+  {
+    "id": "mountain-ch004-001",
+    "book": "mountain",
+    "date": {
+      "year": 1930,
+      "precision": "year"
+    },
+    "displayDate": "1930",
+    "title": "Soviet Kurdish regional government unit disbanded under Stalin",
+    "summary": "The special Soviet regional government unit set up to monitor Kurds was reorganized several times and ultimately dissolved in 1930 when the Stalinist central government feared it had grown too sympathetic to the Kurdish population.",
+    "category": "legislation",
+    "location": "Soviet Union",
+    "tags": [
+      "kurds",
+      "soviet-union",
+      "stalinism",
+      "repression"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 2,
+      "quote": "This regional unit was reorganized several times and ultimately disbanded in 1930 when the Stalinist central government feared it had become too sympathetic to the Kurds."
+    }
+  },
+  {
+    "id": "mountain-ch006-001",
+    "book": "mountain",
+    "date": {
+      "year": 1936,
+      "precision": "year"
+    },
+    "displayDate": "1936",
+    "title": "Spanish Revolution as precedent for decentralized governance",
+    "summary": "The Spanish Revolution of 1936 is cited as a past experiment in decentralized, non-state governance related to Rojava's democratic structures.",
+    "category": "uprising",
+    "location": "Spain",
+    "tags": [
+      "spanish-revolution",
+      "decentralization",
+      "anarchism",
+      "precedent"
+    ],
+    "citation": {
+      "chapter": "Stateless Government: Radical Democracy and Decentralization",
+      "chapterIndex": 6,
+      "paragraphIndex": 1,
+      "quote": "In the past two years, two-and-half million people in Rojava have been participating in this new form of governance, a governance related to that of the Spanish Revolution (1936), the Zapatistas (1994), the Argentine Neighborhood Assembly Movement (2001–2003), and Murray Bookchin's libertarian municipalism."
+    }
+  },
+  {
+    "id": "mountain-ch003-007",
+    "book": "mountain",
+    "date": {
+      "year": 1946,
+      "precision": "year"
+    },
+    "displayDate": "1946",
+    "title": "Syria gains independence from France, attacks Kurdish minority",
+    "summary": "When Syria gained independence from France in 1946, the new Arab-controlled republic quickly attacked its 'internal enemies,' stripping approximately 200,000 Kurds of their identity papers and declaring them stateless.",
+    "category": "other",
+    "location": "Syria",
+    "tags": [
+      "syria",
+      "kurds",
+      "independence",
+      "statelessness",
+      "french-mandate"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 7,
+      "quote": "When Syria gained independence from France in 1946 it quickly attacked its \"internal enemies.\" Close to 200,000 Kurds had their identity papers taken away and were declared stateless, allowing the new Syrian Republic to seize their land and property and to conscript them into forced labor."
+    }
+  },
+  {
+    "id": "mountain-ch003-010",
+    "book": "mountain",
+    "date": {
+      "year": 1946,
+      "precision": "year"
+    },
+    "displayDate": "1946",
+    "title": "Kurdish Democratic Party formed in Iraq",
+    "summary": "In 1946, Iraqi Kurds formed the Kurdish Democratic Party as part of their ongoing political and military struggle against successive Iraqi regimes.",
+    "category": "founding",
+    "location": "Iraq",
+    "tags": [
+      "iraq",
+      "kurds",
+      "kurdish-democratic-party",
+      "political-party"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "In 1946 they formed first the Kurdish Democratic Party and later, in 1975, the Patriotic Union of Kurdistan."
+    }
+  },
+  {
+    "id": "mountain-ch003-027",
+    "book": "mountain",
+    "date": {
+      "year": 1952,
+      "precision": "year"
+    },
+    "displayDate": "1952",
+    "title": "Turkey joins NATO",
+    "summary": "Turkey became a key member of NATO in 1952, a position it later used to lobby the alliance to designate the PKK and its sister organizations as terrorist groups.",
+    "category": "other",
+    "location": "Turkey",
+    "tags": [
+      "turkey",
+      "nato",
+      "membership"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 13,
+      "quote": "NATO, of which Turkey has been a key member since 1952, was lobbied heavily by Turkey in the 1990s to add the PKK and its sister organizations to the official terrorist watch-list, and in 2003 NATO conceded."
+    }
+  },
+  {
+    "id": "mountain-ch003-009",
+    "book": "mountain",
+    "date": {
+      "year": 1968,
+      "precision": "year"
+    },
+    "displayDate": "1968",
+    "title": "Ba'ath party comes to power in Iraq through military coups",
+    "summary": "A series of military coups eventually elevated the Ba'ath party to power in Iraq in 1968, following British colonial rule and the establishment of the Kingdom of Iraq as a British puppet state.",
+    "category": "other",
+    "location": "Iraq",
+    "tags": [
+      "iraq",
+      "baath-party",
+      "military-coup"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "After putting down three unsuccessful but very bloody revolts, the British formally transferred control of Iraqi Kurdistan to the newly formed Kingdom of Iraq, which functioned as a British puppet state until a series of military coups eventually elevated the Ba'ath party to power in 1968."
+    }
+  },
+  {
+    "id": "mountain-ch003-008",
+    "book": "mountain",
+    "date": {
+      "year": 1973,
+      "precision": "year"
+    },
+    "displayDate": "1973",
+    "title": "Syria displaces 150,000 Kurds to create Arab corridor along Turkish border",
+    "summary": "In 1973, Syrian officials decided to create an Arab corridor along the Turkish border and displaced about 150,000 Kurds without compensation.",
+    "category": "other",
+    "location": "Syria",
+    "tags": [
+      "syria",
+      "kurds",
+      "displacement",
+      "arab-corridor"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 7,
+      "quote": "In 1973, Syrian officials decided to create an Arab corridor along the Turkish border and displaced about 150,000 Kurds without compensation."
+    }
+  },
+  {
+    "id": "mountain-ch004-004",
+    "book": "mountain",
+    "date": {
+      "year": 1974,
+      "precision": "year"
+    },
+    "displayDate": "1974",
+    "title": "Turkey invades Cyprus; Greece retaliates by supporting Kurdish PKK",
+    "summary": "Following Turkey's 1974 invasion of Cyprus, Greece supplied Kurds in Turkey and housed exiled PKK officials as a form of retaliation, though it later expelled the PKK after reaching a trade agreement with Turkey.",
+    "category": "battle",
+    "location": "Cyprus",
+    "tags": [
+      "turkey",
+      "greece",
+      "pkk",
+      "kurds",
+      "cyprus",
+      "geopolitics"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 4,
+      "quote": "Greece supplied Kurds in Turkey and housed exiled PKK officials in order to punish Turkey for their 1974 invasion of Cyprus, but after coming to agreement on trade with Turkey they kicked the PKK out and stopped all aid."
+    }
+  },
+  {
+    "id": "mountain-ch003-011",
+    "book": "mountain",
+    "date": {
+      "year": 1975,
+      "precision": "year"
+    },
+    "displayDate": "1975",
+    "title": "Patriotic Union of Kurdistan founded in Iraq",
+    "summary": "In 1975, the Patriotic Union of Kurdistan was founded in Iraq as another major Kurdish political organization continuing the struggle for Kurdish rights.",
+    "category": "founding",
+    "location": "Iraq",
+    "tags": [
+      "iraq",
+      "kurds",
+      "patriotic-union-of-kurdistan",
+      "political-party"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "In 1946 they formed first the Kurdish Democratic Party and later, in 1975, the Patriotic Union of Kurdistan."
+    }
+  },
+  {
+    "id": "mountain-ch003-022",
+    "book": "mountain",
+    "date": {
+      "year": 1978,
+      "precision": "year"
+    },
+    "displayDate": "1978",
+    "title": "Kurdistan Workers' Party (PKK) founded in Istanbul",
+    "summary": "In 1978, in a tea house in Istanbul, the Kurdistan Workers' Party (PKK) was founded — the first militant Kurdish resistance group to espouse explicitly Marxist ideology, calling for a communist Kurdistan.",
+    "category": "founding",
+    "location": "Istanbul, Turkey",
+    "people": [
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "pkk",
+      "kurds",
+      "turkey",
+      "marxism",
+      "kurdistan-workers-party"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 11,
+      "quote": "In 1978, in a tea house in Istanbul, a new chapter in Kurdish resistance began with the founding of the Kurdistan Workers' Party (PKK). The PKK was the first militant Kurdish resistance group to espouse explicitly Marxist ideology."
+    }
+  },
+  {
+    "id": "mountain-ch003-012",
+    "book": "mountain",
+    "date": {
+      "year": 1979,
+      "precision": "year"
+    },
+    "displayDate": "1979",
+    "title": "Saddam Hussein comes to power in Iraq",
+    "summary": "Saddam Hussein came to power in Iraq in 1979, almost immediately entering into the decade-long Iran-Iraq war and bringing particular brutality down upon Iraqi Kurds.",
+    "category": "other",
+    "location": "Iraq",
+    "people": [
+      "Saddam Hussein"
+    ],
+    "tags": [
+      "iraq",
+      "saddam-hussein",
+      "baath-party"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "Eventually finding themselves in an uneasy truce with the Ba'ath party in the early 70s, Iraqi Kurds experienced a few brief years of relative calm before Saddam Hussein came to power in 1979."
+    }
+  },
+  {
+    "id": "mountain-ch003-021",
+    "book": "mountain",
+    "date": {
+      "year": 1979,
+      "precision": "year"
+    },
+    "displayDate": "1979",
+    "title": "Khomeini Revolution overthrows Shah in Iran",
+    "summary": "The 1979 Khomeini Revolution overthrew the despotic Shah regime in Iran but did not improve life for the Kurds; the new fundamentalist regime accelerated nationalization and launched military assaults to wrest away Kurdish control of the north.",
+    "category": "other",
+    "location": "Iran",
+    "tags": [
+      "iran",
+      "kurds",
+      "khomeini",
+      "islamic-revolution",
+      "shah"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 9,
+      "quote": "The 1979 Khomeini Revolution overthrew the despotic Shah regime but did not improve the life of Kurds. The new fundamentalist regime accelerated the nationalization process with laws and actions targeted against the Kurds and their culture."
+    }
+  },
+  {
+    "id": "mountain-ch003-026",
+    "book": "mountain",
+    "date": {
+      "year": 1979,
+      "precision": "year"
+    },
+    "displayDate": "1979",
+    "title": "Turkey officially designates PKK a terrorist organization",
+    "summary": "Turkey made its designation of the PKK as a terrorist organization official in 1979, a label it would later successfully export to NATO and Western governments.",
+    "category": "legislation",
+    "location": "Turkey",
+    "tags": [
+      "turkey",
+      "pkk",
+      "terrorism-designation",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 13,
+      "quote": "Turkey has always considered the PKK a terrorist organization, making it official in 1979."
+    }
+  },
+  {
+    "id": "mountain-ch003-023",
+    "book": "mountain",
+    "date": {
+      "year": 1980,
+      "precision": "year"
+    },
+    "displayDate": "1980",
+    "title": "Turkish military coup leads to arrest of PKK leadership",
+    "summary": "In 1980, another Turkish military coup aimed to restore order led to the arrest of some PKK top leadership and the exile of most of the central committee to Syria and Western Europe.",
+    "category": "other",
+    "location": "Turkey",
+    "tags": [
+      "turkey",
+      "pkk",
+      "military-coup",
+      "exile",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 11,
+      "quote": "In 1980, there was another Turkish military coup, aimed to restore order in the state. That year saw the arrest of some of the PKK top leadership and the exile of most of the central committee to Syria and Western Europe."
+    }
+  },
+  {
+    "id": "mountain-ch003-024",
+    "book": "mountain",
+    "date": {
+      "year": 1984,
+      "precision": "year"
+    },
+    "displayDate": "1984",
+    "title": "PKK launches full-scale guerrilla war in Turkey",
+    "summary": "In 1984, after civilian rule was restored in Turkey and political prisoners were released, the PKK rebuilt its militant presence and launched a full-scale guerrilla war, mostly in southern Turkey.",
+    "category": "battle",
+    "location": "Turkey",
+    "tags": [
+      "pkk",
+      "turkey",
+      "guerrilla-war",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 12,
+      "quote": "In 1984, after civilian rule was restored in Turkey and a number of political prisoners were released, the PKK was again able to rebuild its militant presence in Turkey. The PKK launched a full-scale guerrilla war, mostly in the south of Turkey bust occasionally reaching as far north as Istanbul."
+    }
+  },
+  {
+    "id": "mountain-ch005-003",
+    "book": "mountain",
+    "date": {
+      "year": 1985,
+      "precision": "year"
+    },
+    "displayDate": "1985",
+    "title": "Bookchin's Ecology of Freedom made required reading for PKK militants",
+    "summary": "Murray Bookchin's The Ecology of Freedom (1985) was designated required reading for all PKK militants by Öcalan, and went on to heavily influence the ideas put into practice in Rojava.",
+    "category": "publication",
+    "people": [
+      "Murray Bookchin",
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "bookchin",
+      "ecology-of-freedom",
+      "pkk",
+      "anarchism",
+      "libertarian-municipalism"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 6,
+      "quote": "It was Bookchin’s Ecology of Freedom (1985), however, which Öcalan made required reading for all PKK militants."
+    }
+  },
+  {
+    "id": "mountain-ch003-013",
+    "book": "mountain",
+    "date": {
+      "year": 1986,
+      "rangeEndYear": 1989,
+      "precision": "year"
+    },
+    "displayDate": "1986–1989",
+    "title": "Al-Anfal Campaign massacres 100,000–200,000 Kurdish civilians",
+    "summary": "During the al-Anfal Campaign, between 100,000 and 200,000 Kurdish civilians were massacred with chemical weapons and in concentration camps by Saddam Hussein's regime.",
+    "category": "pogrom",
+    "location": "Iraq",
+    "people": [
+      "Saddam Hussein"
+    ],
+    "tags": [
+      "iraq",
+      "kurds",
+      "al-anfal",
+      "genocide",
+      "chemical-weapons",
+      "saddam-hussein"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "In the al-Anfal Campaign of 1986–89 alone, between 100,000 and 200,000 Kurdish civilians were massacred with chemical weapons and in concentration camps."
+    }
+  },
+  {
+    "id": "mountain-ch004-002",
+    "book": "mountain",
+    "date": {
+      "year": 1986,
+      "precision": "year"
+    },
+    "displayDate": "1986",
+    "title": "Non-armed PKK support organizations formed in the USSR",
+    "summary": "By 1986, non-armed PKK support organizations had covertly formed within the Soviet Union, operating illegally in the Transcaucasia region where the PKK had made inroads among the Kurdish population.",
+    "category": "founding",
+    "location": "Soviet Union",
+    "people": [
+      "PKK"
+    ],
+    "tags": [
+      "pkk",
+      "kurds",
+      "soviet-union",
+      "kurdish-diaspora"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 2,
+      "quote": "By 1986, non-armed PKK support organizations had formed in the USSR, though they were technically illegal."
+    }
+  },
+  {
+    "id": "mountain-ch004-005",
+    "book": "mountain",
+    "date": {
+      "year": 1987,
+      "precision": "year",
+      "rangeEndYear": 1990
+    },
+    "displayDate": "1987–1990",
+    "title": "US silent as Saddam Hussein gasses Kurdish populations",
+    "summary": "From 1987 until Iraq's invasion of Kuwait, the US said nothing and at times even supported Iraq in the UN while Saddam Hussein was gassing tens of thousands of Kurds and bombing Kurdish towns and villages.",
+    "category": "other",
+    "location": "Iraq",
+    "people": [
+      "Saddam Hussein"
+    ],
+    "tags": [
+      "kurds",
+      "iraq",
+      "united-states",
+      "chemical-warfare",
+      "cold-war",
+      "repression"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 5,
+      "quote": "Yet from 1987 until the Iraqi invasion of Kuwait, the US said nothing. At times, the US even supported Iraq in the UN, when Saddam Hussein was gassing tens of thousands of Kurds and bombing whole Kurdish towns and villages."
+    }
+  },
+  {
+    "id": "mountain-ch003-014",
+    "book": "mountain",
+    "date": {
+      "year": 1990,
+      "precision": "year"
+    },
+    "displayDate": "1990",
+    "title": "United States and NATO allies first invade Iraq",
+    "summary": "Iraq was first invaded by the United States and its NATO allies in 1990, a conflict the Kurds used to leverage political advantage.",
+    "category": "battle",
+    "location": "Iraq",
+    "tags": [
+      "iraq",
+      "us-invasion",
+      "nato",
+      "kurds",
+      "gulf-war"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "it was invaded by the United States and its NATO allies first in 1990 and then again in 2003."
+    }
+  },
+  {
+    "id": "mountain-ch004-006",
+    "book": "mountain",
+    "date": {
+      "year": 1990,
+      "month": 8,
+      "precision": "month"
+    },
+    "displayDate": "August 1990",
+    "title": "Iraq occupies Kuwait; US declares Kurds \"natural allies\"",
+    "summary": "When Iraq occupied Kuwait in August 1990, Saddam Hussein became America's foremost enemy and President George Bush Sr. publicly declared Kurds to be the US's \"natural allies,\" urging them to revolt against the Baghdad regime.",
+    "category": "other",
+    "location": "Kuwait",
+    "people": [
+      "Saddam Hussein",
+      "George Bush Sr."
+    ],
+    "tags": [
+      "kurds",
+      "iraq",
+      "kuwait",
+      "united-states",
+      "gulf-war",
+      "geopolitics"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 5,
+      "quote": "During the first Gulf War, when Iraq occupied the oil-rich emirate of Kuwait in August 1990, Saddam Hussein became America's enemy number one."
+    }
+  },
+  {
+    "id": "mountain-ch003-015",
+    "book": "mountain",
+    "date": {
+      "year": 1991,
+      "precision": "year"
+    },
+    "displayDate": "1991",
+    "title": "Kurdistan Regional Government established in Iraq",
+    "summary": "The Kurds leveraged the 1990 US-led invasion of Iraq to establish the Kurdistan Regional Government (KRG) in 1991.",
+    "category": "founding",
+    "location": "Iraqi Kurdistan, Iraq",
+    "tags": [
+      "iraq",
+      "kurds",
+      "krg",
+      "kurdistan-regional-government",
+      "autonomy"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "The Kurds would use both of these conflicts to leverage as much advantage as possible, which ultimately led to the establishment of the Kurdistan Regional Government (KRG) in 1991 and its de jure independence in 2005."
+    }
+  },
+  {
+    "id": "mountain-ch006-002",
+    "book": "mountain",
+    "date": {
+      "year": 1994,
+      "precision": "year"
+    },
+    "displayDate": "1994",
+    "title": "Zapatista movement as precedent for stateless governance",
+    "summary": "The Zapatista movement of 1994 is cited alongside the Spanish Revolution as a past experiment in decentralized, non-state governance related to Rojava.",
+    "category": "uprising",
+    "location": "Mexico",
+    "tags": [
+      "zapatistas",
+      "decentralization",
+      "autonomy",
+      "precedent"
+    ],
+    "citation": {
+      "chapter": "Stateless Government: Radical Democracy and Decentralization",
+      "chapterIndex": 6,
+      "paragraphIndex": 1,
+      "quote": "In the past two years, two-and-half million people in Rojava have been participating in this new form of governance, a governance related to that of the Spanish Revolution (1936), the Zapatistas (1994), the Argentine Neighborhood Assembly Movement (2001–2003), and Murray Bookchin's libertarian municipalism."
+    }
+  },
+  {
+    "id": "mountain-ch005-002",
+    "book": "mountain",
+    "date": {
+      "year": 1994,
+      "month": 1,
+      "day": 1,
+      "precision": "day"
+    },
+    "displayDate": "January 1, 1994",
+    "title": "Zapatista uprising begins in Chiapas, Mexico",
+    "summary": "The Zapatistas launched their insurrection in the Lacandon Jungle of Chiapas, declaring autonomy and introducing Zapatismo — a leftist configuration rejecting hierarchy, party control, and state-building — inspiring the global progressive Left.",
+    "category": "uprising",
+    "location": "Chiapas, Mexico",
+    "tags": [
+      "zapatistas",
+      "mexico",
+      "autonomy",
+      "zapatismo",
+      "liberation-struggle"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 5,
+      "quote": "Thousands of miles away, on January 1, 1994 (five years before Öcalan’s capture) a new type of liberation struggle kicked off in the forgotten mountain jungles of Chiapas, Mexico."
+    }
+  },
+  {
+    "id": "mountain-ch005-001",
+    "book": "mountain",
+    "date": {
+      "year": 1999,
+      "precision": "year"
+    },
+    "displayDate": "1999",
+    "title": "Öcalan arrested in Nairobi and imprisoned in Turkey",
+    "summary": "PKK leader Abdullah Öcalan was captured by Turkish military intelligence in Nairobi, flown back to Turkey, and held as the sole prisoner on a prison island, triggering an ideological crisis within the PKK.",
+    "category": "arrest",
+    "location": "Nairobi, Kenya",
+    "people": [
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "pkk",
+      "kurdistan",
+      "turkey",
+      "imprisonment"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 4,
+      "quote": "For the PKK, the crisis in their communist faith didn’t occur until 1999 when their leader Öcalan was arrested in Nairobi by the MIT (Turkish military intelligence), flown back to Turkey, and incarcerated on a prison island upon which he was the only inmate."
+    }
+  },
+  {
+    "id": "mountain-ch005-004",
+    "book": "mountain",
+    "date": {
+      "year": 2001,
+      "precision": "year"
+    },
+    "displayDate": "2001",
+    "title": "Öcalan writes The Roots of Civilization from prison",
+    "summary": "Drawing on Bookchin's anarchist philosophy, Öcalan wrote The Roots of Civilization (2001) from inside his island prison, applying Bookchin's ideas to the Kurdish question.",
+    "category": "publication",
+    "people": [
+      "Abdullah Öcalan",
+      "Murray Bookchin"
+    ],
+    "tags": [
+      "pkk",
+      "bookchin",
+      "democratic-confederalism",
+      "kurdistan",
+      "prison-writings"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 6,
+      "quote": "From inside prison, Öcalan absorbed Bookchin’s ideas (most notably Bookchin’s Civilization Narratives: The Ecology of Freedom and Urbanization Against Cities) and wrote his own book based on these ideas, The Roots of Civilization (2001)."
+    }
+  },
+  {
+    "id": "mountain-ch006-003",
+    "book": "mountain",
+    "date": {
+      "year": 2001,
+      "precision": "year",
+      "rangeEndYear": 2003
+    },
+    "displayDate": "2001–2003",
+    "title": "Argentine Neighborhood Assembly Movement",
+    "summary": "The Argentine Neighborhood Assembly Movement of 2001–2003 is cited as a past experiment in decentralized, participatory governance related to Rojava's council system.",
+    "category": "founding",
+    "location": "Argentina",
+    "tags": [
+      "argentina",
+      "neighborhood-assemblies",
+      "direct-democracy",
+      "precedent"
+    ],
+    "citation": {
+      "chapter": "Stateless Government: Radical Democracy and Decentralization",
+      "chapterIndex": 6,
+      "paragraphIndex": 1,
+      "quote": "In the past two years, two-and-half million people in Rojava have been participating in this new form of governance, a governance related to that of the Spanish Revolution (1936), the Zapatistas (1994), the Argentine Neighborhood Assembly Movement (2001–2003), and Murray Bookchin's libertarian municipalism."
+    }
+  },
+  {
+    "id": "mountain-ch003-028",
+    "book": "mountain",
+    "date": {
+      "year": 2002,
+      "precision": "year"
+    },
+    "displayDate": "2002",
+    "title": "EU and US add PKK to terrorist lists",
+    "summary": "The year before NATO's 2003 concession, both the EU and the US added the PKK to their terrorist lists, where the organization remains to this day.",
+    "category": "legislation",
+    "location": "Europe",
+    "tags": [
+      "pkk",
+      "eu",
+      "us",
+      "terrorism-designation",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 13,
+      "quote": "The year before, both the EU and the US added the PKK to their terrorist lists, where they remain to this day."
+    }
+  },
+  {
+    "id": "mountain-ch003-016",
+    "book": "mountain",
+    "date": {
+      "year": 2003,
+      "precision": "year"
+    },
+    "displayDate": "2003",
+    "title": "United States and NATO allies invade Iraq a second time",
+    "summary": "Iraq was invaded again by the United States and its NATO allies in 2003, a conflict the Kurds again leveraged for political advantage, contributing to the KRG's de jure independence in 2005.",
+    "category": "battle",
+    "location": "Iraq",
+    "tags": [
+      "iraq",
+      "us-invasion",
+      "nato",
+      "kurds",
+      "iraq-war"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "it was invaded by the United States and its NATO allies first in 1990 and then again in 2003. The Kurds would use both of these conflicts to leverage as much advantage as possible, which ultimately led to the establishment of the Kurdistan Regional Government (KRG) in 1991 and its de jure independence in 2005."
+    }
+  },
+  {
+    "id": "mountain-ch003-029",
+    "book": "mountain",
+    "date": {
+      "year": 2003,
+      "precision": "year"
+    },
+    "displayDate": "2003",
+    "title": "NATO adds PKK to official terrorist watch-list",
+    "summary": "In 2003, following heavy lobbying by Turkey throughout the 1990s, NATO conceded and added the PKK and its sister organizations to its official terrorist watch-list.",
+    "category": "legislation",
+    "location": "Europe",
+    "tags": [
+      "pkk",
+      "nato",
+      "terrorism-designation",
+      "turkey",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 13,
+      "quote": "NATO, of which Turkey has been a key member since 1952, was lobbied heavily by Turkey in the 1990s to add the PKK and its sister organizations to the official terrorist watch-list, and in 2003 NATO conceded."
+    }
+  },
+  {
+    "id": "mountain-ch003-031",
+    "book": "mountain",
+    "date": {
+      "year": 2003,
+      "precision": "year"
+    },
+    "displayDate": "2003",
+    "title": "ISIS begins building forces following American invasion of Iraq",
+    "summary": "ISIS, formerly an offshoot of Al-Qaeda in Iraq, began building its forces following the American invasion of Iraq in 2003, gaining military experience fighting NATO forces in Fallujah during the initial years of the Coalition Occupation.",
+    "category": "other",
+    "location": "Fallujah, Iraq",
+    "tags": [
+      "isis",
+      "iraq",
+      "al-qaeda",
+      "us-invasion",
+      "nato",
+      "fallujah"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 15,
+      "quote": "ISIS did not burst recently onto the scene in a simplistic blitzkrieg of hardline puritanical Sunni ideology — it has been building its forces since the American invasion of Iraq in 2003. Formerly an offshoot of Al-Qaeda in Iraq, ISIS gained valuable military experience fighting NATO forces in Fallujah during the initial years of the Coalition Occupation of Iraq, eventually rebranding itself the Islamic State of Iraq."
+    }
+  },
+  {
+    "id": "mountain-ch004-003",
+    "book": "mountain",
+    "date": {
+      "year": 2004,
+      "precision": "year"
+    },
+    "displayDate": "2004",
+    "title": "PKK organization reported in Kazakhstan",
+    "summary": "According to Turkish press reports, a PKK organization was operating in Kazakhstan in 2004, indicating the continued reach of PKK networks in the former Soviet space.",
+    "category": "other",
+    "location": "Kazakhstan",
+    "tags": [
+      "pkk",
+      "kurds",
+      "kazakhstan",
+      "post-soviet"
+    ],
+    "citation": {
+      "chapter": "The Great Game: World Powers and the Kurds",
+      "chapterIndex": 4,
+      "paragraphIndex": 2,
+      "quote": "According to Turkish press, there was even a PKK organization in Kazakhstan in 2004."
+    }
+  },
+  {
+    "id": "mountain-ch005-005",
+    "book": "mountain",
+    "date": {
+      "year": 2004,
+      "precision": "year"
+    },
+    "displayDate": "2004",
+    "title": "Öcalan attempts to arrange a meeting with Murray Bookchin",
+    "summary": "In 2004, Öcalan reached out through his lawyers to request a meeting with Bookchin, calling himself Bookchin's student and wishing to discuss his new manuscript In Defense of People.",
+    "category": "other",
+    "people": [
+      "Abdullah Öcalan",
+      "Murray Bookchin"
+    ],
+    "tags": [
+      "pkk",
+      "bookchin",
+      "democratic-confederalism",
+      "kurdistan"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 7,
+      "quote": "In 2004, Öcalan tried to arrange a meeting with Bookchin through his lawyers, describing himself as Bookchin’s “student” and eager to adapt Bookchin’s ideas to the Kurdish question."
+    }
+  },
+  {
+    "id": "mountain-ch005-006",
+    "book": "mountain",
+    "date": {
+      "year": 2004,
+      "precision": "year"
+    },
+    "displayDate": "2004",
+    "title": "Öcalan writes In Defense of People",
+    "summary": "From prison in 2004, Öcalan completed In Defense of People, a manuscript he hoped would shift the discourse of the Kurdish struggle toward democratic confederalism.",
+    "category": "publication",
+    "people": [
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "pkk",
+      "democratic-confederalism",
+      "kurdistan",
+      "prison-writings"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 7,
+      "quote": "In particular, Öcalan wanted to discuss his newest manuscript, In Defense of People (2004), which he had hoped would change the discourse of the Kurdish struggle."
+    }
+  },
+  {
+    "id": "mountain-ch003-017",
+    "book": "mountain",
+    "date": {
+      "year": 2005,
+      "precision": "year"
+    },
+    "displayDate": "2005",
+    "title": "Kurdistan Regional Government achieves de jure independence",
+    "summary": "The Kurdistan Regional Government achieved de jure independence in 2005, a result of the Kurds leveraging both the 1990 and 2003 US-led invasions of Iraq.",
+    "category": "other",
+    "location": "Iraqi Kurdistan, Iraq",
+    "tags": [
+      "iraq",
+      "kurds",
+      "krg",
+      "kurdistan-regional-government",
+      "independence"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 8,
+      "quote": "The Kurds would use both of these conflicts to leverage as much advantage as possible, which ultimately led to the establishment of the Kurdistan Regional Government (KRG) in 1991 and its de jure independence in 2005."
+    }
+  },
+  {
+    "id": "mountain-ch005-009",
+    "book": "mountain",
+    "date": {
+      "year": 2005,
+      "month": 5,
+      "day": 17,
+      "precision": "day"
+    },
+    "displayDate": "May 17, 2005",
+    "title": "PKK adopts democratic confederalism at people's congress",
+    "summary": "At a people's congress on May 17, 2005, the PKK officially adopted democratic confederalism as their platform, rejecting state-building in favor of a decentralized, self-sufficient model of governance.",
+    "category": "congress",
+    "people": [
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "pkk",
+      "democratic-confederalism",
+      "kurdistan",
+      "rojava"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 10,
+      "quote": "the PKK had adopted as their official platform in a people’s congress on May 17th, 2005."
+    }
+  },
+  {
+    "id": "mountain-ch005-007",
+    "book": "mountain",
+    "date": {
+      "year": 2006,
+      "precision": "year"
+    },
+    "displayDate": "2006",
+    "title": "Murray Bookchin dies of congestive heart failure",
+    "summary": "Murray Bookchin, whose anarchist ecological philosophy had profoundly shaped the PKK's ideological shift, died of congestive heart failure in 2006 at age 85.",
+    "category": "biography",
+    "people": [
+      "Murray Bookchin"
+    ],
+    "tags": [
+      "bookchin",
+      "anarchism",
+      "libertarian-municipalism",
+      "death"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 7,
+      "quote": "Murray Bookchin died of congested heart failure two years later, in 2006."
+    }
+  },
+  {
+    "id": "mountain-ch005-008",
+    "book": "mountain",
+    "date": {
+      "year": 2006,
+      "precision": "year"
+    },
+    "displayDate": "2006",
+    "title": "PKK congress honors Bookchin and vows to implement democratic confederalism",
+    "summary": "A PKK congress held in 2006 honored Murray Bookchin as one of the greatest social scientists of the 20th century and pledged to implement his thesis on state, power, and hierarchy through their struggle.",
+    "category": "congress",
+    "people": [
+      "Murray Bookchin"
+    ],
+    "tags": [
+      "pkk",
+      "bookchin",
+      "democratic-confederalism",
+      "kurdistan"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 7,
+      "quote": "A PKK congress held later that year hailed the American thinker as “one of the greatest social scientists of the 20th century,” and vowed that “Bookchin’s thesis on the state, power, and hierarchy will be implemented and realized through our struggle…. We will put this promise into practice, this as the first society that establishes a tangible democratic confederalism.”"
+    }
+  },
+  {
+    "id": "mountain-ch005-014",
+    "book": "mountain",
+    "date": {
+      "year": 2009,
+      "precision": "year"
+    },
+    "displayDate": "2009",
+    "title": "PKK begins democratic confederalism experiments in Turkish villages",
+    "summary": "From 2009 onward, the PKK began implementing democratic confederalism in scattered villages along the Turkey-Iraq border, experiments that would serve as an inspiration for the broader Rojava revolution.",
+    "category": "founding",
+    "location": "Turkey",
+    "people": [
+      "Abdullah Öcalan"
+    ],
+    "tags": [
+      "pkk",
+      "democratic-confederalism",
+      "turkey",
+      "kurdistan",
+      "rojava"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 10,
+      "quote": "The PKK has attempted (and succeeded to some degree) to implement democratic confederalism in scattered villages in Turkey along the Iraq border since 2009, experiments that served as an inspiration for much of the Rojava revolution."
+    }
+  },
+  {
+    "id": "mountain-ch009-001",
+    "book": "mountain",
+    "date": {
+      "year": 2010,
+      "precision": "year"
+    },
+    "displayDate": "2010",
+    "title": "Rojava provides over 40% of Syria's GNP despite hosting 17% of its population",
+    "summary": "In 2010, a year before the Arab Spring reached Syria, the Rojava region contributed more than 40% of the country's GNP and 70% of its exports, yet its residents earned well below the national median income.",
+    "category": "other",
+    "location": "Rojava, Syria",
+    "tags": [
+      "rojava",
+      "economy",
+      "syria",
+      "inequality"
+    ],
+    "citation": {
+      "chapter": "A People's Economy",
+      "chapterIndex": 9,
+      "paragraphIndex": 2,
+      "quote": "In 2010, a year before the Arab Spring exploded in Syria, the Rojava region provided over 40% of the country's GNP and 70% of its exports despite only about 17% of Syria's population living in the region."
+    }
+  },
+  {
+    "id": "mountain-ch005-010",
+    "book": "mountain",
+    "date": {
+      "year": 2011,
+      "precision": "season"
+    },
+    "displayDate": "Spring 2011",
+    "title": "Syrian civil war begins as part of the Arab Spring uprisings",
+    "summary": "The Syrian civil war emerged from the broader Arab Spring protests of spring 2011, with Kurds joining students, workers, and others demanding an end to Assad's repressive dictatorship.",
+    "category": "uprising",
+    "location": "Syria",
+    "people": [
+      "Bashar al-Assad"
+    ],
+    "tags": [
+      "syria",
+      "arab-spring",
+      "civil-war",
+      "kurds",
+      "rojava"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 8,
+      "quote": "The Syrian civil war began as part of the general uprisings in spring 2011 in North Africa and the Middle East that the West dubbed the “Arab Spring.”"
+    }
+  },
+  {
+    "id": "mountain-ch005-011",
+    "book": "mountain",
+    "date": {
+      "year": 2011,
+      "precision": "season"
+    },
+    "displayDate": "Autumn 2011",
+    "title": "Syrian protests turn into armed insurrection against Assad regime",
+    "summary": "By autumn 2011, the largely peaceful Arab Spring demonstrations in Syria had transformed into a full armed insurrection against the Assad dictatorship after the government sent in troops to crush the movement.",
+    "category": "uprising",
+    "location": "Syria",
+    "people": [
+      "Bashar al-Assad"
+    ],
+    "tags": [
+      "syria",
+      "civil-war",
+      "armed-insurrection",
+      "arab-spring"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 8,
+      "quote": "By autumn, the mostly peaceful protests that had taken place in the spring had morphed into a full-on armed insurrection against the Assad regime."
+    }
+  },
+  {
+    "id": "mountain-ch005-012",
+    "book": "mountain",
+    "date": {
+      "year": 2012,
+      "precision": "circa"
+    },
+    "displayDate": "circa 2012",
+    "title": "Assad grants citizenship to 200,000 stateless Kurds",
+    "summary": "As protests began, the Syrian government granted citizenship to an estimated 200,000 stateless Kurds in an attempt to neutralize potential Kurdish opposition to the Assad regime.",
+    "category": "legislation",
+    "location": "Syria",
+    "people": [
+      "Bashar al-Assad"
+    ],
+    "tags": [
+      "syria",
+      "kurds",
+      "citizenship",
+      "rojava",
+      "stateless"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 9,
+      "quote": "When the protests first began, Assad’s government finally granted citizenship to an estimated 200,000 stateless Kurds in an effort to neutralize potential Kurdish opposition."
+    }
+  },
+  {
+    "id": "mountain-ch005-013",
+    "book": "mountain",
+    "date": {
+      "year": 2012,
+      "precision": "circa"
+    },
+    "displayDate": "Early 2012",
+    "title": "Supreme Kurdish Council (SKC) formed in Rojava",
+    "summary": "In early 2012, with tensions between the PYD and KRG-aligned Kurdish parties threatening to turn violent, KRG President Massoud Barzani and PKK leaders brokered the formation of the Supreme Kurdish Council, a coalition of over fifteen political parties and hundreds of community councils.",
+    "category": "founding",
+    "location": "Rojava, Syria",
+    "people": [
+      "Massoud Barzani"
+    ],
+    "tags": [
+      "rojava",
+      "pkk",
+      "pyd",
+      "kurdistan",
+      "democratic-confederalism",
+      "skc",
+      "tev-dem"
+    ],
+    "citation": {
+      "chapter": "From Red Star to Ishtar’s Star: Departing from authoritarian communism",
+      "chapterIndex": 5,
+      "paragraphIndex": 9,
+      "quote": "In early 2012, when it looked like the tension between the two groups might result in armed conflict, the President of the KRG Massoud Barzani and leaders of the PKK brought the two groups together to form a new coalition called the Supreme Kurdish Council (SKC) made up of over fifteen political parties and hundreds of community councils."
+    }
+  },
+  {
+    "id": "mountain-ch009-002",
+    "book": "mountain",
+    "date": {
+      "year": 2012,
+      "precision": "year"
+    },
+    "displayDate": "2012",
+    "title": "PYD launches the Social Economy Plan in Rojava",
+    "summary": "In 2012, the PYD launched what it originally called the Social Economy Plan, which would later be renamed the People's Economy Plan (PEP), drawing on the writings of Öcalan and the lived experiences of Kurds in North Kurdistan.",
+    "category": "founding",
+    "location": "Rojava, Syria",
+    "people": [
+      "Öcalan"
+    ],
+    "tags": [
+      "rojava",
+      "people-s-economy",
+      "pyd",
+      "ocalan",
+      "social-economy"
+    ],
+    "citation": {
+      "chapter": "A People's Economy",
+      "chapterIndex": 9,
+      "paragraphIndex": 2,
+      "quote": "In 2012, the PYD launched what it originally called the Social Economy Plan, which would later be renamed the People's Economy Plan (PEP). The PEP was based on the writings of Öcalan and the lived experiences of Kurds in North Kurdistan (southern Turkey)."
+    }
+  },
+  {
+    "id": "mountain-ch009-003",
+    "book": "mountain",
+    "date": {
+      "year": 2012,
+      "precision": "season"
+    },
+    "displayDate": "Late 2012",
+    "title": "Traditional private property abolished in Rojava",
+    "summary": "In late 2012, the Rojava councils abolished traditional private property, placing all buildings, land, and infrastructure under council control and instituting an 'ownership by use' principle that prevented speculation and capital accumulation.",
+    "category": "legislation",
+    "location": "Rojava, Syria",
+    "people": [
+      "Öcalan"
+    ],
+    "tags": [
+      "rojava",
+      "property",
+      "commons",
+      "people-s-economy",
+      "councils"
+    ],
+    "citation": {
+      "chapter": "A People's Economy",
+      "chapterIndex": 9,
+      "paragraphIndex": 3,
+      "quote": "Traditional \"private property\" was abolished in late 2012, meaning all buildings, land, and infrastructure fell under control of the various city councils."
+    }
+  },
+  {
+    "id": "mountain-ch003-025",
+    "book": "mountain",
+    "date": {
+      "year": 2013,
+      "precision": "year"
+    },
+    "displayDate": "2013",
+    "title": "Ceasefire declared in PKK conflict with Turkey",
+    "summary": "A ceasefire was declared in 2013, ending a conflict between the PKK and Turkey that had lasted from 1984 and cost tens of thousands of lives, including a great many Kurdish civilians.",
+    "category": "other",
+    "location": "Turkey",
+    "tags": [
+      "pkk",
+      "turkey",
+      "ceasefire",
+      "kurds"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 12,
+      "quote": "Tens of thousands of people in Turkey, including a great many civilians (90% of them Kurdish), lost their lives in this conflict, which lasted until a ceasefire was declared in 2013."
+    }
+  },
+  {
+    "id": "mountain-ch003-030",
+    "book": "mountain",
+    "date": {
+      "year": 2014,
+      "precision": "year"
+    },
+    "displayDate": "Mid-2014",
+    "title": "ISIS declares itself the only legitimate Islamic Caliphate",
+    "summary": "In mid-2014, the Islamic State of Iraq and al-Sham (ISIS) declared itself the only legitimate Islamic Caliphate and renamed itself simply the Islamic State (IS), having seized large swathes of territory across Eastern Syria and Western Iraq.",
+    "category": "other",
+    "location": "Syria and Iraq",
+    "tags": [
+      "isis",
+      "islamic-state",
+      "caliphate",
+      "syria",
+      "iraq"
+    ],
+    "citation": {
+      "chapter": "The History and Context of the Rojava Revolution",
+      "chapterIndex": 3,
+      "paragraphIndex": 14,
+      "quote": "The Islamic State of Iraq and al-Sham (ISIS) declared itself to be the only legitimate Islamic Caliphate in mid-2014, going so far as to rename itself simply the Islamic State (IS)."
+    }
+  },
+  {
+    "id": "mountain-ch006-004",
+    "book": "mountain",
+    "date": {
+      "year": 2014,
+      "month": 8,
+      "precision": "month"
+    },
+    "displayDate": "August 2014",
+    "title": "Rojava regional council overruled by three local assemblies on weapons policy",
+    "summary": "In August 2014, a regional council in Rojava decided local security forces could carry weapons while patrolling a city, but three local assemblies rejected the decision, demonstrating the primacy of local councils over upper councils.",
+    "category": "other",
+    "location": "Rojava, Syria",
+    "tags": [
+      "rojava",
+      "local-councils",
+      "direct-democracy",
+      "decentralization",
+      "asayish"
+    ],
+    "citation": {
+      "chapter": "Stateless Government: Radical Democracy and Decentralization",
+      "chapterIndex": 6,
+      "paragraphIndex": 2,
+      "quote": "In August 2014, for example, a regional council decided that local security forces could carry weapons while patrolling a city, but three local assemblies did not approve this decision, so in those local assembly areas security must refrain from carrying weapons."
+    }
+  },
+  {
+    "id": "mountain-ch009-004",
+    "book": "mountain",
+    "date": {
+      "year": 2014,
+      "month": 9,
+      "precision": "season"
+    },
+    "displayDate": "Autumn 2014",
+    "title": "Rojava representatives tour Europe seeking trading partners",
+    "summary": "In autumn 2014, representatives of Rojava travelled around Europe looking to create trading partners, apparently proposing standard free-market trade arrangements even as financial institutions were being eliminated inside Rojava.",
+    "category": "other",
+    "location": "Europe",
+    "tags": [
+      "rojava",
+      "trade",
+      "embargo",
+      "diplomacy",
+      "people-s-economy"
+    ],
+    "citation": {
+      "chapter": "A People's Economy",
+      "chapterIndex": 9,
+      "paragraphIndex": 7,
+      "quote": "In Autumn, 2014, representatives of Rojava travelled around Europe looking to create \"trading partners\" and seemed to be suggesting a standard free market policy, while at the same time eliminating banks and other financial institutions inside Rojava."
+    }
+  }
+]

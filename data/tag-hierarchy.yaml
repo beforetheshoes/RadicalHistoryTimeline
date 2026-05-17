@@ -1,0 +1,121 @@
+# Tag hierarchy: parent → children. Activating a parent's cluster expands
+# to include events tagged with any descendant (transitively).
+# Canonical slugs only (post-alias).
+
+rise-of-fascism:
+  children:
+    - fascism
+    - nazism
+    - spanish-civil-war
+    - anti-fascism
+    - holocaust
+    - pogrom
+    - antisemitism
+    - reichstag-fire
+    - franco
+    - mussolini
+
+anti-fascism:
+  children:
+    - spanish-civil-war
+    - anti-nazi-resistance
+    - popular-front
+    - international-brigades
+    - cnt
+    - poum
+    - fai
+    - durruti-column
+    - militia
+
+labor-movement:
+  children:
+    - labor
+    - strike
+    - union
+    - syndicalism
+    - anarcho-syndicalism
+    - knights-of-labor
+    - iww
+    - cnt
+    - general-strike
+    - labor-organizing
+
+anarchism:
+  children:
+    - anarcho-syndicalism
+    - anarchist-press
+    - anarchist-congress
+    - mutual-aid
+    - direct-action
+    - propaganda-of-the-deed
+
+russian-revolution:
+  children:
+    - bolsheviks
+    - mensheviks
+    - kronstadt
+    - makhnovshchina
+    - soviets
+    - red-terror
+    - white-terror
+
+jewish-history:
+  children:
+    - jewish-life
+    - antisemitism
+    - pogrom
+    - holocaust
+    - bund
+    - jewish-labor-committee
+    - jewish-emigration
+    - jewish-emancipation
+
+kurdish-liberation:
+  children:
+    - rojava
+    - pkk
+    - ypg
+    - ypj
+    - kurds
+    - kurdish
+    - democratic-autonomy
+    - kobane
+    - kobanî
+    - jineology
+
+colonialism:
+  children:
+    - imperialism
+    - slavery
+    - indigenous
+    - native-americans
+    - conquest
+    - genocide
+
+state-violence:
+  children:
+    - repression
+    - massacre
+    - bombing
+    - assassination
+    - prison
+    - police-violence
+    - lynching
+    - execution
+
+uprising:
+  children:
+    - revolution
+    - rebellion
+    - revolt
+    - insurrection
+    - mutiny
+    - riot
+
+women-liberation:
+  children:
+    - women
+    - womens-suffrage
+    - feminism
+    - jineology
+    - reproductive-rights
